@@ -1,2 +1,2 @@
-# Governance
+# 治理
 

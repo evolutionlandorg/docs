@@ -2,7 +2,7 @@
 description: Frequently Asked Questions
 ---
 
-# FAQ
+# 常见问题
 
 ## Who is Eve?
 

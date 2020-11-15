@@ -1,2 +1,2 @@
-# Dividends
+# 分红
 

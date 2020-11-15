@@ -1,2 +1,2 @@
-# Equipment
+# 装备
 

@@ -1,2 +1,2 @@
-# Game Entities
+# 游戏实体
 
