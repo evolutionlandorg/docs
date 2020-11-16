@@ -6,8 +6,8 @@
 
 * [进化星球是什么？](overview/what-is-evolution-land.md)
 * [最新动态](overview/whats-new/README.md)
-  * [Treasure Box Airdrop Event](overview/whats-new/treasure-box-airdrop-event.md)
-  * [Partnership with ChainLink for Random Number Generator](overview/whats-new/partnership-with-chainlink-for-random-number-generator.md)
+  * [宝箱空投狂欢！免费赢取「限量掘金钻头」！](overview/whats-new/treasure-box-airdrop-event.md)
+  * [进化星球宣布由去中心化预言机 Chainlink VRF 支持的新使徒繁育和游戏奖励机制](overview/whats-new/partnership-with-chainlink-for-random-number-generator.md)
 * [社区](overview/community.md)
 * [反馈与帮助](overview/feedback-and-support.md)
 * [引荐计划](overview/referral-program.md)
