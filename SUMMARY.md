@@ -41,6 +41,12 @@
   * [分红](advanced/evolution-land-dao/dividends.md)
   * [治理](advanced/evolution-land-dao/governance.md)
 
+## 合作
+
+* [开发者](he-zuo/developerr.md)
+* [设计者](he-zuo/designer.md)
+* [分销商](he-zuo/distributor.md)
+
 ## Tutorials
 
 * [亚特兰蒂斯大陆 - 以太坊](tutorials/atlantis-ethereum.md)
