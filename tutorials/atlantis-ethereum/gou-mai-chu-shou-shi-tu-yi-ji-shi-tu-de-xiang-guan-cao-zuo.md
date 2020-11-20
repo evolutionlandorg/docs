@@ -1,0 +1,97 @@
+# 购买/出售使徒以及使徒的相关操作
+
+## 如何购买使徒？
+
+1. 登录进化星球点击「大陆」&gt;&gt;「亚特兰蒂斯大陆」&gt;&gt;「使徒」，玩家将看到亚特兰蒂斯大陆的全部创世使徒。
+
+ \(目前亚特兰蒂斯大陆第一批创世使徒已经全部告罄，如有需要可在后述使徒市场中购买其他玩家正在出售的使徒\)  
+
+点击使徒首页下方「更多」，将看到使徒市场：包括「所有」、「出售中」、「待相亲」以及「待招募」。
+
+![](https://lh4.googleusercontent.com/JeUtANbgL6jbkNzYSI9rlvGAM0HmWvZYV4SEhqdkpvsBQGDrWbWh4VGmeLcWlA7-jSG3Mu8NUxCA4S-StEyV2RGZhngln7H2zp1b6nz5Ceo_3XVpYf-ou3gPNAoZTHLc4ok0WHW6)
+
+* **出售中**：其他玩家正在出售的使徒，可以直接购买；
+* **待相亲**：其他玩家挂出可以与其繁殖下一代的使徒，您可以选择自己的使徒与其繁殖，繁殖后的使徒归您所有；
+* **待招募**：其他玩家挂出可以雇佣其打工的使徒，您可以雇佣该使徒在自己的地块上进行挖矿。
+
+![](https://lh4.googleusercontent.com/dsWVrse6U1FswEIovIgehasCqN1C8p2GtJyM4W4Cbh4KU2-PCfxrGYIWzi64RQz8Ot-JjJ6xK9PxAs9Ii8VZldTyjIxMnPztT-rvLXAtKKUAzQv5QIyOp0iVApJ5DnFweBa74oz6)
+
+2. 点击您想要购买的使徒，右侧弹窗下拉会显示该使徒的详细信息（包括价格、天赋、介绍、属性、父母儿女等，其中使徒的寿命是以“周”为单位）。确认信息后，玩家可以点击弹窗中的「拍卖出价」，在新的弹窗中确认订单后再次点击「拍卖出价」。
+
+ ![](https://lh6.googleusercontent.com/8jZxFkJygRGRSsHT-tsPIylf6idmf02tQnXpSREYPDiPlZRwfcCBjpDekCBxmtxNmoz54tr8uMoCk1WFniGP5fbWGmD1IxjdSn4xw98Peo5YFwOu5MqM6arijxcUQJvEbem8iT8S)![](https://lh6.googleusercontent.com/QquZ9KjSRRlCxb9ziruYe-NGT8_uCFlyi4vL_SmgIgYmohxhoHZ1ltmc2B-5W9WBRDFrwx440XC2m6ouvthzxehxAeszy_63m8GWQe9WEsoBkzI91zwW9h72jxrremAaR6Mkq09g)![](https://lh4.googleusercontent.com/ExHXd_KFW8NFN3cp7LMTlfT_LCh2bxAiJRES_MaqnqxYpCE6ANLYBIkneYHtxhUI16fuZm42VFnkmNLIHoYPBQ28ORpR_v54UwpaVhFK_SVPDsUCaj687mw-4ikKIRrGUqW26PAO)
+
+3. 此时玩家拍到的使徒将显示在「已出价」中，若10分钟内没有其他玩家以更高的价格拍下该使徒，则使徒成交，成交后的使徒会显示在“未领取”中。
+
+![](https://lh5.googleusercontent.com/7OIaJ6NRq8Tum65cW9zjZHzlNbjm-QuUPHlkPbifNAj4RsMbnb9XK3jSgGv9UW5WN6Pmte5eJhCQHYz-TqhCeY8WnvwVPe3cDrVf_iufd1Nw1FUvtRFkDzVWtAwjVQ4HJujs4pcg)
+
+## 我拍到的使徒去哪里查看？
+
+1. 玩家初次拍到的使徒将显示在「已出价」中；
+
+2. 若10分钟内没有其他玩家以更高的价格拍下该使徒，则使徒成交，此时使徒将显示在「未领取」中；
+
+3. 领取后的使徒将显示在「我的使徒」中。
+
+对应网页：[https://www.evolution.land/land/1/apostle/my](https://www.evolution.land/land/1/apostle/my)
+
+## 拍到使徒之后为什么还要领取？
+
+参与拍卖出价成功获得的使徒显示在「未领取」中，玩家需要点击「领取」将使徒与自己的以太坊地址绑定。
+
+## 使徒的操作
+
+点击使徒，会看到使徒可以进行的活动，如图所示：
+
+![](https://lh5.googleusercontent.com/iNmyeJiS8V_RMNNUfzIWXVgkzJPBy86R9GUbmencLV-eAmUL3Ae68XTbFfwkd0M2wClHlP-DS5zwvNolA9fVwBnkHLFfFch1_v-4e0I_6MAucBjl3jegF2_nHiyDF5Fr9eL-HHIU)
+
+####  
+
+**【工作】将使徒放置在自有地块上挖矿**
+
+点击「工作」，选择希望使徒工作的地块，选择希望使徒挖掘的资源，点击「确认」并等待交易确认。
+
+**【工作】停止工作**
+
+点击需要停止工作的使徒，点击「停止工作」并等待交易确认。
+
+**【出租】将使徒挂在打工市场上供他人租用以获取收入**
+
+点击出租，填写出租的单价，即XXXXRING/天，点击「确认」等待交易确认。
+
+**【出租】取消出租**
+
+如果使徒挂在待招募市场还未成功出租，可以在「使徒市场」&gt;&gt;「待招募」或「我的使徒」&gt;&gt;「待招募」中找到并选择该使徒，点击「取消」并等待交易确认。
+
+如果挂在待招募市场已成功出租，您不能取消出租，需等待使徒出租到期。
+
+**【出租】到期领取**
+
+如果您出租的使徒已到期，可以在我的使徒中找到该使徒并点击「领取」等待交易确认。（如果您到期未领取，您的使徒依然会帮租用他/她的地主继续辛勤劳作哦）
+
+**【繁殖】与自己的使徒繁殖出新的使徒**
+
+点击繁殖，选择自己的另一个使徒与其繁殖，确认无误后点击确认，此时繁殖的两个使徒会处于休息状态，具体休息时间取决于生育使徒的冷却时间，会显示在使徒下方。
+
+（目前仅支持同一种族不同性别进行繁殖）
+
+**【繁殖】领取繁殖出的新使徒**
+
+点击领取，能力提升选项为可选选项，如果您有足够的金木水火土，可以选择提升相应的能力。（是否能提升成功也有一定的概率哦）
+
+**【相亲】将使徒挂在繁殖市场，配合他人繁殖以获取收入**
+
+点击相亲，填写期望的起始价格、结束价格以及期限，点击「相亲」并等待交易确认。
+
+**【相亲】取消相亲**
+
+如果挂在相亲市场还未成功相亲，可以在使徒市场-待相亲或我的使徒-待相亲中找到并选择该使徒，点击「取消」并等待交易确认。
+
+**【出售】将使徒挂在出售市场上供他人选购**
+
+显示在我的使徒中并且没有正在进行其他活动的使徒是可以进行出售的，点击「出售」，输入期望的起始价、结束价以及期限时间后点击「出售」，当签名成功后，该使徒的状态将变为待出售，此时玩家可以在「使徒市场」&gt;&gt;「待出售」或「我的使徒」&gt;&gt;「待出售」查看该使徒。
+
+**【转让】将使徒发送到其他地址**
+
+您的使徒是可以赠送给朋友的，您可以选择希望赠送的使徒点击转让，填写想要转到的以太坊地址并等待交易确认。  
+
+

@@ -1,6 +1,6 @@
 # 分红
 
-#### **拍地分成**
+## **拍地分成**
 
 （1）每次出价都是上一次出价的 1.1 倍，不包含第一次出价。
 
@@ -14,7 +14,7 @@
 
 （6）有推荐人的情况下，推荐人的奖励是手续费的20%，剩余 80% 流向系统收入。
 
-#### **详细分析** <a id="2&#x3001;&#x8BE6;&#x7EC6;&#x5206;&#x6790;&#xFF1A;"></a>
+## **详细分析**
 
 前提条件： n &gt; 1
 
@@ -40,9 +40,7 @@
 
 ![](https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/493cf263-dcb2-4791-a974-9f0fbd3800c3.jpg?x-oss-process=image/resize,w_1920)
 
-####  
+## **举例说明**
 
-#### **举例说明**
-
-#### ![](https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/f19612eb-541a-45f4-8dcb-4ec658597b43.jpg?x-oss-process=image/resize,w_1920)
+![](../../.gitbook/assets/image%20%289%29.png)
 
