@@ -35,7 +35,7 @@ These two use cases will add an additional layer of economic incentives for play
 
 Additionally, Darwinia’s bridge protocol introduced a verification game as a sub-protocol in the system to build sub-linear chain relays. In the verification game process, the system periodically imposes forced errors in which a solver must offer a wrong solution to a task. This ensures that verifiers who diligently search for errors will eventually find them. Accordingly, Verifiers who correctly report forced errors receive substantial jackpot payouts. By design, Verifiers cannot predict when forced errors will occur and, therefore, are incentivized to check all tasks carefully. To achieve this random distribution of forced errors, Darwinia Network is researching using Chainlink VRF, and deploying it on Darwinia or providing it as Polkadot parachain/parathread cross-chain service.
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 “We’re excited to make Chainlink VRF part of Evolution Land, and believe that this integration of randomness will help us in our mission to create a complex, economically rich game experience that users can independently verify as true and unbiased,” said Denny Wang, Co-Founder of Darwinia Network.
 

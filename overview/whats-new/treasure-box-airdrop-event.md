@@ -34,7 +34,7 @@ Resource liquidity pools will be opened on Uniswap soon. The WOOD pool is alread
 
 Initially, only \[Apostles\] are deployed on the land to do the mining job. Users can now deploy drills obtained from free treasure boxes or synthesize with resources or other NFTs for a new mining tool: drilling rig, which can add POWER to mining.
 
-![](../../.gitbook/assets/iwtmbqole76jj4hi__original%20%281%29.jpg)
+![](../../.gitbook/assets/iwtmbqole76jj4hi__original%20%281%29%20%281%29.jpg)
 
 The drill can be used for mining directly, and it is the primary raw material for the synthesis of “drilling rigs”.
 
