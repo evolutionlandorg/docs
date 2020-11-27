@@ -8,9 +8,9 @@ Evolution Land consists of continents deployed on different blockchains, so firs
   <thead>
     <tr>
       <th style="text-align:left"></th>
-      <th style="text-align:left"> <b>Atlantis</b>
+      <th style="text-align:left"><b>Atlantis</b>
       </th>
-      <th style="text-align:left"> <b>Byzantine</b>
+      <th style="text-align:left"><b>Byzantine</b>
       </th>
     </tr>
   </thead>
@@ -21,7 +21,7 @@ Evolution Land consists of continents deployed on different blockchains, so firs
       <td style="text-align:left">TRON</td>
     </tr>
     <tr>
-      <td style="text-align:left">Browser Plun-ins
+      <td style="text-align:left">Browser Plugins
         <br />- Chrome
         <br />- Firefox</td>
       <td style="text-align:left">
@@ -48,9 +48,9 @@ Evolution Land consists of continents deployed on different blockchains, so firs
     </tr>
     <tr>
       <td style="text-align:left">Website</td>
-      <td style="text-align:left"> <a href="https://atlantis.evolution.land/">https://eth.evolution.land</a>
+      <td style="text-align:left"><a href="https://atlantis.evolution.land/">https://eth.evolution.land</a>
       </td>
-      <td style="text-align:left"> <a href="https://tron.evolution.land/">https://tron.evolution.land</a>
+      <td style="text-align:left"><a href="https://tron.evolution.land/">https://tron.evolution.land</a>
       </td>
     </tr>
   </tbody>
