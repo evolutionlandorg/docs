@@ -4,7 +4,7 @@ description: Want to tame a cute CryptoKitty?
 
 # Pet
 
-## How to "Pet"？
+## What is Pet?
 
 EvolutionLand introduces a feature called "Pet." It allows the Player to import ERC721 assets in foreign dApps into EvolutionLand as "Pet." The Player can use his Apostle to tame Pet. The Pet will be bound with the Apostle physically and spiritually to enhance Apostle's ability in various activities. Right now, the Apostle's mining ability will be enhanced. In future releases, Apostles' fighting skills, healing skills, etc., will be improved by carrying a pet.
 
@@ -13,6 +13,10 @@ The very first Pet will be from CryptoKitties. More ERC721 sources will be added
 EvolutionLand contract system will operate on this mirrored kitty instead of the original kitty except in one situation: if the Player is going to sell, it's reflected kitty using an auction. EvolutionLand will require the Player to transfer ownership of the original kitty to an auction contract to prevent mirrored, and the original kitty ends up with a different owner. Selling/buying Pet is not enabled and will be introduced at a later time.
 
 The Player also can "let go" the bound Pet to revert the operation or simply trying to re-tame using a different Apostle.
+
+## How to tame a Pet？
+
+
 Below are simple screenshots of how to using the "Pet" system.
 
 ![Pet Menu](../../.gitbook/assets/pet1.png)
