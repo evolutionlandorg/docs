@@ -1,4 +1,4 @@
-# Cryptocurrency Wallet?
+# Cryptocurrency Wallet
 
 ### What is a cryptocurrency wallet?
 
