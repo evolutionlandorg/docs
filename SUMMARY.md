@@ -21,7 +21,7 @@
 
 ## Getting Started
 
-* [Preparation](getting-started/quickly-learn-about-evolution-land.md)
+* [Preparation](getting-started/preparation.md)
 * [Game Entities](getting-started/game-entities/README.md)
   * [Continent](getting-started/game-entities/continent.md)
   * [Land](getting-started/game-entities/land.md)
