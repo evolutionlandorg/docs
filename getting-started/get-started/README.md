@@ -14,6 +14,6 @@ Blockchain game is quite different from traditional games we are familiar with. 
 The following topics will help you understand the game better to be good at the game and maybe make some profit.
 
 1. [Game Entities](../game-entities/): Learn about the in-game entities and objects as well as game players around them.
-2. [Ways to Play](../ways-to-play.md): To be a happy miner, smart trader, or collector, the choice is all yours.
+2. [Ways to Play](ways-to-play.md): To be a happy miner, smart trader, or collector, the choice is all yours.
 3. [Token Economy](../tokens/): The game is a simulation of the free-market economy, you work, invest, and trade.  Understand the rules and economic settings will help you do better.
 
