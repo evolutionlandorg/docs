@@ -12,7 +12,6 @@
 * [Feedback & Support](overview/feedback-and-support.md)
 * [Referral Program](overview/referral-program.md)
 * [FAQ](overview/faq/README.md)
-  * [What is a Cryptocurrency Wallet?](overview/faq/wallets.md)
   * [What is the token economics of Evolution Land?](overview/faq/what-is-the-token-economics-of-evolution-land.md)
   * [Possible problems and solutions for【land】](overview/faq/possible-problems-and-solutions-for-land.md)
   * [Possible problems and solutions for【apostle】](overview/faq/possible-problems-and-solutions-for-apostle.md)
@@ -21,7 +20,10 @@
 
 ## Getting Started
 
-* [Preparation](getting-started/preparation.md)
+* [Get Started](getting-started/get-started/README.md)
+  * [Preparation](getting-started/get-started/preparation.md)
+  * [Cryptocurrency Wallet?](getting-started/get-started/wallets.md)
+  * [Gas and Fees](getting-started/get-started/gas-and-fees.md)
 * [Game Entities](getting-started/game-entities/README.md)
   * [Continent](getting-started/game-entities/continent.md)
   * [Land](getting-started/game-entities/land.md)
@@ -29,6 +31,7 @@
   * [Resource](getting-started/game-entities/resource.md)
   * [Pet](getting-started/game-entities/pet.md)
   * [Equipment](getting-started/game-entities/equipment.md)
+* [Ways to Play](getting-started/ways-to-play.md)
 * [Tokens](getting-started/tokens/README.md)
   * [RING](getting-started/tokens/ring.md)
   * [KTON](getting-started/tokens/kton.md)
