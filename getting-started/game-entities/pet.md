@@ -1,48 +1,49 @@
 ---
-description: Want to tame a CryptoKitty?
+description: Want to tame a cute CryptoKitty?
 ---
 
 # Pet
 
-## How to "Pet" ？
+## How to "Pet"？
 
-EvolutionLand is introducing a new feature called "Pet".  It allows player to import ERC721 asset in foreign dApps into EvolutionLand as "Pet".  Player can use it's apostle \(user avatar\) to tame pet and the pet will be bound with the apostle physically and spiritually so that apostle's ability in various activities will be enhanced.  Right now, apostle's mining ability will be enhanced since this is the first and the only profession available. In future releases, apostles' fighting skills, healing abilities etc will be enhanced by carrying a pet as well.
+EvolutionLand introduces a feature called "Pet." It allows the Player to import ERC721 assets in foreign dApps into EvolutionLand as "Pet." The Player can use his Apostle to tame Pet. The Pet will be bound with the Apostle physically and spiritually to enhance Apostle's ability in various activities. Right now, the Apostle's mining ability will be enhanced. In future releases, Apostles' fighting skills, healing skills, etc., will be improved by carrying a pet.
 
-The very first Pet will be from CryptoKitties.  More ERC721 sources will be added so that player have more choices. Player go to "My Pets" section and only CryptoKitties owned by player's address will be displayed and player are able to perform further "Tame" action.  Tame in technical sense, player is required to sign a transaction in which a mirror Crypto Kitty is generated and bind to player's apostle at choice. That requires to verify player is signing the tx using the same address as the Crypto Kitty's owner, which means you won't be able to tame other people's kitties.  EvolutionLand contract system will operate on this mirrored kitty instead of original kitty except one situation that is if player is going to sell it's mirrored kitty using auction. EvolutionLand will require player to transfer ownership of original kitty to auction contract to prevent mirrored and original kitty ending up with different owner.  Selling/buying pet is not enabled and will be introduced in later time.
+The very first Pet will be from CryptoKitties. More ERC721 sources will be added so that players have more choices. Player go to "My Pets" section, and only CryptoKitties owned by Player's address will be displayed, and the Player can perform further "Tame" action. Tame, in a technical sense, is that the Player signs a transaction in which a mirror Crypto Kitty is generated and bind to the Player's Apostle at choice. This process verifies Player who signs the Tx is the Crypto Kitty's owner. It means you won't be able to tame other people's kitties. 
 
-Player also have the ability to "let go" the bound pet to revert the operation or simply trying to re-tame using a different apostle.
+EvolutionLand contract system will operate on this mirrored kitty instead of the original kitty except in one situation: if the Player is going to sell, it's reflected kitty using an auction. EvolutionLand will require the Player to transfer ownership of the original kitty to an auction contract to prevent mirrored, and the original kitty ends up with a different owner. Selling/buying Pet is not enabled and will be introduced at a later time.
 
-Below are simple screen shots of how to using "Pet" system.
+The Player also can "let go" the bound Pet to revert the operation or simply trying to re-tame using a different Apostle.
+Below are simple screenshots of how to using the "Pet" system.
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![Pet Menu](../../.gitbook/assets/pet1.png)
 
 Select "My Pets" from menu to access
 
-![select\_ck.png](https://evolutionland.zendesk.com/hc/article_attachments/360026883393/select_ck.png)
+![Select a CryptoKitty](../../.gitbook/assets/pet2.png)
 
 Select Pet Source and Kitty.  Only kitties owned by player's signed in address will be shown.  Click on the kitty to tame.
 
-![select\_master\_apostle.png](https://evolutionland.zendesk.com/hc/article_attachments/360026013014/select_master_apostle.png)
+![Choose the Apostle to bind with](../../.gitbook/assets/pet3.png)
 
 Select a Apostle Master to bound the selected kitty to.
 
-![unnamed.png](https://evolutionland.zendesk.com/hc/article_attachments/360026883733/unnamed.png)![image.png](https://evolutionland.zendesk.com/hc/article_attachments/360026013194/image.png)
+![Tx waiting](../../.gitbook/assets/pet4.png)
 
 Waiting for transaction to be confirmed
 
-![ck\_pet\_tamed.png](https://evolutionland.zendesk.com/hc/article_attachments/360026883893/ck_pet_tamed.png)
+![Tx confirmed](../../.gitbook/assets/pet5.png)
 
 Kitty Tamed!  Kitty's status is updated.
 
-![apostle\_with\_pet\_list.png](https://evolutionland.zendesk.com/hc/article_attachments/360026013234/apostle_with_pet_list.png)
+![They are together now](../../.gitbook/assets/pet6.png)
 
 Apostle with Pet in list view.
 
-![apostle\_with\_pet\_detail.png](https://evolutionland.zendesk.com/hc/article_attachments/360026883973/apostle_with_pet_detail.png)
+![Apostle's View](../../.gitbook/assets/pet7.png)
 
 Apostle with Pet in detail view.
 
-![mining\_enhanced.png](https://evolutionland.zendesk.com/hc/article_attachments/360026013314/mining_enhanced.png)
+![Mining Enhanced](../../.gitbook/assets/pet8.png)
 
 Mining Ability Enhanced.  Apostle with pet has better minging output than without.
 
