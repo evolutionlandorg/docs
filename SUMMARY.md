@@ -4,8 +4,7 @@
 
 ## Overview
 
-* [What is Evolution Land](overview/what-is-evolution-land/README.md)
-  * [Quickly learn about Evolution Land](overview/what-is-evolution-land/quickly-learn-about-evolution-land.md)
+* [What is Evolution Land](overview/what-is-evolution-land.md)
 * [What's New](overview/whats-new/README.md)
   * [Treasure box lucky drop. Win free limited mining drill!](overview/whats-new/treasure-box-airdrop-event.md)
   * [Evolution Land Announces New Breeding And Reward Mechanics Powered By Chainlink VRF](overview/whats-new/partnership-with-chainlink-for-random-number-generator.md)
@@ -13,6 +12,7 @@
 * [Feedback & Support](overview/feedback-and-support.md)
 * [Referral Program](overview/referral-program.md)
 * [FAQ](overview/faq/README.md)
+  * [What is a Cryptocurrency Wallet?](overview/faq/wallets.md)
   * [What is the token economics of Evolution Land?](overview/faq/what-is-the-token-economics-of-evolution-land.md)
   * [Possible problems and solutions for【land】](overview/faq/possible-problems-and-solutions-for-land.md)
   * [Possible problems and solutions for【apostle】](overview/faq/possible-problems-and-solutions-for-apostle.md)
@@ -21,7 +21,7 @@
 
 ## Getting Started
 
-* [Wallets](getting-started/wallets.md)
+* [Preparation](getting-started/quickly-learn-about-evolution-land.md)
 * [Game Entities](getting-started/game-entities/README.md)
   * [Continent](getting-started/game-entities/continent.md)
   * [Land](getting-started/game-entities/land.md)
