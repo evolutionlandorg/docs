@@ -1,3 +1,7 @@
+---
+description: Want to tame a CryptoKitty?
+---
+
 # Pet
 
 ## How to "Pet" ？
