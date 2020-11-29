@@ -4,7 +4,7 @@
 
 Apostles have gene-decided talent attributes, as shown in the image below. These talents decide how efficiently the Apostle can perform a task, that is, the base productivity. For example, when mining, `Strength` (the higher, the better) and `Intelligence` (the lower, the better) affect the base productivity much more than other talents. Various work or tasks requires different talent sets.
 
-![apostle-talents](../../../.gitbook/assets/apostle-talents.png)
+![Apostle Talents](../../../.gitbook/assets/apostle-talents.png)
 
 Regular Talent Gene:
 

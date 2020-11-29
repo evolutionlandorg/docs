@@ -14,7 +14,7 @@ Below is a female human Apostle that resides on the Atlantis continent (Ethereum
 
 Below is a male alien Apostle that resides on the Byzantine continent (Tron).  He is generation 6.
 
-![apostle-talents](../../../.gitbook/assets/apostle-talents.png)
+![Apostle Talents](../../../.gitbook/assets/apostle-talents.png)
 
 ## Traits
 

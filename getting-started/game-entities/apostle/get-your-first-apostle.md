@@ -1,12 +1,11 @@
 # Get your first Apostle
 
+The main ways to obtain Apostles are as follows:
 
-
-- 使徒的获得途径主要有以下几种：
-- 通过系统初代使徒拍卖获得
-- 通过使徒间生育繁衍获得
-- 通过使徒市场从其他玩家出购买获得
-- 由其他玩家赠送通过
-- 购买宝箱随机获得
-- 通过战斗、博弈从其他玩家出获得
-- 其他用户的使徒进入寿命延续阶段，购买获得
+- Obtained through the system's first-generation Apostle auction
+- Obtained by breeding among the Apostles
+- Purchase from other players through the Apostle Market
+- Gifted by other players
+- Randomly obtained by opening treasure chests
+- Won from other players through battles and games
+- The Apostles of other users' enter the life-extension stage, buy them

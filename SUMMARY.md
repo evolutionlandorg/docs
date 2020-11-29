@@ -34,7 +34,7 @@
     * [Genome](getting-started/game-entities/apostle/genome.md)
     * [Breed](getting-started/game-entities/apostle/breed.md)
     * [Skills](getting-started/game-entities/apostle/skills.md)
-    * [Population](getting-started/game-entities/apostle/populatioon.md)
+    * [Population](getting-started/game-entities/apostle/population.md)
     * [Get Your First Apostle](getting-started/game-entities/apostle/get-your-first-apostle.md)
   * [Resource](getting-started/game-entities/resource.md)
   * [Pet](getting-started/game-entities/pet.md)
