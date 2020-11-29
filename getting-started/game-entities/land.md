@@ -8,7 +8,15 @@ LAND has five resource reserves that can be mined indicated as number called Max
 
 In the Land diagram above, `90,-7` is the coordinates of this land, `B769` stands for continent B (Byzantine), `land id` is `769`.  On the right side, fives resource MRAR is listed. They are GOLD, WOOD, HHO, FIRE, SIOO.  The higher the reserve, the easier you can mine, and the higher the ceiling you might reach.
 
-## Switch views
+## Ownership
+
+The Land is an NFT (non-fungible token, ERC721). When you purchased a Land, the Land NFT token is transferred to your wallet address from the marketplace (a smart-contract auction, for example). From now on, you are the sole owner of this Land. You can transfer it to another player as a gift or a third-party exchange.  All these actions need to be initiated from your wallet with your permission.
+
+## Mining Pool
+
+From the perspective of a DeFi user, each Land is a mining pool with a unique reserve. You work on it by deploying Apostles, Equipment to mine as many resources from it. The reward you get is resources. Apart from trading those resources, they are useful and demanded by other game players who need them to forge pieces of equipment or construct buildings.
+
+## Switch Land Views
 
 At the left bottom of the map, there's an `question mark` icon allow you to switch land view.
 
