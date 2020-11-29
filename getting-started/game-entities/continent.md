@@ -6,19 +6,21 @@ Continents will evolve into a separate but related economic entity, somewhat lik
 
 To access each continent, you will need a proper toolset, such as wallets supporting the continent's underlying blockchain environment.
 
-The continents will be launched one by one. Two continents exist today, they are: 
+The continents will be launched one by one. Two continents exist today, they are:
 
-- **the [Atlantis](https://www.evolution.land/land/1)** (Ethereum) 
-  ![Atlantis](../../.gitbook/assets/continent-atlantis.png)
-  
-- **the [Byzantine](https://www.evolution.land/land/2)** (TRON)
-  ![Atlantis](../../.gitbook/assets/continent-byzantine.png)
+* **the** [**Atlantis**](https://www.evolution.land/land/1) \(Ethereum\) 
+* **the** [**Byzantine**](https://www.evolution.land/land/2) \(TRON\) 
+
+![Atlantis](../../.gitbook/assets/continent-atlantis.png)
+
+![Byzantine](../../.gitbook/assets/continent-byzantine.png)
 
 New continents are being planned. These are the candidate blockchains that we are evaluating according to their **user base**, **dapp prosperity**, **smart contract compatibility,** and **gas fee**.
 
-- Binance Smart Chain
-- Darwinia Crab Network
-- Darwinia Network
-- EOS
+* Binance Smart Chain
+* Darwinia Crab Network
+* Darwinia Network
+* EOS
 
 If you have an excellent public blockchain you think suitable to host another continent, let us know.
+
