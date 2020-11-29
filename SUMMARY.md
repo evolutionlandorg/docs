@@ -26,6 +26,7 @@
   * [Gas and Fees](getting-started/get-started/gas-and-fees.md)
   * [Ways to Play](getting-started/get-started/ways-to-play.md)
 * [Game Entities](getting-started/game-entities/README.md)
+  * [World](getting-started/game-entities/world.md)
   * [Continent](getting-started/game-entities/continent.md)
   * [Land](getting-started/game-entities/land.md)
   * [Apostle](getting-started/game-entities/apostle.md)
