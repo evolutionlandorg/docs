@@ -18,7 +18,7 @@ RING is the system token in Evolution Land, which serves as the unit of pricing 
 
 At present, the RING on Atlantis and the RING on Byzantine are not universal. After the Darwin network was officially released, RING could be used universally.
 
-##  **What is the unclaimed RING ?**
+## **What is the unclaimed RING ?**
 
 Click on the avatar. In "My Assets", you can find "Unclaimed XXXX". The RING here represents the reward that the system issued to you. The source may be KTON dividend, airdrops, rewards, etc., which can be viewed in the "Channel Records".
 

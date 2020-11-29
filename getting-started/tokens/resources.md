@@ -8,3 +8,13 @@ There are more gold near the mine, more wood near the forest, more water near th
 
 These five resources are also five tokens. Building house or props will consume one or several kinds of these five resources. 
 
+### GOLD
+
+### WOOD
+
+### HOO
+
+### FIRE
+
+### SIOO
+

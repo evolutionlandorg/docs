@@ -29,7 +29,7 @@
   * [World](getting-started/game-entities/world.md)
   * [Continent](getting-started/game-entities/continent.md)
   * [Land](getting-started/game-entities/land.md)
-  * [Apostle](getting-started/game-entities/apostle.md)
+  * [Apostle](getting-started/game-entities/apostle/README.md)
     * [Gameplay](getting-started/game-entities/apostle/gameplay.md)
     * [Genome](getting-started/game-entities/apostle/genome.md)
     * [Breed](getting-started/game-entities/apostle/breed.md)

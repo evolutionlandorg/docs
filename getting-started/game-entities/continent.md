@@ -1,6 +1,6 @@
 # Continent
 
-Evolution Land is logically divided into 26 continents, each of which is deployed on a different blockchain. Each continent will have around 2025 lands. Total resource reserves are determined randomly when a continent is created and will not change afterward.
+Evolution Land is logically divided into 26 continents, each of which is deployed on a different blockchain. Each continent will have around 2025 [lands](land.md). Total resource reserves are determined randomly when a continent is created and will not change afterward.
 
 Continents will evolve into a separate but related economic entity, somewhat like countries. In-game currency tokens, resources, and props shall be moved between continents as inter-continent trade, although the continent governance council may charge inter-continent trade tariffs. This inter-continent transaction is technically cross-chain transactions. Evolution Land will rely on Darwinia Network's Heterogeneous Cross Chain bridges to accomplish this.
 

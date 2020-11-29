@@ -20,19 +20,19 @@ Below are simple screenshots of how to using the "Pet" system.
 
 ![Pet Menu](../../.gitbook/assets/pet1.png)
 
-Select "My Pets" from menu to access
+Select "My Pets" from the menu to access
 
 ![Select a CryptoKitty](../../.gitbook/assets/pet2.png)
 
-Select Pet Source and Kitty. Only kitties owned by player's signed in address will be shown. Click on the kitty to tame.
+Select Pet Source and Kitty. Only kitties owned by the player's signed-in address will be shown. Click on the kitty to tame.
 
 ![Choose the Apostle to bind with](../../.gitbook/assets/pet3.png)
 
-Select a Apostle Master to bound the selected kitty to.
+Select an Apostle Master to bound the selected Kitty.
 
 ![Tx waiting](../../.gitbook/assets/pet4.png)
 
-Waiting for transaction to be confirmed
+Waiting for the transaction to be confirmed
 
 ![Tx confirmed](../../.gitbook/assets/pet5.png)
 
@@ -48,5 +48,5 @@ Apostle with Pet in detail view.
 
 ![Mining Enhanced](../../.gitbook/assets/pet8.png)
 
-Mining Ability Enhanced. Apostle with pet has better minging output than without.
+[Mining Ability Enhanced](apostle/skills.md#productivity). Apostle with a pet has better minging output than without.
 
