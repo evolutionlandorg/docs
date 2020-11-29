@@ -9,7 +9,10 @@ To access each continent, you will need a proper toolset, such as wallets suppor
 The continents will be launched one by one. Two continents exist today, they are: 
 
 - **the [Atlantis](https://www.evolution.land/land/1)** (Ethereum) 
+  ![Atlantis](../../.gitbook/assets/continent-atlantis.png)
+  
 - **the [Byzantine](https://www.evolution.land/land/2)** (TRON)
+  ![Atlantis](../../.gitbook/assets/continent-byzantine.png)
 
 New continents are being planned. These are the candidate blockchains that we are evaluating according to their **user base**, **dapp prosperity**, **smart contract compatibility,** and **gas fee**.
 
