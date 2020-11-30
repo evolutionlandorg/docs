@@ -1,36 +1,84 @@
 # RING
 
-## **RING**
+## Usage
 
-The system token in Evolution Land is called RING \(full name is Evolution Land Global Token\). In the first continent, the initial supply volume is 2 billion, and the maximum supply volume is 10 billion. RING will be used to pay for operator fees in the systems and network in Evolution Land and smart contract fuel costs. Likewise, Trading of various elemental resources, lands, buildings and props will also use RING as a pricing unit. At the same time, by holding assets such as RING and land parcels, you will be able to participate in the governance and voting of the Evolution Land, and determine the direction and progress of the development of the continent.
+In Evolution Land, RING is used as currency to pay for service fees, trading taxes. Likewise, trading various resources, lands, buildings, and props will also use the RING as the accounting unit. Game revenue sharing is also distributed in RING. In short, the RING is the money; players use it to pay for services and taxes, buy goods, and receive payroll.
 
- RING has a total cap of 10 billion \(pieces\). Except that 20% of total will be issued in the mainland \(\#A\), the subsequent issuing will commence through the opening of the major continents.
+## Background of RING 
 
-![](https://evolutionland.zendesk.com/hc/article_attachments/360023273214/mceclip0.png)
+RING is the native token of the Darwinia Network. Evolution Land, as the flagship dApp, is using RING as an in-game currency. RING resides in various blockchain networks in different token specifications. On Ethereum, RING follows ERC20 spec, on TRON, RING follows TRX20 spec, and on Darwinia Network, RING stays as a native token. The initial supply of RING is 2 billion (all RING on various blockchain network sum up). Due to the Darwinia Network's nature being a cross-chain bridge hub chain, RING and other tokens can move between blockchains in a decentralized fashion.  Check out this doc for [more information](https://docs.darwinia.network/docs/en/wiki-us-tokens) about RING on Darwinia Network's documentation site.
 
-####  
+RING is inflated at a rate of around 5% by the Darwinia Network to pay validators and nominators for validating and producing blocks. RING has a hard cap of 10 billion to be reached in 50 years at the current rate. 
 
-## **Value of RING** 
+## RING Specification
 
-RING is the system token in Evolution Land, which serves as the unit of pricing and the base currency in the game. It will be used to pay for operational fees and smart contract fuels in the Evolution Land system and network. The trading and purchase of various element resources, lands, buildings and props will also use RING as the unit of pricing, which is the most liquid currency in the game. To speak frankly, it’s the money in the game. Players may get RING from work or sale of resources, which can be used to purchase the required supplies. System revenue of the game is also allocated by RING. 
+- Ethereum (the Atlantis Continent)
+  - Spec: `ERC20`
+  - Precision: `18`
+  - Smart Contract Address (Ethereum): `0x9469d013805bffb7d3debe5e7839237e535ec483`
+- Tron
+  - Spec: `TRC20`
+  - Precision: `18`
+  - Smart Contract Address (Tron): `TL175uyihLqQD656aFx3uhHYe1tyGkmXaW`
+- Darwinia Mainnet
+  - Spec: Native
+  - Precision: 9
+  - Smart Contract Address: n/a
 
-## **IS RING on different continents universal?**
+## FAQ
 
-At present, the RING on Atlantis and the RING on Byzantine are not universal. After the Darwin network was officially released, RING could be used universally.
+### IS RING on different continents universal?
 
-## **What is the unclaimed RING ?**
+Yes, RING on various blockchain networks is of the same value. They are all backed by native token on Darwinia Network. Using Darwinia Network's decentralized bridge (Cryptocurrency Backing Model), native RING can go over the bridge to other blockchain networks and back. Due to the progressive release of the bridges between blockchains, the current landscape is as following:
 
-Click on the avatar. In "My Assets", you can find "Unclaimed XXXX". The RING here represents the reward that the system issued to you. The source may be KTON dividend, airdrops, rewards, etc., which can be viewed in the "Channel Records".
+- Ethereum -> Darwinia Network Bridge: Open
+- Darwinia Network -> Ethereum Bridge: Soon
+- Ethereum <-> Tron Bi-directional Bridge: Open (PoA model)
 
-Click "Claim" to send the transaction to receive RING.
+### How to buy/sell RING?
 
-![](https://evolutionland.zendesk.com/hc/article_attachments/360024221113/mceclip0.png)
+You can buy or sell RING through these channels:
 
-## **How to buy/sell RING?**
+#### Gringott Bank
 
-The buy/sell method of RING in different continents is slightly different. Please refer to the relevant link for details:
+Gringott Bank is the in-game bank that allows you to buy or sell RING using the network's native token, such as ETH or TRX, according to the continent you are on, whether it's Atlantis (ETH) or Byzantine (TRX). Behind the scene, Gringott Bank links to a liquidity pool, Uniswap (Atlantis) and Justswap (Byzantine), to provide the liquidity.
 
-Atlantis \(ETH Network\): [https://www.evolution.land/land/1/bank/buy-ring](https://www.evolution.land/land/1/bank/buy-ring)
+- ![Gringott](../../.gitbook/assets/gringott.png)[Gringott Bank on the Atlantis Continent (Ethereum)](https://www.evolution.land/land/1/bank/buy-ring)
+- ![Gringott](../../.gitbook/assets/gringott.png)[Gringott Bank on the Byzantine Continent (Tron)](https://www.evolution.land/land/2/bank/buy-ring)
 
-Byzantine \(TRON Network\): 
+#### DEX
+
+DEX stands for Decentralized Exchange, you can use your cryptocurrency wallet to buy or sell directly.  
+
+On Atlantis Continent (Ethereum):
+
+- Uniswap(v2): [RING/ETH](https://info.uniswap.org/token/0x9469d013805bffb7d3debe5e7839237e535ec483)
+- 1inch Exchange: [RING/ETH](https://1inch.exchange/#/RING/ETH)
+
+On the Byzantine Continent (Tron):
+
+- Justswap: [RING/TRX](https://justswap.io/#/scan/detail/trx/TL175uyihLqQD656aFx3uhHYe1tyGkmXaW)
+
+#### CEX
+
+CEX stands for Centralized Exchnge.  You can also buy or sell RING at many CEX, the following list shows a few, you can check out [coinmarketcap](https://coinmarketcap.com/currencies/darwinia-network/markets/) for more information.
+
+- [Huobi Global](https://www.hbg.com/en-us/exchange/ring_usdt)
+- [BKEX](https://www.bkex.com/trade/RING_USDT)
+- [MXC.com](https://www.mxc.com/trade/easy#RING_USDT)
+- [Hotbit](https://www.hotbit.io/exchange?symbol=RING_USDT)
+- [Gate.io](https://gate.io/trade/ring_usdt)
+- [CoinEX](https://www.coinex.com/trading?currency=usdt&dest=ring&tab=limit)
+- [Poloniex](https://poloniex.com/exchange#usdt_ring)
+- [Hoo](https://hoo.com/spot/ring-usdt)
+
+### What is the unclaimed RING ?
+
+In "My Assets," you can find "Unclaimed XXX." The RING here represents the reward you are entitled to, yet you haven't claimed. The XXX may be KTON dividend, RING/Treasure Chest airdrops, bonuses, etc., which can be viewed in the "Channel Records."
+
+Click "Claim" to issue a transaction to claim your RING or other rewards to your wallet.
+
+![Claim RING](../../.gitbook/assets/unclaimed-ring.png)
+
+### 
 
