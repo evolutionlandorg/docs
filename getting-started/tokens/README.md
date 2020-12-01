@@ -9,7 +9,7 @@ Evolution Land is a wonderland full of tokens. All properties are represented by
 
 |                Token Icon                 | Property Name |
 | :---------------------------------------: | :------------- |
-| ![RING](../../.gitbook/assets/ringicon.png)  | [RING](ring.md) |
+| ![RING](../../.gitbook/assets/ringIcon.png) | [RING](ring.md) |
 | ![KTON](../../.gitbook/assets/ktonicon.png)  | [KTON](kton.md) |
 | ![GOLD](../../.gitbook/assets/goldicon.png)  | [GOLD](resource.md) |
 | ![WOOD](../../.gitbook/assets/woodicon.png)  | [WOOD](resource.md) |
