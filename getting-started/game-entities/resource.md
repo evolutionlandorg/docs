@@ -35,4 +35,4 @@ These five resources are also five tokens. Building a house or props will consum
 
 ## Specifications
 
-Check out [resource token specifications](../tokens/resource.md).
+Check out [resource token specifications](/getting-started/tokens/resource.md).

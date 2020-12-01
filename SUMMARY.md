@@ -37,6 +37,7 @@
     * [Population](getting-started/game-entities/apostle/population.md)
     * [Get Your First Apostle](getting-started/game-entities/apostle/get-your-first-apostle.md)
   * [Resource](getting-started/game-entities/resource.md)
+    * [Attenuation](getting-started/game-entities/attenuation.md)
   * [Pet](getting-started/game-entities/pet.md)
   * [Equipment](getting-started/game-entities/equipment.md)
 * [Tokens](getting-started/tokens/README.md)
