@@ -11,7 +11,7 @@ Resource is standard fungible token (ERC20/TRC20).  You can find their smart con
 - Tron (the Byzantine Continent)
   - Spec: `TRC20`
   - Precision: `18`
-  - Smart Contract Address (Tron): `fill in`
+  - Smart Contract Address (Tron): `TCA6c9DLYKX4QTPL5pfCBkJqrJJ9DdVM4S`
 
 ### WOOD
 
@@ -22,7 +22,7 @@ Resource is standard fungible token (ERC20/TRC20).  You can find their smart con
 - Tron (the Byzantine Continent)
   - Spec: `TRC20`
   - Precision: `18`
-  - Smart Contract Address (Tron): `fill in`
+  - Smart Contract Address (Tron): `TGuGnbnUAao1Rqp7W4SWJdbT25onnJ3oy2`
 
 ### HOO
 
@@ -33,7 +33,7 @@ Resource is standard fungible token (ERC20/TRC20).  You can find their smart con
 - Tron (the Byzantine Continent)
   - Spec: `TRC20`
   - Precision: `18`
-  - Smart Contract Address (Tron): `fill in`
+  - Smart Contract Address (Tron): `TNGkC4xUSAyWaiJu3tu7EmgqUtvR45jTFG`
 
 ### FIRE
 
@@ -44,7 +44,7 @@ Resource is standard fungible token (ERC20/TRC20).  You can find their smart con
 - Tron (the Byzantine Continent)
   - Spec: `TRC20`
   - Precision: `18`
-  - Smart Contract Address (Tron): `fill in`
+  - Smart Contract Address (Tron): `TSxvo3HsdfWpg1Z6KGrLa14Ap56aFKk1bz`
 
 ### SIOO
 
@@ -55,5 +55,5 @@ Resource is standard fungible token (ERC20/TRC20).  You can find their smart con
 - Tron (the Byzantine Continent)
   - Spec: `TRC20`
   - Precision: `18`
-  - Smart Contract Address (Tron): `fill in`
+  - Smart Contract Address (Tron): `TQZDHQw6evUsACqT14pCVMvbTXMZbarFtt`
 
