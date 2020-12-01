@@ -1,8 +1,6 @@
 # COO
 
-## **What's COO?**
-
-COO is a highly-available resource like the oxygen we breathe. In the context of the Evolution Land, the apostle \(the player's in-game representative\) needs COO to survive on the planet. Users can get the resource through some simple operations such as log in to the game frequently. Many of the primary activities in the game require only COO, which is mainly for some players looking for fun, or for those who come around for a chance to experience the game.
+COO is a highly-available resource like the oxygen we breathe. In the Evolution Land context, the [Apostle](/getting-started/game-entities/apostle.md) (the player's in-game representative) needs some COO to survive on the planet. Users can get the resource through some simple operations such as login into the game frequently. Many of the game's primary activities require only some COO, mainly for some players looking for fun or for those who come around to experience the game.
 
 ## **How to get COO?**
 
@@ -12,5 +10,5 @@ COO is a highly-available resource like the oxygen we breathe. In the context of
 
 ## **Can COO be traded on the blockchain?**
 
-Sorry, COO can't be traded on the blockchain. COO can't be transferred，and it can only be consumed in-game.
+No, COO can't be traded on the blockchain, and they can't be transferred. It can only be consumed in the game.
 
