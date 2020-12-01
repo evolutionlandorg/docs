@@ -16,7 +16,7 @@ RING is inflated at a rate of around 5% by the Darwinia Network to pay validator
   - Spec: `ERC20`
   - Precision: `18`
   - Smart Contract Address (Ethereum): `0x9469d013805bffb7d3debe5e7839237e535ec483`
-- Tron
+- Tron (the Byzantine Continent)
   - Spec: `TRC20`
   - Precision: `18`
   - Smart Contract Address (Tron): `TL175uyihLqQD656aFx3uhHYe1tyGkmXaW`

@@ -18,7 +18,7 @@ Due to KTON holders' nature being the long-term investors or those who would pay
   - Spec: `ERC20`
   - Precision: `18`
   - Smart Contract Address (Ethereum): `0x9f284e1337a815fe77d2ff4ae46544645b20c5ff`
-- Tron
+- Tron (the Byzantine Continent)
   - Spec: `TRC20`
   - Precision: `18`
   - Smart Contract Address (Tron): `TW3kTpVtYYQ5Ka1awZvLb9Yy6ZTDEC93dC`
