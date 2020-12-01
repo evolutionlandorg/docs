@@ -42,7 +42,7 @@
 * [Tokens](getting-started/tokens/README.md)
   * [RING](getting-started/tokens/ring.md)
   * [KTON](getting-started/tokens/kton.md)
-  * [Resource](getting-started/tokens/resources.md)
+  * [Resource](getting-started/tokens/resource.md)
   * [COO](getting-started/tokens/coo.md)
 
 ## Advanced
