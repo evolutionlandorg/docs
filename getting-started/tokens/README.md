@@ -24,8 +24,8 @@ Below are some sample categories of NFTs.
 |                Token Icon                 | Property Name |
 | :---------------------------------------: | :------------- |
 | ![LAND](../../.gitbook/assets/nft-land.png)  | [LAND](/getting-started/game-entities/land.md) |
-| ![FEMALE APOSTLE](../../.gitbook/assets/nft-apostle-female.png)  | [APOSTLE](/getting-started/game-entities/apostle.md) |
-| ![MALE APOSTLE](../../.gitbook/assets/nft-apostle-male.png)  | [APOSTLE](/getting-started/game-entities/apostle.md) |
+| ![FEMALE APOSTLE](../../.gitbook/assets/nft-apostle-female.png)  | [APOSTLE](/getting-started/game-entities/apostle) |
+| ![MALE APOSTLE](../../.gitbook/assets/nft-apostle-male.png)  | [APOSTLE](/getting-started/game-entities/apostle/) |
 | ![DRILL1](../../.gitbook/assets/nft-drill1.png)  | DRILL lv1 |
 | ![DRILL2](../../.gitbook/assets/nft-drill2.png) | [DRILL lv2 |
 | ![DRILL3](../../.gitbook/assets/nft-drill3.png) | [DRILL lv3 |
