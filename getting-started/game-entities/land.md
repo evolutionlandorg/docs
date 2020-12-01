@@ -6,7 +6,7 @@ LAND has five [resource](resource.md) reserves that can be mined indicated as a 
 
 ![Land Resource Reserves](../../.gitbook/assets/land-resource.png)
 
-In the Land diagram above, `90,-7` are the coordinates of this land, `B769` stands for continent B \(Byzantine\), `land id` is `769`. On the right side, fives resource MRAR is listed. They are [GOLD](../tokens/resources.md#gold), [WOOD](../tokens/resources.md#wood), [HHO](../tokens/resources.md#hoo), [FIRE](../tokens/resources.md#fire), [SIOO](../tokens/resources.md#sioo). The higher the reserve, the easier you can mine, and the higher the ceiling you might reach.
+In the Land diagram above, `90,-7` are the coordinates of this land, `B769` stands for continent B \(Byzantine\), `land id` is `769`. On the right side, fives resource MRAR is listed. They are [GOLD](resource.md), [WOOD](resource.md), [HHO](resource.md), [FIRE](resource.md), [SIOO](resource.md). The higher the reserve, the easier you can mine, and the higher the ceiling you might reach.
 
 ## Ownership
 
