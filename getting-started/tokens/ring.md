@@ -48,7 +48,7 @@ Gringott Bank is the in-game bank that allows you to buy or sell RING using the 
 
 #### DEX
 
-DEX stands for Decentralized Exchange, you can use your cryptocurrency wallet to buy or sell directly.  
+DEX stands for Decentralized Exchange.  You can use your cryptocurrency wallet to buy or sell directly.  
 
 On Atlantis Continent (Ethereum):
 
@@ -61,7 +61,7 @@ On the Byzantine Continent (Tron):
 
 #### CEX
 
-CEX stands for Centralized Exchnge.  You can also buy or sell RING at many CEX, the following list shows a few, you can check out [coinmarketcap](https://coinmarketcap.com/currencies/darwinia-network/markets/) for more information.
+CEX stands for Centralized Exchange.  You can also buy or sell RING at many CEX.  The following list shows a few.  You can check out [coinmarketcap](https://coinmarketcap.com/currencies/darwinia-network/markets/) for more information.
 
 - [Huobi Global](https://www.hbg.com/en-us/exchange/ring_usdt)
 - [BKEX](https://www.bkex.com/trade/RING_USDT)
@@ -72,7 +72,7 @@ CEX stands for Centralized Exchnge.  You can also buy or sell RING at many CEX, 
 - [Poloniex](https://poloniex.com/exchange#usdt_ring)
 - [Hoo](https://hoo.com/spot/ring-usdt)
 
-### What is the unclaimed RING ?
+### What is the unclaimed RING?
 
 In "My Assets," you can find "Unclaimed XXX." The RING here represents the reward you are entitled to, yet you haven't claimed. The XXX may be KTON dividend, RING/Treasure Chest airdrops, bonuses, etc., which can be viewed in the "Channel Records."
 

@@ -8,7 +8,7 @@ In the game, some high-value Lands, high-rank buildings, and props are priced in
 
 ## Background of KTON
 
-KTON is introduced on the Darwinia Network. It's a commitment token, a symbol of tokenized commitment, from the Darwinia Network's advanced staking system. It encourages RING holders to lock RING for a longer time in exchange for KTON, which can be used in the staking system. Staking rewards are split into two equal pools for RING and KTON stakers.  Check out this [medium article](https://darwinianetwork.medium.com/darwinia-commitment-token-kton-861e2df1b4cb) to find out more about the design rational of KTON.
+KTON is introduced on the Darwinia Network. It's a commitment token, a symbol of tokenized commitment, from the Darwinia Network's advanced staking system. It encourages RING holders to lock RING for a longer time in exchange for KTON, which can be used in the staking system. Staking rewards are split into two equal pools for RING and KTON stakers.  Check out this [medium article](https://darwinianetwork.medium.com/darwinia-commitment-token-kton-861e2df1b4cb) to find out more about the design rationale of KTON.
 
 Due to KTON holders' nature being the long-term investors or those who would pay a premium to obtain this commitment, this demographic is suitable to be candidates of Evolution Land governance participants.
 
@@ -37,7 +37,7 @@ You can go to [Darwinia Network](http://apps.darwinia.network/) and lock your RI
 
 #### DEX
 
-DEX stands for Decentralized Exchange, you can use your cryptocurrency wallet to buy or sell directly.  
+DEX stands for Decentralized Exchange.  You can use your cryptocurrency wallet to buy or sell directly.  
 
 On Atlantis Continent (Ethereum):
 
@@ -49,7 +49,7 @@ On the Byzantine Continent (Tron):
 
 #### CEX
 
-CEX stands for Centralized Exchnge.  You can also buy or sell RING at many CEX, the following list shows a few, you can check out [coinmarketcap](https://coinmarketcap.com/currencies/darwinia-commitment-token/markets/) for more information.
+CEX stands for Centralized Exchange.  You can also buy or sell RING at many CEX.  The following list shows a few.  You can check out [coinmarketcap](https://coinmarketcap.com/currencies/darwinia-commitment-token/markets/) for more information.
 
 - [Hoo](https://hoo.com/spot/kton-eth)
 - [Poloniex](https://poloniex.com/exchange#usdt_kton)

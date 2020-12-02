@@ -1,6 +1,6 @@
 # World
 
-Evolution Land is one of the planets in the universe, with a radius of 5,279.58 m and a equator of 36,000 m. The climatic conditions are similar to those of the Earth. There will be rivers, land, mountain valleys, plains and all kinds of other various landforms on the planet.
+Evolution Land is one of the planets in the universe, with a radius of 5,279.58 m and an equator of 36,000 m. The climatic conditions are similar to those of the Earth. There will be rivers, land, mountain valleys, plains, and all kinds of other various landforms on the planet.
 
 ![The Evolution Land continents from planet view](../../.gitbook/assets/continent1%20%282%29.png)
 

@@ -6,8 +6,8 @@ description: Learn about how to get your first Apostle
 
 The main ways to obtain Apostles are as follows:
 
-* Obtained through the system's first-generation Apostle auction
-* Obtained by [breeding](breed.md) among the Apostles
+* Through the system's first-generation Apostle auction
+* By [breeding](breed.md) among the Apostles
 * Purchase from other players through the [Apostle Market](../../../advanced/trading/)
 * Gifted by other players
 * Randomly obtained by opening treasure chests

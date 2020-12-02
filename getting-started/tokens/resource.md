@@ -1,6 +1,6 @@
 # Resource
 
-Resource is standard fungible token (ERC20/TRC20).  You can find their smart contract specification below.
+The resources are standard fungible tokens (ERC20/TRC20).  You can find their smart contract specification below.  Learn more about what [resource](/getting-started/game-entities/resource.md) is used for.
 
 ### GOLD
 

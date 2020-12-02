@@ -20,7 +20,7 @@ During life, the Apostle needs to consume carbon and oxygen COO to maintain life
 
 ## Price of the Magic Potion
 
-Weirdly, the magic potion shop does not decide the price. On the contrary, the price of this magical potion, `P`, is arbitrarily determined by the buyer. However, there is also a premise that the player must agree that anyone else can purchase the Apostle from at the price `P*(1/T )` even the the player is not willing to.
+Weirdly, the magic potion shop does not decide the price. On the contrary, the price of this magical potion, `P`, is arbitrarily determined by the buyer. However, there is also a premise that the player must agree that anyone else can purchase the Apostle from at the price `P*(1/T )` even the player is not willing to.
 
 Therefore, the magic potion price cannot be set too low so that other players can compulsorily buy your Apostle, nor should it be set too high because it means you are wasting money on the magic potion. So, in the end, players will tend to buy magic potions only for those high-value Apostles at a reasonable price.
 

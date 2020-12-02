@@ -20,7 +20,7 @@ On the Atlantis continent, all Apostles are human alike, while on the Byzantine 
 
 ### Close Relatives
 
-This is a big NO. Brothers and sisters, immediate family members can not breed.
+This is a big NO. Brothers and sisters, immediate family members, can not breed.
 
 ## Cool Down Time
 

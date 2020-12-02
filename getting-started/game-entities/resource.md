@@ -1,8 +1,8 @@
 # Resource
 
-There are five primary resources on Evolution Land: **GOLD, WOOD, HHO, FIRE, and SIOO**.  These resources are deep under the Lands.  Each Land hasrandom resource reservers that decay at a rate of 1/10,000 daily as time goes by.
+There are five primary resources on Evolution Land: **GOLD, WOOD, HHO, FIRE, and SIOO**.  These resources are deep under the Lands.  Each Land has random resource reservers that decay at a rate of 1/10,000 daily as time goes by.
 
-Resoure reserves follow continent terrain layout, that is, Lands close to X terrain will have better odds to have rich Y:
+Resource reserves follow the continent terrain layout. That is, Lands close to X terrain will have better odds to have rich Y:
 
 - Mine: GOLD
 - Forest: WOOD
@@ -12,11 +12,11 @@ Resoure reserves follow continent terrain layout, that is, Lands close to X terr
 
 ## Resource Attenuation Rate
 
-Resources will be released using a model of attenuation supply with random factors. Resource release will be determined by the Land's attributes (the release rate of the five resources) and the player's mining indicators. The initial maximum rate of resource generation at the Land's birth is the full resources you can mine daily. This rate decays by 1/10,000 every day. 
+Resources will be released using a model of attenuation supply with random factors. Resource release will be determined by the Land's attributes (the five resources' release rate) and the player's mining indicators. The initial maximum rate of resource generation at the Land's birth is the full resources you can mine daily. This rate decays by 1/10,000 every day. 
 
 If the collecting rate or mining power is less than the current release rate of the resource from the Land, the un-mined resources will vanish, never be mined. It's like being burned on the other perspective.
 
-Check out detailed explanation about [Resource Attenuation Rate](attenuation.md).
+Check out a detailed explanation about [Resource Attenuation Rate](attenuation.md).
 
 
 ## Mining
