@@ -40,7 +40,7 @@
     * [Attenuation](getting-started/game-entities/attenuation.md)
   * [Pet](getting-started/game-entities/pet.md)
   * [Equipment](getting-started/game-entities/equipment.md)
-  * [Lottery](getting-started/game-entities/lottery.md)
+  * [Points & Lottery](getting-started/game-entities/lottery.md)
 * [Tokens](getting-started/tokens/README.md)
   * [RING](getting-started/tokens/ring.md)
   * [KTON](getting-started/tokens/kton.md)
