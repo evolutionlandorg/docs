@@ -2,11 +2,11 @@
 
 The size of each land is 100m x 100m, and there is no limit on the height \(assuming it is also 100m\). Then each land is a three-dimensional Euclidean Space. In this land space, the player can construct buildings. The building is made up of a number of basic units called “square blocks”, each of which is 1m x 1m. Each land can only be placed in a building that does not exceed its size. Multiple buildings can be placed on the top of the block, as long as there is no overlapping area between any two of them, and can be separated by smooth movement.
 
-LAND has five [resource](resource.md) reserves that can be mined indicated as a number called Max Resource Attenuation Rate\(MRAR\). It means at full speed, the max amount of resources can be mined daily. The resource decays daily at a rate of about 1/10,000 every day.
+LAND has five [resource](resource/) reserves that can be mined indicated as a number called Max Resource Attenuation Rate\(MRAR\). It means at full speed, the max amount of resources can be mined daily. The resource decays daily at a rate of about 1/10,000 every day.
 
 ![Land Resource Reserves](../../.gitbook/assets/land-resource.png)
 
-In the Land diagram above, `90,-7` are the coordinates of this land, `B769` stands for continent B \(Byzantine\), `land id` is `769`. On the right side, fives resource MRAR is listed. They are [GOLD](resource.md), [WOOD](resource.md), [HHO](resource.md), [FIRE](resource.md), [SIOO](resource.md). The higher the reserve, the easier you can mine, and the higher the ceiling you might reach.
+In the Land diagram above, `90,-7` are the coordinates of this land, `B769` stands for continent B \(Byzantine\), `land id` is `769`. On the right side, fives resource MRAR is listed. They are [GOLD](resource/), [WOOD](resource/), [HHO](resource/), [FIRE](resource/), [SIOO](resource/). The higher the reserve, the easier you can mine, and the higher the ceiling you might reach.
 
 ## Ownership
 

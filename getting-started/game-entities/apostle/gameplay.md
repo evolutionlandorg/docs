@@ -8,7 +8,7 @@ Due to the different appearances, talents, and other characteristics of the apos
 
 ### Collectibles
 
-Its [genetic code](genome.md) determines every Apostle's appearance.  Each gene fragment is responsible for a different trait of an Apostle, and together they combine to make each unique Apostle. Between the many categories, there are billions of possible combinations.
+Its [genetic code](genome.md) determines every Apostle's appearance. Each gene fragment is responsible for a different trait of an Apostle, and together they combine to make each unique Apostle. Between the many categories, there are billions of possible combinations.
 
 Some traits are regular/base; some are hidden, while some will only appear after several generations of genetic mutations. This results in various rarity distribution. Apostles who have rare and noble genes and useful talents are even more infrequent, and they all support the apostle as a collectible game.
 

@@ -25,7 +25,7 @@ Special Talent Gene;
 
 ## Occupations
 
-Apostle can choose one occupation for free. He will have extra occupational productivity addition when performing this work, compared to occupation-neutral Apostles. When switching careers, a tuition fee must be paid for professional training. Each occupation will need a different talent set to determine base productivity.   If an Apostle is terrible at this, he/she might be good at some other work. Then choose that occupation as his/her profession is a smart move.
+Apostle can choose one occupation for free. He will have extra occupational productivity addition when performing this work, compared to occupation-neutral Apostles. When switching careers, a tuition fee must be paid for professional training. Each occupation will need a different talent set to determine base productivity. If an Apostle is terrible at this, he/she might be good at some other work. Then choose that occupation as his/her profession is a smart move.
 
 Occupation List to be supported soon:
 
@@ -35,7 +35,7 @@ Occupation List to be supported soon:
 * Blacksmith
 * Warrior
 
-This list is actually very long.  We will add them when possible. Occupation gameplay is not enabled yet.
+This list is actually very long. We will add them when possible. Occupation gameplay is not enabled yet.
 
 ## Productivity
 
