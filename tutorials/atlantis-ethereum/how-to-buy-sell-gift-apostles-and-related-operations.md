@@ -6,7 +6,7 @@
 
  \(At present, the first generation of apostles on Atlantis has all sold out and you can buy apostles in the market that are being sold by other players\)
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/eth-trade-apostle-1.png)
 
 Click on "More" to see the market: including "All", "On sale", "For Breed" and "For Recruit".
 
@@ -16,7 +16,7 @@ Click on "More" to see the market: including "All", "On sale", "For Breed" and "
 
 “For Recruit”: The apostles that other players hang out to work to earn RING, you can hire the apostle to work on your land.
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/eth-trade-apostle-2.png)
 
 2. Click on the apostle, the pop-up window on the right will show the details of the apostle \(including price, talent, introduction, attributes, parents and children, etc., where the life of the apostle is "XXX week"\). After confirming the information, you can click on "Bid" and confirm the order in the new pop-up window by clicking "Bid" again.
 
