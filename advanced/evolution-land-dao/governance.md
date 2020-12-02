@@ -1,5 +1,5 @@
 ---
-The House of Parliament
+description: The House of Parliament
 ---
 
 # Governance

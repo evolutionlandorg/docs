@@ -1,5 +1,5 @@
 ---
-A Decentralized Autonomous Organization
+description: A Decentralized Autonomous Organization
 ---
 
 # Evolution Land DAO

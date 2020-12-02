@@ -1,5 +1,5 @@
 ---
-Self-funding Mechanism
+description: Self-funding Mechanism
 ---
 
 # Revenue Model
