@@ -16,22 +16,20 @@ Click on "More" to see the market: including "All", "On sale", "For Breed" and "
 
 ![](../../.gitbook/assets/tron-trade-apostle-2.png)
 
-2. Click on the apostle, the pop-up window on the right will show the details of the apostle \(including price, talent, introduction, attributes, parents and children, etc., where the life of the apostle is "XXX week"\). After confirming the information, you can click on "Bid" and confirm the order in the new pop-up window by clicking "Bid" again.
+1. Click on the apostle, the pop-up window on the right will show the details of the apostle \(including price, talent, introduction, attributes, parents and children, etc., where the life of the apostle is "XXX week"\). After confirming the information, you can click on "Bid" and confirm the order in the new pop-up window by clicking "Bid" again.
 
 ![](https://lh4.googleusercontent.com/lr_TNkQJqSlkfvqLI0x1ZJPrZWLLGLGollzqdSe8948PtpMnPO8BcnL1t9TURRuByOqgNEdGwBe9V-OQBIP0_5trX2TwsThJ9AZjuhUiLjROArAtEUvm_5XWHPxY68rMAlb2DSOw)![](https://lh6.googleusercontent.com/d0_cMkuFL1-18BrB5usg7EaNMBAlyL5I78fpFPDEDvwHdQNs_q71OI90aJS455_oQqvFho1uI-j1JhlnQe5ffHXPYUzqvup9DkU5oyV4yZgWjEU6ZJZrAZEIESrEiDCET-FhT_Al)
 
 ![](../../.gitbook/assets/image%20%2826%29.png)
 
-3. At this moment, the apostle bidden by you will be displayed in “Bid”. If no other player bid the land at a higher price within 10 minutes, the apostle will be yours. Then the apostle will be displayed in “unclaimed”.
+1. At this moment, the apostle bidden by you will be displayed in “Bid”. If no other player bid the land at a higher price within 10 minutes, the apostle will be yours. Then the apostle will be displayed in “unclaimed”.
 
 ![](../../.gitbook/assets/image%20%2846%29.png)
 
 ## **Where is my apostle?**
 
 1. The apostle bidden by the player for the first time will be displayed in the “Bid”;
-
 2. If no other player bid the apostle at a higher price within 10 minutes, the apostle will be displayed in “unclaimed”;
-
 3. The apostle bought and claimed successfully will be displayed in “Mine”.
 
 Corresponding webpage: [https://www.evolution.land/land/2/apostle/my](https://www.evolution.land/land/2/apostle/my)
@@ -76,8 +74,7 @@ Click on "Breed", choose another apostle breed with her/him. After confirming it
 
 **【Breed】- Claim new baby apostle**
 
-**Click on "Claim", the ability enhancement is optional, if you have enough resource, you can choose to improve the corresponding ability. \(Not necessarily successful\)**  
-
+**Click on "Claim", the ability enhancement is optional, if you have enough resource, you can choose to improve the corresponding ability. \(Not necessarily successful\)**
 
 **【Date】- Sire with other apostle to earn RING**
 

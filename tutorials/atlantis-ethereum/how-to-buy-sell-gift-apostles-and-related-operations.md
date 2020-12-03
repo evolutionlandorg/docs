@@ -4,7 +4,7 @@
 
 1. Log in to the Evolution Land---ATLANTIS, click on the apostle and you will see all the official apostles on the ATLANTIS.
 
- \(At present, the first generation of apostles on Atlantis has all sold out and you can buy apostles in the market that are being sold by other players\)
+   \(At present, the first generation of apostles on Atlantis has all sold out and you can buy apostles in the market that are being sold by other players\)
 
 ![](../../.gitbook/assets/eth-trade-apostle-1.png)
 
@@ -18,22 +18,20 @@ Click on "More" to see the market: including "All", "On sale", "For Breed" and "
 
 ![](../../.gitbook/assets/eth-trade-apostle-2.png)
 
-2. Click on the apostle, the pop-up window on the right will show the details of the apostle \(including price, talent, introduction, attributes, parents and children, etc., where the life of the apostle is "XXX week"\). After confirming the information, you can click on "Bid" and confirm the order in the new pop-up window by clicking "Bid" again.
+1. Click on the apostle, the pop-up window on the right will show the details of the apostle \(including price, talent, introduction, attributes, parents and children, etc., where the life of the apostle is "XXX week"\). After confirming the information, you can click on "Bid" and confirm the order in the new pop-up window by clicking "Bid" again.
 
 ![](https://lh6.googleusercontent.com/zeaxbLj9gvS_M_TBPDww5OyOcWLdqAHLAp_vZFw5SmDtUsJUibhOMvkaGM5tCZmkZsLsQUVKFyfti-x_u7kZT-opOlIfWQUVKhxzvkkSq0ObCH8qAxs6ytT-hIGqQgQ9sip9Y1BP)![](https://lh4.googleusercontent.com/QWPLtSW3iEKj8MP0fudeMsEUQe3Itkrat819D2gCJ-brBdPpsOR2Qz2cwa0tlMsfaRJ6ExBlZ1Bi8MBT4GCjqkfYqeF4qX3_tKo8ETH6MJ1VudVd6dQ6ym9U2weMScqMtXB5UKAA)
 
 ![](https://lh4.googleusercontent.com/CI5x4NJQbZZKlhhv6GY59YzRIWs7ZgW3jn9k5ahfw6674naIHanPuy-pxAZZpsov3dPouOTHjQCJznq9XVjwL2g8WhT56fT2cOiviNXdSNXDzOnhCKuuQKeFovnUbJdLO2F3VwgA)
 
-3. At this moment, the apostle bidden by you will be displayed in “Bid”. If no other player bid the land at a higher price within 10 minutes, the apostle will be yours. Then the apostle will be displayed in “unclaimed”.
+1. At this moment, the apostle bidden by you will be displayed in “Bid”. If no other player bid the land at a higher price within 10 minutes, the apostle will be yours. Then the apostle will be displayed in “unclaimed”.
 
 ![](../../.gitbook/assets/image%20%287%29.png)
 
 ## **Where is my apostle?**
 
 1. The apostle bidden by the player for the first time will be displayed in the “Bid”;
-
 2. If no other player bid the apostle at a higher price within 10 minutes, the apostle will be displayed in “unclaimed”;
-
 3. The apostle bought and claimed successfully will be displayed in “Mine”.
 
 Corresponding webpage: [https://www.evolution.land/land/1/apostle/my](https://www.evolution.land/land/1/apostle/my)
@@ -78,8 +76,7 @@ Click on "Breed", choose another apostle breed with her/him. After confirming it
 
 **【Breed】- Claim new baby apostle**
 
-**Click on "Claim", the ability enhancement is optional, if you have enough resource, you can choose to improve the corresponding ability. \(Not necessarily successful\)**  
-
+**Click on "Claim", the ability enhancement is optional, if you have enough resource, you can choose to improve the corresponding ability. \(Not necessarily successful\)**
 
 **【Date】- Sire with other apostle to earn RING**
 

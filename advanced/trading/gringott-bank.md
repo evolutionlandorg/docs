@@ -6,7 +6,7 @@ description: Built-in token swap service and external exchanges
 
 ## Token Swap Services
 
-Gringott Bank is the in-game banking service for users to exchange tokens, such as buy RING or resources tokens with ETH or sell KTON for TRON. The token swap service Gringott Bank provides is powered by liquidity providers on the continent's underlying network, such as Uniswap on the Atlantis continent (Ethereum) and Justswap on the Byzantine continent (Tron).
+Gringott Bank is the in-game banking service for users to exchange tokens, such as buy RING or resources tokens with ETH or sell KTON for TRON. The token swap service Gringott Bank provides is powered by liquidity providers on the continent's underlying network, such as Uniswap on the Atlantis continent \(Ethereum\) and Justswap on the Byzantine continent \(Tron\).
 
 * ![Gringott](../../.gitbook/assets/gringott.png)[Gringott Bank on the Atlantis Continent \(Ethereum\)](https://www.evolution.land/land/1/bank/buy-ring)
 * ![Gringott](../../.gitbook/assets/gringott.png)[Gringott Bank on the Byzantine Continent \(Tron\)](https://www.evolution.land/land/2/bank/buy-ring)
@@ -15,13 +15,13 @@ Gringott Bank is the in-game banking service for users to exchange tokens, such 
 
 The tokens supported for swap are:
 
-- [RING](/getting-started/tokens/ring.md) (online)
-- [KTON](getting-started/tokens/kton.md) (online)
-- [GOLD](getting-started/tokens/resource#gold)
-- [WOOD](getting-started/tokens/resource#wood)
-- [HHO](getting-started/tokens/resource#hho)
-- [FIRE](getting-started/tokens/resource#fire)
-- [SIOO](getting-started/tokens/resource#sioo)
+* [RING](../../getting-started/tokens/ring.md) \(online\)
+* [KTON](https://github.com/evolutionlandorg/docs/tree/d2e7f922cd713a9a4eb0f511d26569ec99613c1d/advanced/trading/getting-started/tokens/kton.md) \(online\)
+* [GOLD](https://github.com/evolutionlandorg/docs/tree/d2e7f922cd713a9a4eb0f511d26569ec99613c1d/advanced/trading/getting-started/tokens/resource/README.md#gold)
+* [WOOD](https://github.com/evolutionlandorg/docs/tree/d2e7f922cd713a9a4eb0f511d26569ec99613c1d/advanced/trading/getting-started/tokens/resource/README.md#wood)
+* [HHO](https://github.com/evolutionlandorg/docs/tree/d2e7f922cd713a9a4eb0f511d26569ec99613c1d/advanced/trading/getting-started/tokens/resource/README.md#hho)
+* [FIRE](https://github.com/evolutionlandorg/docs/tree/d2e7f922cd713a9a4eb0f511d26569ec99613c1d/advanced/trading/getting-started/tokens/resource/README.md#fire)
+* [SIOO](https://github.com/evolutionlandorg/docs/tree/d2e7f922cd713a9a4eb0f511d26569ec99613c1d/advanced/trading/getting-started/tokens/resource/README.md#sioo)
 
 Resource liquidity pools will be online soon.
 
@@ -33,14 +33,15 @@ When Darwinia continent is launched on the Darwinia Network, Gringott Bank on th
 
 ## External Exchanges
 
-You can also trade tokens at external decentralized or centralized exchanges or liquidity providers.  All the above tokens are tradeable at decentralized liquidity providers such as: 
+You can also trade tokens at external decentralized or centralized exchanges or liquidity providers. All the above tokens are tradeable at decentralized liquidity providers such as:
 
-- [Uniswap](https://info.uniswap.org/token/0x9469d013805bffb7d3debe5e7839237e535ec483) on Ethereum
-- [Justswap](https://justswap.io/#/scan/detail/trx/TL175uyihLqQD656aFx3uhHYe1tyGkmXaW) on Tron 
-- and many more
+* [Uniswap](https://info.uniswap.org/token/0x9469d013805bffb7d3debe5e7839237e535ec483) on Ethereum
+* [Justswap](https://justswap.io/#/scan/detail/trx/TL175uyihLqQD656aFx3uhHYe1tyGkmXaW) on Tron 
+* and many more
 
 You can just viist their websites to swap the tokens against any other popular tokens.
 
-RING is also traded at some centralized exchanges with decent liquidity.  Find out the [list](/getting-started/tokens/ring#dex) here.
+RING is also traded at some centralized exchanges with decent liquidity. Find out the [list](https://github.com/evolutionlandorg/docs/tree/d2e7f922cd713a9a4eb0f511d26569ec99613c1d/getting-started/tokens/ring/README.md#dex) here.
 
-KTON is also traded at some centralized exchanges with decent liquidity.  Find out the [list](/getting-started/tokens/kton#dex) here.
+KTON is also traded at some centralized exchanges with decent liquidity. Find out the [list](https://github.com/evolutionlandorg/docs/tree/d2e7f922cd713a9a4eb0f511d26569ec99613c1d/getting-started/tokens/kton/README.md#dex) here.
+
