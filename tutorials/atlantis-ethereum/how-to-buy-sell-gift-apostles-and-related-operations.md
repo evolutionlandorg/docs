@@ -20,13 +20,15 @@ Click on "More" to see the market: including "All", "On sale", "For Breed" and "
 
 1. Click on the apostle, the pop-up window on the right will show the details of the apostle \(including price, talent, introduction, attributes, parents and children, etc., where the life of the apostle is "XXX week"\). After confirming the information, you can click on "Bid" and confirm the order in the new pop-up window by clicking "Bid" again.
 
-![](https://lh6.googleusercontent.com/zeaxbLj9gvS_M_TBPDww5OyOcWLdqAHLAp_vZFw5SmDtUsJUibhOMvkaGM5tCZmkZsLsQUVKFyfti-x_u7kZT-opOlIfWQUVKhxzvkkSq0ObCH8qAxs6ytT-hIGqQgQ9sip9Y1BP)![](https://lh4.googleusercontent.com/QWPLtSW3iEKj8MP0fudeMsEUQe3Itkrat819D2gCJ-brBdPpsOR2Qz2cwa0tlMsfaRJ6ExBlZ1Bi8MBT4GCjqkfYqeF4qX3_tKo8ETH6MJ1VudVd6dQ6ym9U2weMScqMtXB5UKAA)
+![](https://lh6.googleusercontent.com/zeaxbLj9gvS_M_TBPDww5OyOcWLdqAHLAp_vZFw5SmDtUsJUibhOMvkaGM5tCZmkZsLsQUVKFyfti-x_u7kZT-opOlIfWQUVKhxzvkkSq0ObCH8qAxs6ytT-hIGqQgQ9sip9Y1BP)
+
+![](../../.gitbook/assets/auction-timer.png)
 
 ![](https://lh4.googleusercontent.com/CI5x4NJQbZZKlhhv6GY59YzRIWs7ZgW3jn9k5ahfw6674naIHanPuy-pxAZZpsov3dPouOTHjQCJznq9XVjwL2g8WhT56fT2cOiviNXdSNXDzOnhCKuuQKeFovnUbJdLO2F3VwgA)
 
 1. At this moment, the apostle bidden by you will be displayed in “Bid”. If no other player bid the land at a higher price within 10 minutes, the apostle will be yours. Then the apostle will be displayed in “unclaimed”.
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/eth-my-apostle.png)
 
 ## **Where is my apostle?**
 

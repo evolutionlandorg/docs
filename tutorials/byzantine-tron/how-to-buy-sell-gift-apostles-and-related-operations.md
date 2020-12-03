@@ -18,13 +18,15 @@ Click on "More" to see the market: including "All", "On sale", "For Breed" and "
 
 1. Click on the apostle, the pop-up window on the right will show the details of the apostle \(including price, talent, introduction, attributes, parents and children, etc., where the life of the apostle is "XXX week"\). After confirming the information, you can click on "Bid" and confirm the order in the new pop-up window by clicking "Bid" again.
 
-![](https://lh4.googleusercontent.com/lr_TNkQJqSlkfvqLI0x1ZJPrZWLLGLGollzqdSe8948PtpMnPO8BcnL1t9TURRuByOqgNEdGwBe9V-OQBIP0_5trX2TwsThJ9AZjuhUiLjROArAtEUvm_5XWHPxY68rMAlb2DSOw)![](https://lh6.googleusercontent.com/d0_cMkuFL1-18BrB5usg7EaNMBAlyL5I78fpFPDEDvwHdQNs_q71OI90aJS455_oQqvFho1uI-j1JhlnQe5ffHXPYUzqvup9DkU5oyV4yZgWjEU6ZJZrAZEIESrEiDCET-FhT_Al)
+![](../../.gitbook/assets/apostle-talents.png)
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](../../.gitbook/assets/auction-timer.png)
+
+![](../../.gitbook/assets/tron-apostle-bid.png)
 
 1. At this moment, the apostle bidden by you will be displayed in “Bid”. If no other player bid the land at a higher price within 10 minutes, the apostle will be yours. Then the apostle will be displayed in “unclaimed”.
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/tron-my-apostles.png)
 
 ## **Where is my apostle?**
 
