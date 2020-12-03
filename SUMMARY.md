@@ -51,7 +51,7 @@
 
 * [Trading](advanced/trading/README.md)
   * [NFT Market](advanced/trading/nft-market.md)
-  * [Token Swap](advanced/trading/gringott-bank.md)
+  * [Gringott Bank](advanced/trading/gringott-bank.md)
 * [Furnace](advanced/furnace.md)
 * [Evolution Land DAO](advanced/evolution-land-dao/README.md)
   * [Revenue Model](advanced/evolution-land-dao/revenue-model.md)
