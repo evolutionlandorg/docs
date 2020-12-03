@@ -14,13 +14,13 @@ Different from traditional games, gaming logic is written in smart contracts and
 
 **Free Market:** In-game marketplace allows users to trade land/apostle/resources, hire workers, or even find your apostle's soulmate. All prices are determined by players driven by demand and supply. There's no price control anyway. You can even transfer your assets and trade on any third-party marketplaces.  [Learn more](/advanced/trading).
 
-**Career:** In addition to the miner's job that has already been launched, Evolution Land offers more career choices and corresponding social roles such as warrior, doctor, musician, etc. Each apostle can find his or her right place.  [Learn more](/getting-started/game-entities/apostle/skills#occupations).
+**Career:** In addition to the miner's job that has already been launched, Evolution Land offers more career choices and corresponding social roles such as warrior, doctor, musician, etc. Each apostle can find his or her right place.  [Learn more](/getting-started/game-entities/apostle/skills.md#occupations).
 
 **Battle:** PvE, PvP, siege, group warfare, and the national war between the continents are about to be launched. If you have a love for blazing a trail, join the game to form your army.
 
-**Play to Earn:** 70% of the game's revenue will be shared with the players; whether you are a KTON holder or active in construction, you can share its success. Even if you are playing the game for fun, you can win huge prizes through a transparent lottery.  [Learn more](/advanced/evolution-land-dao/revenue-model).
+**Play to Earn:** 70% of the game's revenue will be shared with the players; whether you are a KTON holder or active in construction, you can share its success. Even if you are playing the game for fun, you can win huge prizes through a transparent lottery.  [Learn more](/advanced/evolution-land-dao/revenue-model.md).
 
-**DeFi:** Decentralized Finance is embedded in the gameplay everywhere. Your capital or effort invested in the game will earn you a reward. [Learn more](/advanced/furnace).
+**DeFi:** Decentralized Finance is embedded in the gameplay everywhere. Your capital or effort invested in the game will earn you a reward. [Learn more](/advanced/furnace.md).
 
 **Owned by Player:** Players truly own the game. Players may stake to obtain voting power that can allow them to drive the evolution by participating in the governance process and benefit from the dividents paid from game revenue.  [Learn more](/advanced/evolution-land-dao).
 
