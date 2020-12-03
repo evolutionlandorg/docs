@@ -9,9 +9,7 @@ Buy：[https://www.evolution.land/land/1/bank/buy-ring](https://www.evolution.la
 Sell：[https://www.evolution.land/land/1/bank/sell-ring](https://www.evolution.land/land/1/bank/sell-ring)  
 
 
-![](../../.gitbook/assets/image%20%2840%29.png)
-
-![](../../.gitbook/assets/image%20%2845%29.png)
+![Buy and Sell RING](../../.gitbook/assets/buy-sell-ring.png)
 
 #### **2. Trading on OTCMAKER**
 
