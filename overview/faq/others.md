@@ -1,5 +1,18 @@
 # Player problem set
 
+## Why is \[transaction failed\]?
+
+There may be a "transaction fail" when participating in a land auction. There're many possible reasons:
+
+- You may provide less gas limit that the transaction requires to complete. You should not tune down the gas limit estimated by your wallet or tune up a little bit to be sure.
+- The asset you are trying to purchase is not for sale (sell pulled it off, someone else bought it, or placed a bid result your bid amount unqualified) when your transaction is processed, hence failed. 
+
+- Or it could be some un-discovered bug, let us [know](/overview/feedback-and-support)
+
+## Why stopped at \[waiting for confirmation\]?
+
+There may be a "waiting for confirmation" when participating in the Land's auction/claim. The reason may be that the Gas fee you provide is low, and the transaction is waiting for miners to process. The player can choose to wait, increase the gas price, or cancel the transaction according to the transaction status at this time.
+
 ## **Why I am missing lottery points when I bought bid land?**
 
 Because of the unstable event monitoring service, sometimes the page will not be displayed in time even if the lottery points are successfully acquired.
