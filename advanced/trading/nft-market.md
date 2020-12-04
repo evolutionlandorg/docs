@@ -40,7 +40,7 @@ In Evolution Land, the seller can set a pair of starting price and ending price 
 
 When Lands are first created by [Eve](../../), an Initial Offering Auction event is held. First 10 Lands are auctioned through a revised Dutch auction with an arbitrary starting price with ending price 1/10. After those 10 lands are sold, new Lands are auctioned one by one with starting price of average sale price of the previous 10 Lands.
 
-This revised Dutch auction lowers its price over time just like a typical one, but it does not end when receiving a bid. Instead it enters reverse Dutch auction mode. The bidder wins the Land only when no one else bids at a fixed increase \(10%\) within 10 minutes. Each time someone bids higher, the previous bidder will receive full refund and the 10% premium will be shared among these parties:
+This revised Dutch auction lowers its price over time just like a typical one, but it does not end when receiving a bid. Instead it enters reverse Dutch auction mode. The bidder wins the Land only when no one else bids at a fixed increase \(10%\) within 30 minutes. Each time someone bids higher, the previous bidder will receive full refund and the 10% premium will be shared among these parties:
 
 1. 4% of the premium will be charged as handling fee.
 2. The remainder will be divided equally between the landlord and the previous bidder.
