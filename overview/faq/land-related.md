@@ -37,3 +37,6 @@ EVE took the last hope of life on earth to the depths of the universe. After yea
 
 EVE creates lands, and she is facilitating the Initial Land Offering and other asset auctions and trading.
 
+## Can I send an Land to my friend?
+
+Yes, you can.  Visit your Land's page and use "Gift" button to send to your friend's address.

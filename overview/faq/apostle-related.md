@@ -46,3 +46,6 @@ In general, every Apostle is useful and suitable for something. Apostles have ma
 
 Competitive games such as PvE, PvP, siege, group warfare and national war require the participation of apostle. This part of the game is under development.
 
+## Can I send an Apostle to my friend?
+
+Yes, you can.  Visit your Apostle's page and use "Gift" button to send to your friend's address.

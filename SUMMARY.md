@@ -14,6 +14,7 @@
 * [Referral Program](overview/referral-program.md)
 * [FAQ](overview/faq/README.md)
   * [Token Related](overview/faq/token-related.md)
+  * [Wallet Related](overview/faq/wallet-related.md)
   * [Land Related](overview/faq/land-related.md)
   * [Apostle Related](overview/faq/apostle-related.md)
   * [Auction Related](overview/faq/auction-related.md)

@@ -60,7 +60,7 @@ Evolution Land consists of continents deployed on different blockchains, so firs
   </tbody>
 </table>
 
-## Desktop:
+## Desktop
 
 1. Download Chrome or Firefox
 2. Install the plugin based on the continent you choose, MetaMask or TronLink
