@@ -24,6 +24,8 @@ Different from traditional games, gaming logic is written in smart contracts and
 
 **Owned by Player:** Players truly own the game. Players may stake to obtain voting power that can allow them to drive the evolution by participating in the governance process and benefit from the dividents paid from game revenue.  [Learn more](/advanced/evolution-land-dao).
 
+{% page-ref page="/getting-started/get-started" %}
+
 ## Technical Features
 
 **On-chain Game and Contract Operation:** Ownership of the game assets is confirmed by public blockchain technology. The players themselves own the identity accounts and game assets such as tokens and props. Almost the entire logic of the game is deployed on the blockchain in a contractual form. There is no need for players to worry about the common drawbacks of traditional games such as pulling strings, additional issuance, and plug-ins. The development team can't make shady deals.
