@@ -4,7 +4,7 @@ description: Contribute and help the world evolve
 
 # Developers
 
-Evolution Land is owned by players and created by developers. Any developer, no matter you are a designer, front-end engineer, or smart contract developer, you can find contribute and help the world evolve.
+Evolution Land is owned by players and created by developers. Any developer, no matter you are a designer, front-end engineer, or smart contract developer, you can find contribute and help the world evolve.  The [incentive](/overview/referral-program#smart-contract-based-referral) is built into the base smart contracts.
 
 ## UI
 
