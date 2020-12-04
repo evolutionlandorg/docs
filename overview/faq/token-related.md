@@ -4,7 +4,7 @@
 
 In Evolution Land, RING is used as currency to pay for service fees, trading taxes. Likewise, trading various resources, lands, buildings, and props will also use the RING as the accounting unit. Game revenue sharing is also distributed in RING. In short, the RING is the money; players use it to pay for services and taxes, buy goods, and receive payroll.
 
-{% page-ref page="/getting-started/tokens/ring" %}
+{% page-ref page="/getting-started/tokens/ring.md" %}
 
 ## **What is KTON?**
 
@@ -12,7 +12,7 @@ In Evolution Land, KTON is used as **a governance token**. Players can voluntari
 
 In the game, some high-value Lands, high-rank buildings, and props are priced in KTON.
 
-{% page-ref page="/getting-started/tokens/kton" %}
+{% page-ref page="/getting-started/tokens/kton.md" %}
 
 ## What are resource?
 
@@ -26,4 +26,4 @@ The five primary resources are the fundamental elements for building complex sub
 
 COO is a highly-available resource like the oxygen we breathe. In the Evolution Land context, the [Apostle](/getting-started/game-entities/apostle.md) (the player's in-game representative) needs some COO to survive on the planet. Users can get the resource through some simple operations such as login into the game frequently. Many of the game's primary activities require only some COO, mainly for some players looking for fun or for those who come around to experience the game.
 
-{% page-ref page="/getting-started/tokens/coo" %}
+{% page-ref page="/getting-started/tokens/coo.md" %}

@@ -4,7 +4,7 @@
 
 In Evolution Land, the seller can set a pair of starting price and ending price and the price change duration. According to the price change period, the auction price will change from the starting price to the ending price linearly. 
 
-{% page-ref page="/advanced/trading/nft-market#auction-system" %}
+{% page-ref page="/advanced/trading/nft-market.md#auction-system" %}
 
 ## Can the map be rotated?
 
