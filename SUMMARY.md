@@ -13,11 +13,11 @@
 * [Feedback & Support](overview/feedback-and-support.md)
 * [Referral Program](overview/referral-program.md)
 * [FAQ](overview/faq/README.md)
-  * [What is the token economics of Evolution Land?](overview/faq/what-is-the-token-economics-of-evolution-land.md)
-  * [Possible problems and solutions for【land】](overview/faq/possible-problems-and-solutions-for-land.md)
-  * [Possible problems and solutions for【apostle】](overview/faq/possible-problems-and-solutions-for-apostle.md)
-  * [How to get lands and apostles through auctions and transactions?](overview/faq/how-to-get-lands-and-apostles-through-auctions-and-transactions.md)
-  * [Player problem set](overview/faq/player-problem-set.md)
+  * [Token Related](overview/faq/token-related.md)
+  * [Land Related](overview/faq/land-related.md)
+  * [Apostle Related](overview/faq/apostle-related.md)
+  * [Auction Related](overview/faq/auction-related.md)
+  * [Others](overview/faq/others.md)
 
 ## Getting Started
 

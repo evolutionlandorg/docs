@@ -1,6 +1,6 @@
 # Referral Program
 
-Evolution Game is a player-owned blockchain game. There's referral incentive mechanism built-in at the smart contract level that is not controlled by the dev team. A certain percentage of revenue earned from in-game transactions will be paid to the referrer before distributed to the rest of the revenue pools.
+Evolution Game is a player-owned blockchain game. There's a referral incentive mechanism built-in at the smart contract level that is not controlled by the dev team. A certain percentage of revenue earned from in-game transactions will be paid to the referrer before distributed to the rest of the revenue pools.
 
 ![Distribution of Game Revenue](../.gitbook/assets/system-revenue.png)
 
@@ -15,7 +15,7 @@ Personal Referral Link is the easiest way for the average player. Any player can
 
 ![Personal Referral Link](../.gitbook/assets/referrallink.png)
 
-If any players participated in the auction through your link, you would get a reward when their bidding is successful. The amount of bonus you receive is 20% of the fee referee is charged.
+If any players participating in the auction through your link, you would get a reward when their bidding is successful. The amount of bonus you receive is 20% of the fee referee is charged.
 
 ### Case Study
 
