@@ -9,6 +9,7 @@
   * [Treasure box lucky drop. Win free limited mining drill!](overview/whats-new/treasure-box-airdrop-event.md)
   * [Evolution Land Announces New Breeding And Reward Mechanics Powered By Chainlink VRF](overview/whats-new/partnership-with-chainlink-for-random-number-generator.md)
 * [Community](overview/community.md)
+* [Developers](overview/developers.md)
 * [Feedback & Support](overview/feedback-and-support.md)
 * [Referral Program](overview/referral-program.md)
 * [FAQ](overview/faq/README.md)
@@ -71,6 +72,3 @@
   * [How to buy/sell/gift 【lands】 and related operations](tutorials/byzantine-tron/how-to-buy-sell-gift-lands-and-related-operations.md)
   * [How to buy/sell/gift 【apostles】 and related operations](tutorials/byzantine-tron/how-to-buy-sell-gift-apostles-and-related-operations.md)
 
----
-
-* [Developers](developers/README.md)
