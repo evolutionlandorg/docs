@@ -35,6 +35,8 @@
     * [Genome](getting-started/game-entities/apostle/genome.md)
     * [Breed](getting-started/game-entities/apostle/breed.md)
     * [Skills](getting-started/game-entities/apostle/skills.md)
+    * [Job Market](getting-started/game-entities/apostle/job-market.md)
+    * [Dating](getting-started/game-entities/apostle/dating.md)
     * [Population](getting-started/game-entities/apostle/population.md)
     * [Get Your First Apostle](getting-started/game-entities/apostle/get-your-first-apostle.md)
   * [Resource](getting-started/game-entities/resource/README.md)

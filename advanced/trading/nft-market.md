@@ -22,6 +22,14 @@ In the Apostle market, you can browse, search and filter for your desired Apostl
 
 ![Apostle NFT Market](../../.gitbook/assets/apostle-nft-market.png)
 
+### Apostle Job Market
+
+Apostle owners can put his Apostles on the Job Market to mine for others for a specific period with a daily wages, if hirer accepts the offer.   These job listingd can be found at the Apostle NFT Market.
+
+### Apostle Dating Market
+
+Apostle owners can put his Apostles on the Dating Market to find partners to breed for a auctioned fee.  If winning bidder will breed with the Apostle and receive the child.
+
 ### Auction System
 
 #### Optimized Dutch Auction
