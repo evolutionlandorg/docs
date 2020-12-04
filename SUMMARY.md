@@ -73,5 +73,4 @@
 
 ---
 
-* [Developer](developer.md)
-
+* [Developers](developers/README.md)
