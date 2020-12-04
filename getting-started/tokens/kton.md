@@ -1,4 +1,4 @@
-# ![KTON](../../.gitbook/assets/ktonicon.png) KTON
+# KTON
 
 ## Usage
 
@@ -12,7 +12,7 @@ KTON is introduced on the Darwinia Network. It's a commitment token, a symbol of
 
 Due to KTON holders' nature being the long-term investors or those who would pay a premium to obtain this commitment, this demographic is suitable to be candidates of Evolution Land governance participants.
 
-## KTON Specification
+## ![KTON](../../.gitbook/assets/ktonicon.png) KTON Specification
 
 * Ethereum \(the Atlantis Continent\)
   * Spec: `ERC20`
