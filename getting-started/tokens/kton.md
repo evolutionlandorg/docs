@@ -1,4 +1,4 @@
-# KTON
+# ![KTON](../../.gitbook/assets/ktonicon.png) KTON
 
 ## Usage
 

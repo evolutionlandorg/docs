@@ -2,7 +2,7 @@
 
 The resources are standard fungible tokens \(ERC20/TRC20\). You can find their smart contract specification below. Learn more about what [resource](../game-entities/resource/) is used for.
 
-## GOLD
+## ![GOLD](../../.gitbook/assets/goldicon.png) GOLD
 
 * Ethereum \(the Atlantis Continent\)
   * Spec: `ERC20`
@@ -13,7 +13,7 @@ The resources are standard fungible tokens \(ERC20/TRC20\). You can find their s
   * Precision: `18`
   * Smart Contract Address \(Tron\): `TCA6c9DLYKX4QTPL5pfCBkJqrJJ9DdVM4S`
 
-## WOOD
+## ![WOOD](../../.gitbook/assets/woodicon.png) WOOD
 
 * Ethereum \(the Atlantis Continent\)
   * Spec: `ERC20`
@@ -24,7 +24,7 @@ The resources are standard fungible tokens \(ERC20/TRC20\). You can find their s
   * Precision: `18`
   * Smart Contract Address \(Tron\): `TGuGnbnUAao1Rqp7W4SWJdbT25onnJ3oy2`
 
-## HOO
+## ![WATER](../../.gitbook/assets/watericon.png) HOO
 
 * Ethereum \(the Atlantis Continent\)
   * Spec: `ERC20`
@@ -35,7 +35,7 @@ The resources are standard fungible tokens \(ERC20/TRC20\). You can find their s
   * Precision: `18`
   * Smart Contract Address \(Tron\): `TNGkC4xUSAyWaiJu3tu7EmgqUtvR45jTFG`
 
-## FIRE
+## ![FIRE](../../.gitbook/assets/fireicon.png) FIRE
 
 * Ethereum \(the Atlantis Continent\)
   * Spec: `ERC20`
@@ -46,7 +46,7 @@ The resources are standard fungible tokens \(ERC20/TRC20\). You can find their s
   * Precision: `18`
   * Smart Contract Address \(Tron\): `TSxvo3HsdfWpg1Z6KGrLa14Ap56aFKk1bz`
 
-## SIOO
+## ![SIOO](../../.gitbook/assets/soilicon.png) SIOO
 
 * Ethereum \(the Atlantis Continent\)
   * Spec: `ERC20`

@@ -1,4 +1,4 @@
-# RING
+# ![RING](../../.gitbook/assets/ringIcon.png) RING
 
 ## Usage
 
