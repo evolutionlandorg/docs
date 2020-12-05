@@ -4,7 +4,7 @@ description: 'Witness the world’s first Gamefi [mining NFT]!'
 
 # Treasure box lucky drop. Win free limited mining drill!
 
-![](../../.gitbook/assets/wechatimg995.jpeg)
+![](../../.gitbook/assets/wechatimg995.png)
 
 Darwinia ecosystem cross-chain game \[Evolution Land\] will launch the world’s first NFT+Defi integrated application: the Furnace Gamefi!
 
@@ -12,17 +12,17 @@ The furnace is the NFT synthesis system in Evolution Land. In the furnace system
 
 11.11 Let us witness the grand opening of the Evolution Land Furnace system, participate in the treasure box airdrop party, and win free limited mining drills!
 
-## Why grab the \[Limited Time Free Treasure Box\]? What’s amazing about it? <a id="4a45"></a>
+## Why grab the \[Limited Time Free Treasure Box\]? What’s amazing about it? 
 
 Treasure boxes have \[Golden Treasure Box\] and \[Silver Treasure Box\]. Rewards inside are different, and the drop rate of varying levels of drills is different.
 
 Open the treasure boxes to get drills of different levels.
 
-![](../../.gitbook/assets/ying-1.jpg)
+![](../../.gitbook/assets/ying-1.jpeg)
 
 There are three levels of the drill, from low to high, they are level 1 \[Iron Drill\], level 2 \[Steel Drill\], and level 3 \[Diamond Drill\].
 
-![](../../.gitbook/assets/ying-yu-2.jpg)
+![](../../.gitbook/assets/ying-yu-2.jpeg)
 
 ![](../../.gitbook/assets/wechatimg267.png)
 
@@ -34,7 +34,7 @@ Resource liquidity pools will be opened on Uniswap soon. The WOOD pool is alread
 
 Initially, only \[Apostles\] are deployed on the land to do the mining job. Users can now deploy drills obtained from free treasure boxes or synthesize with resources or other NFTs for a new mining tool: drilling rig, which can add POWER to mining.
 
-![](../../.gitbook/assets/iwtmbqole76jj4hi__original%20%281%29%20%281%29.jpg)
+![](../../.gitbook/assets/furnace-deploy.png)
 
 The drill can be used for mining directly, and it is the primary raw material for the synthesis of “drilling rigs”.
 
@@ -52,7 +52,7 @@ Where are the treasure boxes?
 
 Follow [Darwinia](https://twitter.com/@DarwiniaNetwork) Twitter and find answers!
 
-## How to get a free treasure box airdrop? <a id="c613"></a>
+## How to get a free treasure box airdrop? 
 
 Complete simple tasks:
 
@@ -66,16 +66,16 @@ Complete simple tasks:
 
 You will win a free limited silver treasure box. We will also draw 5 lucky users among retweeters and win 2,000 $RING each!
 
-## Darwinia Fans exclusive rewards: Hodlers to win! <a id="2de8"></a>
+## Darwinia Fans exclusive rewards: Hodlers to win!
 
 Darwinia has taken a snapshot at 2020.11.11 00:00, and the treasure box airdrop rewards are based on the RING or KTON balance
 
 * RING balance 0–10,000 or KTON balance 0–10, win 1 silver treasure box.
 * RING balance &gt; 10,000 or the KTON balance &gt;10, win 1 golden treasure box.
 
-## My money, my call！ <a id="5a3f"></a>
+## My money, my call!
 
-## Freestyle to win: how to buy one treasure box? <a id="0df4"></a>
+## Freestyle to win: how to buy one treasure box?
 
 Feel free to purchase a treasure box directly to get a better chance for advanced drills. During the airdrop event, the treasure boxes are sold at a fixed initial price. After the airdrop event, the cost of the treasure box increases by 2.6% every day. After 30 days, it will reach its ceiling price and remain fixed.
 
