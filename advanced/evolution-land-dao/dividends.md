@@ -42,5 +42,5 @@
 
 ## **举例说明**
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/auction-revenue.png)
 

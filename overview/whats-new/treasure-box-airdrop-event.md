@@ -33,7 +33,7 @@ description: 一起见证全球第一款 Gamefi「挖矿神器」的诞生！
 
 土地原本放置「使徒」（挖矿工具人）就可以进行挖矿。**现在，我们通过开启宝箱获取钻头，合成新的挖矿工具：钻机，可以为挖矿 POWER 加成。**
 
-![](../../.gitbook/assets/rz9kcx46texit38c__original.png)
+![](../../.gitbook/assets/furnace-deploy.png)
 
 钻头可以直接进行挖矿，而且是合成挖矿工具「钻机」的主要原料。
 
