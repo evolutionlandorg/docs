@@ -1,2 +1,2 @@
-# 亚特兰蒂斯大陆 - 以太坊
+# Atlantis - Ethereum
 

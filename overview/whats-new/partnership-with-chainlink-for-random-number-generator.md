@@ -57,4 +57,3 @@ Evolution Land 是一款虚拟模拟跨链区块链游戏，在以太坊和 Tron
 Evolution Land 在纯粹的数字世界中展示了 DAO 治理的游戏化，跨链代币化的自由市场经济系统。游戏仍在不断发展。它继续展示 Darwinia 去中心化异构跨链技术。
 
 ![](../../.gitbook/assets/da-er-wen-er-wei-ma-.png)
-

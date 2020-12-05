@@ -16,3 +16,11 @@
 
 所以，在一块地上最多可以部署10件道具，其中5件通过与使徒绑定实现，另外5个直接部署在土地装备栏中。从地主视角来看，使徒位是地主专属的，土地装备栏则是有条件开放，地主也有权利设置成私有，不允许其他用户部署。
 
+Equipment is the general term for the game props that can help perform specific tasks. They can be buildings you construct and place on Land to boost overall mining power, or mining gears such as DRILL you attach to the Apostles or Land to increase mining productivity, or weapons your Apostle use to flight another.
+
+Equipment is NFT \(non-fungible tokens\) from Evolution Land native token, or external third-party NFTs that Evolution Land whitelists and endow with specific functionalities.
+
+Equipment can also be minted NFT through [Furnace](/getting-started/game-entities/advanced/furnace.md) gameplay with is a synthetic NFT.
+
+More information will be disclosed when Furnace's gameplay is released. Please stay tuned.
+
