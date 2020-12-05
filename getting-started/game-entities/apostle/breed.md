@@ -4,9 +4,7 @@ description: 使徒的生育由遗传算法决定基因的继承、变异
 
 # 生育繁衍
 
-使徒可以进行繁衍，并遗传基因给后代。初代使徒的代数为0，他们的后代+1位1代，以此类推。
-
-Apostles can breed. Parents combine their genes and pass along to their children with mutations that affect their physical appearances and talents. The [population](population.md) is increased through this way.
+使徒可以进行繁衍，并遗传基因给后代。初代使徒的代数为0，他们的后代+1位1代，以此类推。[人口](population.md)依靠生育不断增长。
 
 ## 伦理
 
@@ -45,7 +43,7 @@ Apostles can breed. Parents combine their genes and pass along to their children
 
 使徒的初始强壮指数由其代数决定，如下表所述。
 
-![强壮指数](../../.gitbook/assets/0bfd02cc-4b06-48cd-8c8a-1e84b5553e68%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
+![强壮指数](../../../.gitbook/assets/cooldown-chart.png)
 
 ## **使徒的家谱**
 
