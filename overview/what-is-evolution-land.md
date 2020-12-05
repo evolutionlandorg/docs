@@ -1,42 +1,44 @@
-# What is Evolution Land
+# 进化星球是什么？
 
-Evolution Land is a virtual simulation blockchain game that supports cross-chain interactions. The game will have up to 26 continents, each of which is deployed on a different public chain. Two continents have been built so far and have been deployed on Ethereum \(Atlantis Continent\) and Tron \(Byzantine\). The governance parameters, such as the trade tax rate, will be set by players. Users can buy and sell the land and have apostles to mine precious elements, perform construction work, manufacture equipment, etc. Apostles may have offspring inherit or mutate their genes and improve their abilities by upgrading their talents and gear. There is a miner in career choices and warrior, architect, musician, doctor, and many others. Different continents will evolve into independent countries, and there will be trades and wars between the nations through the cross-chain technology powered by Darwinia Network.
+## 简介
 
-Evolution Land integrates various gameplays, including management, collection, education, gene, battle, auction, and game, which will continuously be evolving.
+进化星球是一款支持跨链的虚拟经营类区块链游戏。
 
-Different from traditional games, gaming logic is written in smart contracts and deployed on various blockchains. There're no black boxes. Game UI is a separate layer. Anyone can develop their own UI or tools to interact with the game. Fungible tokens and non-fungible tokens are used extensively in Evolution Land. Any interactable game entity is either FT or NFT, truly owned by players and secured by underlying blockchain technology.
+游戏分为26块大陆，每一块部署于不同的区块链之上，由用户自治设定治理参数（如贸易税率等），用户可以买卖地块，让使徒在自己的地块上挖掘元素，搭建建筑、制造道具等。
 
-## Gameplays
+使徒可以繁衍后代传承基因，可以通过升级装备和属性提升能力，可以在游戏中选择矿工，战士，医生，音乐家等职业。
 
-**NFT Collectibles:** There are unique features and as many as ten talents determined by genes for the limited original apostles and their offsprings. Users may have the apostles breeding for rare apostles with advanced genetic variation. [Learn more](../getting-started/game-entities/apostle/).
+不同的大陆会演变为不同的国家，通过跨链实现大陆国家之间的贸易流通，战争等玩法。
 
-**Education:** The apostle's talented ability allows each of them to have their right to work or fight and make him or her superb through education.
+进化星球整合多种游戏玩法：经营、收藏、养成、基因、对战、竞拍和博弈等等，并在不断进化中。
 
-**Free Market:** In-game marketplace allows users to trade land/apostle/resources, hire workers, or even find your apostle's soulmate. All prices are determined by players driven by demand and supply. There's no price control anyway. You can even transfer your assets and trade on any third-party marketplaces. [Learn more](../advanced/trading/).
+进化星球第一大陆亚特兰蒂斯大陆已部署于以太坊网络，第二大陆拜占庭大陆已部署于波场网络，均已上线土地买卖、使徒买卖、打工、挖矿、繁育等功能。
 
-**Career:** In addition to the miner's job that has already been launched, Evolution Land offers more career choices and corresponding social roles such as warrior, doctor, musician, etc. Each apostle can find his or her right place. [Learn more](../getting-started/game-entities/apostle/skills.md#occupations).
+## 玩法特点
 
-**Battle:** PvE, PvP, siege, group warfare, and the national war between the continents are about to be launched. If you have a love for blazing a trail, join the game to form your army.
+* **收藏**：有限的初代使徒，由基因决定独一无二的外貌特征和多达10项天赋能力。繁育后代寻找进阶变异的稀有使徒。[了解更多](../getting-started/game-entities/apostle/).
+* **养成**：使徒的天赋能力使得每一个使徒都有自己适合的工作或战斗能力，通过培养使徒让他变得不可一世吧！
+* **Free Market:** In-game marketplace allows users to trade land/apostle/resources, hire workers, or even find your apostle's soulmate. All prices are determined by players driven by demand and supply. There's no price control anyway. You can even transfer your assets and trade on any third-party marketplaces.
+* **经营**：交易土地、雇佣工人、建造建筑和进行科学研究，都可以成为你获得更高社会影响力和经济成就的手段。多多采集矿藏资源为进阶做好准备吧！[了解更多](../advanced/trading/).
+* **职业**：除了已经推出的矿工职业，进化星球还将不断推出战士、医生、音乐家等丰富多样的职业选择以及相应的社会角色，每一位使徒都能找到自己合适的位置。[了解更多](../getting-started/game-entities/apostle/skills.md#occupations).
+* **对战**：PvE、PvP、攻城、团战及大陆间的国家战争即将面世，热爱开疆辟壤的你马上组建你的军团吧。
+* **收益**：70%的游戏收入与玩家分享，无论你是氪石持有人还是积极建设都能分享游戏的成功。即使是休闲玩乐的玩家，也能通过交易抽奖获得巨奖机会。[了解更多](../advanced/evolution-land-dao/revenue-model.md).
+* **DeFi:** Decentralized Finance is embedded in the gameplay everywhere. Your capital or effort invested in the game will earn you a reward. [了解更多](../advanced/furnace.md).
+* **Owned by Player:** Players truly own the game. Players may stake to obtain voting power that can allow them to drive the evolution by participating in the governance process and benefit from the dividents paid from game revenue.  [了解更多](../advanced/evolution-land-dao/).
 
-**Play to Earn:** 70% of the game's revenue will be shared with the players; whether you are a KTON holder or active in construction, you can share its success. Even if you are playing the game for fun, you can win huge prizes through a transparent lottery. [Learn more](../advanced/evolution-land-dao/revenue-model.md).
+{% page-ref page="/getting-started/get-started/" %}
 
-**DeFi:** Decentralized Finance is embedded in the gameplay everywhere. Your capital or effort invested in the game will earn you a reward. [Learn more](../advanced/furnace.md).
+## 技术特性
 
-**Owned by Player:** Players truly own the game. Players may stake to obtain voting power that can allow them to drive the evolution by participating in the governance process and benefit from the dividents paid from game revenue. [Learn more](../advanced/evolution-land-dao/).
+**游戏上链，合约操作**：基于全球主流公链建设，由区块链技术追踪即确认所有权。玩家百分百拥有自己的身份账号及游戏中代币、道具等游戏资产，几乎所有游戏逻辑全部以合约形式部署于区块链上，玩家无需担心后门、增发、外挂等传统游戏常见弊端，开发团队亦无法作恶。
 
-{% page-ref page="../getting-started/get-started/" %}
+**跨链通证经济**：全球首个游戏场景化跨链通证经济体系，不同的大陆基于不同的公链开发，不同大陆的通证，资产通过达尔文链自由流通，构造纯数字世界的自由市场经济。
 
-## Technical Features
+**去中心化自治**：进化星球被设计成可以⾃我演化的，可扩展的，开放的系统，玩家通过持有氪石拥有对大陆自治参数拥有投票权，对游戏进化方向拥有话语权。游戏的规则将由 DAO 全体社区成员决定，⾃我进化，每⼀个⽤户既是玩家也是游戏的设计者。
 
-**On-chain Game and Contract Operation:** Ownership of the game assets is confirmed by public blockchain technology. The players themselves own the identity accounts and game assets such as tokens and props. Almost the entire logic of the game is deployed on the blockchain in a contractual form. There is no need for players to worry about the common drawbacks of traditional games such as pulling strings, additional issuance, and plug-ins. The development team can't make shady deals.
+**开放无边界**：通过进化星球开放接口、开发SDK以及公开的链上合约，任何开发者都可以轻松地在进化星球上建立自己的DAPP，整合进经济系统，并通过内置的引荐、分成等激励手段获益。同时外部的传统游戏资产、第三方DAPP、ERC721资产等都可以无缝接入，进化星球将随着技术的发展而不断进化。
 
-**Cross-Chain Token Economy:** The world's first cross-chain token economy system with game scenes, different continents deployed on a different public chain, token, and assets can be exchanged in other continents through the Darwinia Network, constituting a free-market economy in a purely digital world.
+## **进化星球白皮书**
 
-**Decentralized Autonomy:** Evolution Land is designed to be a self-evolving, scalable, and open system. The players holding KTON have the right to vote on the continent's autonomous parameters and the right to speak in the direction of the game's evolution. All members of the DAO community will determine the game rules to enable the game itself to evolve on its own, ensuring that each user is both a player and a game designer.
-
-**Open and Borderless:** With the open interfaces, SDK, and on-chain contracts of Evolution Land, any developer can easily build their own Dapp on the Evolution Land to integrate into the economic system and benefit from built-in referrals, sharing, and many other incentives. Simultaneously, traditional game assets, third-party Dapp, ERC721 assets, etc., can be seamlessly linked in. Evolution Land will evolve with the development of technology.
-
-## Evolution Land White Paper
-
-[Click to get Evolution Land whitepaper](https://imgland.l2me.com/files/evolutionland/whitepaper_en.pdf?t=20181008).
+[点击获取进化星球白皮书](https://imgland.l2me.com/files/evolutionland/whitepaper_cn.pdf?t=20181008)
 

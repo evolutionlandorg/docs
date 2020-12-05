@@ -2,19 +2,19 @@
 
 ![](../../../.gitbook/assets/1880997323791638997538733961407804319999756217548894077905236785516223687.png)  ![](../../../.gitbook/assets/2156807645547886965262323101870526030047058356136294658659622750032887879.png) ![](../../../.gitbook/assets/5423155245754162440547104809081909826952008388636792658301520061198766147.png)  ![](../../../.gitbook/assets/16072504258877233561402863477229294144811948925900581557750050051622800614.png) ![](../../../.gitbook/assets/16122484686004879874940863623874385534526219737989173654280368027604127890.png) ![](../../../.gitbook/assets/19766881309339894122265251687509085759466423986545910335267377134531842048.png)
 
-The story takes place someday in the future. Scientists predict that the Earth will be hit by a meteorite again, which will destroy everything on the Earth.
+故事发生在未来的某天，科学家们预测到了地球将再次受到陨石撞击，将会毁灭地球上的一切。 
 
-All countries have united and successfully cultivated the first genuinely self-aware intelligent body named AHS \(Artificial Homo sapiens\) called Eve, which was used as the LAND \(Earth\) space station to continue human civilization. The administrator is responsible for all operations of the space station when the astronauts are dormant.
+为了能延续人类文明，所有国家联合起来成功培育出了第一个真正意义上有着自我意识的智慧体A.H.S.（Artificial Homo sapiens）名为Eve（夏娃），将其作为了LAND（大地）号太空站的管理者，当宇航员处于休眠状态的时候负责太空站的一切运作。
 
-In addition to the 18 astronauts, the LAND space station also carries the DNA of all life forms on the Earth, sailing toward the depths of the universe, just to continue living, which is the last hope of life on Earth.
+LAND太空站除了18位宇航员外，还承载着地球上所有生命体的DNA，向着宇宙深处航行，只为能延续生命，是地球生命的最后希望。
 
-After losing contact with the Earth, and after 18 astronauts passed away one by one, the scarred LAND finally explored a magical galaxy many years later. Many stars in the galaxy fit the Apostles TA \(The Apostles\). Environmental planet.
+在与地球失去联系后，在18位宇航员一一逝去后，又过了不知多少年，伤痕累累的LAND号终于探索到了一个神奇的星系，星系中有着多颗符合使徒T.A.（The Apostles）生存环境的行星。
 
-When the LAND was about to descend into a low-Earth orbit named Gaia 1 \(Gaia 1\), some systems failed and caused fires. The LAND can no longer maintain its regular route. At the last minute, Eve launched all the evolution capsules.
+当LAND号准备下降至一颗被命名为Gaia 1\(盖亚一号\)行星的近地轨道时意外发生了，多处系统因为年久失修相继发生故障并引起了火灾，LAND号无法再正常维持航线，在最后一刻，Eve发射了所有的进化舱。
 
-The player is a piece of human consciousness that Eve copied into the evolution capsule; these consciousnesses come from the 18 astronauts before they died, saving their thoughts in a digital form, and creating a chemical reaction with Eve. The fusion effect has derived various personalities.
+而玩家则是一段属于Eve复制到进化舱中的人类意识；这些意识来自于之前的18位宇航员在临终前，将自己的思维以数据化的形式进行保存，并和Eve产生了化学般的融合效应，衍生出了各种个性。
 
-The player will be responsible for managing the evolution capsule, cultivating new human apostles born from the synthetic womb, and continuing human civilization.
+玩家将负责管理进化舱，负责培育从合成子宫诞生的新人类使徒，负责让人类文明继续延续…
 
-The Apostle is the carrier of the player’s consciousness. They perform various activities, such as production and battle. A player can own and control multiple apostles.
+使徒是玩家意识的载体，玩家通过操纵使徒进行各项生产、战斗等活动，一个玩家可以拥有和控制多个使徒。
 
