@@ -22,28 +22,26 @@
 
 ## 基础入门 <a id="getting-started"></a>
 
-* [Get Started](getting-started/get-started/README.md)
-  * [Preparation](getting-started/get-started/preparation.md)
-  * [钱包](getting-started/get-started/wallets.md)
-  * [Gas and Fees](getting-started/get-started/gas-and-fees.md)
-  * [Ways to Play](getting-started/get-started/ways-to-play.md)
-
-
+* [新手上路](getting-started/get-started/README.md)
+  * [准备工作](getting-started/get-started/preparation.md)
+  * [理解钱包](getting-started/get-started/wallets.md)
+  * [燃料费Gas](getting-started/get-started/gas-and-fees.md)
+  * [玩法概述](getting-started/get-started/ways-to-play.md)
 * [游戏实体](getting-started/game-entities/README.md)
-  * [World](getting-started/game-entities/world.md)
+  * [世界](getting-started/game-entities/world.md)
   * [大陆](getting-started/game-entities/continent.md)
   * [土地](getting-started/game-entities/land.md)
-  * [Apostle](getting-started/game-entities/apostle/README.md)
-    * [Gameplay](getting-started/game-entities/apostle/gameplay.md)
-    * [Genome](getting-started/game-entities/apostle/genome.md)
-    * [Breed](getting-started/game-entities/apostle/breed.md)
-    * [Skills](getting-started/game-entities/apostle/skills.md)
-    * [Job Market](getting-started/game-entities/apostle/job-market.md)
-    * [Dating](getting-started/game-entities/apostle/dating.md)
-    * [Population](getting-started/game-entities/apostle/population.md)
-    * [Get Your First Apostle](getting-started/game-entities/apostle/get-your-first-apostle.md)
+  * [使徒](getting-started/game-entities/apostle/README.md)
+    * [玩法](getting-started/game-entities/apostle/gameplay.md)
+    * [基因组](getting-started/game-entities/apostle/genome.md)
+    * [生育](getting-started/game-entities/apostle/breed.md)
+    * [技能与职业](getting-started/game-entities/apostle/skills.md)
+    * [职业市场](getting-started/game-entities/apostle/job-market.md)
+    * [生育市场](getting-started/game-entities/apostle/dating.md)
+    * [人口控制](getting-started/game-entities/apostle/population.md)
+    * [获得使徒](getting-started/game-entities/apostle/get-your-first-apostle.md)
   * [资源](getting-started/game-entities/resource/README.md)
-    * [Attenuation](getting-started/game-entities/resource/attenuation.md)
+    * [衰减](getting-started/game-entities/resource/attenuation.md)
   * [宠物](getting-started/game-entities/pet.md)
   * [装备](getting-started/game-entities/equipment.md)
   * [积分和抽奖](getting-started/game-entities/lottery.md)
@@ -57,19 +55,13 @@
 
 * [交易](advanced/trading/README.md)
   * [NFT 市场](advanced/trading/nft-market.md)
-  * [Gringott Bank](advanced/trading/gringott-bank.md)
+  * [古灵阁](advanced/trading/gringott-bank.md)
   * [Uniswap](advanced/trading/uniswap.md)
 * [熔炉](advanced/furnace.md)
 * [进化星球 DAO](advanced/evolution-land-dao/README.md)
   * [收入模型](advanced/evolution-land-dao/revenue-model.md)
   * [治理](advanced/evolution-land-dao/governance.md)
   * [分红](advanced/evolution-land-dao/dividends.md)
-
-## 合作
-
-* [开发者](he-zuo/developerr.md)
-* [设计者](he-zuo/designer.md)
-* [分销商](he-zuo/distributor.md)
 
 ## Tutorials
 
