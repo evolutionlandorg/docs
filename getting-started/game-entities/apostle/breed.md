@@ -1,36 +1,60 @@
-# Breed
+---
+description: 使徒的生育由遗传算法决定基因的继承、变异
+---
+
+# 生育繁衍
+
+使徒可以进行繁衍，并遗传基因给后代。初代使徒的代数为0，他们的后代+1位1代，以此类推。
 
 Apostles can breed. Parents combine their genes and pass along to their children with mutations that affect their physical appearances and talents. The [population](population.md) is increased through this way.
 
-## Biological Parents
+## 伦理
 
-Breeding requires two Apostles to work together. We support the regular way of breeding at the moment, but we may experiment with some radical scenarios.
+生育下一代使徒需要2个使徒作为父母。目前符合常识的关系可以进行生育，但是今后会有条件放开一些激进的生育场景。
 
-### Genders
+### 性别
 
-* Male + Female = Success
-* Male + Male = Fail
-* Female + Female = Fail
+* 男 + 女 = 生育成功
+* 男 + 男 = 无法生育
+* 女 + 女 = 无法生育
 
-We are thinking about allowing MM or FF breeding in the future. It will unlock a hidden trait with a "Rainbow Tatoo" on the body. But this breeding will cost higher \(a special surgical procedure required\), and the rate of death is high.
+在将来 男男 以及 女女 组合或许可以进行生育。将会解锁一个隐藏性状身体部位的“彩虹纹身”。但是这种生育将会花费较高费用（需要特殊的手术，在医生职业的配合下），而且失败（死胎）几率也比较高。
 
-### Species
+### 种族
 
-On the Atlantis continent, all Apostles are human alike, while on the Byzantine continent, they look like an alien. They belong to two different species. Inter-species mating is not allowed.
+在亚特兰蒂斯大陆上的使徒皆为“人类”；在拜占庭大路上的使徒皆为“异形”。他们分属不同种族，跨种族生育不被支持。
 
-### Close Relatives
+### 近亲
 
-This is a big NO. Brothers and sisters, immediate family members, can not breed.
+兄弟姐妹即直系父母子女间不允许生育。
 
-## Cool Down Time
+### 骡子使徒
 
-Every Apostle knows that making babies is hard work. As a result, your Apostle needs time to rest after it breeds. This is called the cooldown. The more kids an Apostle has, the longer it needs to rest between breedings.
+使徒的基因“繁殖能力”决定了使徒是否能够进行繁衍，绝大部分情况下使徒都有繁衍能力，但有某些特例使徒则无繁殖能力，俗称“骡子”使徒。比如：
 
-An Apostle is born with a cooldown speed determined solely by the Apostle's generation number; genetics have nothing to do with it. The lower the Apostle's generation, the faster its initial cooldown. Every time the Apostle breeds, its cooldown period lasts longer.
+* 同性：较大概率流产，中概率出生，拥有特殊彩虹标志，但全为骡子
+* 跨种族：大概率流产，小概率出生，但全为骡子
+* 直系近亲：小概率流产，大概率出生，中概率为骡子
+* 自定义使徒：本身为骡子，无法生育
 
-To sum up:
+以上特例繁殖在后续版本中增加，开始时不允许。
 
-* Cooldown is not based on traits. It’s based solely on an Apostle's generation.
-* Lower generation Apostles are always born with faster cooldown speeds.
-* Every time an Apostle breeds, its cooldown period increases.
+## 强壮指数（繁育时间）
 
+使徒拥有一项指标：强壮指数。它决定了使徒怀孕生育所需的时间。即两个使徒决定生育后到产出新一代使徒所需的时间。在怀孕期间不可进行新的生育及从事其他工作。每生育一次后代，强壮指数升一档，生育所花费的时间也越长。
+
+使徒的初始强壮指数由其代数决定，如下表所述。
+
+![强壮指数](../../.gitbook/assets/0bfd02cc-4b06-48cd-8c8a-1e84b5553e68%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
+
+## **使徒的家谱**
+
+根据使徒父代和子代关系，可向上及向下追溯，根据这些信息生成图形化的血缘（家谱图）。
+
+（成就）标记显示：有成就的使徒，在头像旁会显示有特定的统一标记。
+
+## 基因工程算法
+
+基因工程算法决定来自父、母使徒的两个基因如何生成下一代基因。包含了遗传、交叉和变异等基因位操作。同时基因中含有显性和隐形基因，决定该基因是否对使徒外貌性状及天赋能力进行显性表达。隐形基因可能被继承并在后代中有机会表达。基因发生变异时，将有机会获得更稀有的基因。
+
+为保持遗传的神秘感和不确定性，基因实验室将为闭源合约。

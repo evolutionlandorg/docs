@@ -1,34 +1,151 @@
-# Genome
+---
+description: 使徒的一切都由基因决定
+---
 
-Apostles have a unique physical appearance, talents. Traits are determined by inherited and mutated genome:
+# 基因组
 
-* Basic Info: Gender, Species
-* Physical Appearance Genome
-* Talent Genome
+每一个使徒都拥有独一无二的基因组，由其决定了使徒的外貌、天赋等特性。通过生育时的遗传算法来决定基因的遗传和变异。
 
-Appearance genome and talent genome don't interact with each other. Appearance genome decides how the Apostles look, and talent genome decides how each talent attribute is.
-
-Below is a female human Apostle that resides on the Atlantis continent \(Ethereum\). She is in generation 9.
+以下是在亚特兰蒂斯大陆（以太坊）上的一位女性使徒，第9代。
 
 ![Apostle Physical Appearance Attributes](../../../.gitbook/assets/apostle-attributes.png)
 
-Below is a male alien Apostle that resides on the Byzantine continent \(Tron\). He is in generation 6.
+ 以下是在拜占庭大陆（波场）上一位男性使徒，第6代。
 
 ![Apostle Talents](../../../.gitbook/assets/apostle-talents.png)
 
-## Traits
+## 使徒的组成
 
-### Normal/Base Traits
+### 基本信息
 
-This is a general term for standard traits that are found in Generation-0 Kitties.
+* **基本信息**
+  * ID
+  * 姓名
+  * 称号：对接成就系统
+  * 成就：对接成就系统
+* 血缘属性
+  * 父亲：父亲使徒
+  * 母亲：母亲使徒
+  * 代数：\(父母亲代数较高者\)+1，如父母分别为1代和3代，则新使徒为4代
+* 生命周期
+  * 出生时间：出生时间为父母交配后经过怀孕时间，即正式诞生的时间
+  * 激活时间：第一次活动\(挖矿或者生育\)的时间，生命值从此刻开始，衰减，寿命在天赋里面定义
+  * 死亡时间：使徒到达生命终点后，或者使用一段时间神奇药水后，最终死亡的时间，死亡后不能参与任何活动\(神奇药水可以延续生命，价格遵循哈伯格税收机制\)
+  * 销毁: 通过销毁合约Burn操作，销毁使徒Token，可以获得诸如传奇勋章之类的其他物品\(可抓取该使徒生前故事线和传奇故事，刻在该勋章上面\)
+* 交易属性
+  * 历次拥有该使徒的玩家昵称、交易金额、交易完成时间（包括首次拥有）
 
-### Hidden Genes
+### 外貌基因
 
-Hidden genes appear in every Apostle's gene sequences, but only in concealed positions, and bear no influence on the Apostle's appearance. When apostles with hidden genes breed, there is a chance for a gene swap to occur, which can cause the gene to move to the primary position and show up as a visible trait in their offspring.
+**外貌基因一旦确定则无法修改，包含以下基因位：**\(1\)性别：男、女；\(2\)种族：人类、兽人、异性、自定义等；\(3\)外形；\(4\)花纹；\(5\)眼睛颜色；\(6\)眼睛形状；\(7\)主色；\(8\)花纹颜色；\(9\)点缀色；\(10\)嘴巴；\(11\)嘴巴颜色；\(12\)环境；\(13\)秘密；\(14\)限时属性
 
-### Mutation Traits
+* **性别**
 
-Occasionally two traits can interact to create a mutation, a trait present in a newborn Apostle that does not appear in either parent's genes. As they require breeding to generate, mutated genes can never appear in a Gen 0 Apostle.
+  是具有传统意义上的性别，目前系统提供男和女两种性别，在繁衍中自动成为子代使徒的父和母，今后可拓展第三性别。
 
-Since mutations require specific breeding pairs and luck to manifest in the Apostles population, early generation Apostles with mutations are more scarce. Multiple generations are needed to birth an Apostle that has purebred mutated genes. Mutated genes can also often pair together to create new mutated genes; mutations' progression goes to Base genes, M1 genes, M2 genes, M3 genes, and one possible M4 gene from each trait category.
+* **种族**
+
+  游戏中的使徒会有不同的种族，但区别仅限以下2点，身体仍以人类为基础。只有NPC才会出现非人类身体结构的造型。
+
+  * 人类
+  * 兽人：猫、狗、灰熊、熊猫、老虎、十字、兔子、猿猴、蛇、水牛、犀牛、猪、马
+  * 异形：头为骷髅头
+
+* **脸部细节（26）**
+
+  \(1\)头型；\(2\)皮肤（脸部）颜色；\(3\)头发；\(4\)头发颜色；\(5\)眉毛；\(6\)眉毛颜色；\(7\)眼睛（包括眼眶）；\(8\)眼睛颜色；\(9\)鼻子；\(10\)嘴巴（包括牙齿）；\(11\)嘴巴颜色；\(12\)耳朵；\(13\)耳朵颜色；\(14\)胡子；\(15\)胡子颜色；\(16\)雀斑；\(17\)（颧骨）红晕；\(18\)痣；19\)尖角；\(20\)尖角颜色；\(21\)纹身（脸部）；\(22\)纹身（脸部）颜色；\(23\)伤疤（脸部）；\(24\)伤疤（脸部）颜色；\(25\)特征毛发（脸部）；\(26\)特征毛发（脸部）颜色
+
+* **身体细节（16）**
+
+  \(1\)体型；\(2\)身体肤色；\(3\)特征毛发（身体）；\(4\)特征毛发（身体）颜色；\(5\)纹身（身体）；\(6\)纹身（身体）颜色；\(7\)伤疤（脸部）；\(8\)伤疤（脸部）颜色；\(9\)尾巴；\(10\)尾巴颜色；\(11\)翅膀；\(12\)翅膀颜色；\(13\)内衣上；\(14\)内衣上颜色；\(15\)内衣下；\(16\)内衣下颜色
+
+* **内衣样式**
+
+  根据性别分为2类，男性（内裤），女性（胸衣；内裤）。
+
+* **颜色样式**
+
+  这里的颜色也包括了图案。
+
+  平涂：整体平涂
+
+  区域不同：特指脸部和身体部分的皮肤。
+
+  图案：特指内衣（上/下）。
+
+* **遮挡（隐藏不显示）**
+
+  使徒所有的脸部细节，会因为某些饰品或装备，部分或整体性的被遮挡；在被遮挡时，会根据饰品或装备事先的属性，决定脸部细节是否自动隐藏不显示。
+
+  详细设计参见使徒外貌基因精简分层版。
+
+* **外貌基因的组合**
+
+  由上面的各个细节组合成10个外貌基因位：
+
+  **头，身体，内衣上，内衣下，尾巴，翅膀，尖角，耳朵。**
+
+  头-颜色，身体-颜色，内衣上-颜色，内衣下-颜色，尖角颜色，尾巴颜色，翅膀颜色，耳朵颜色
+
+  纹身（脸部），纹身（身体），伤疤（身体），伤疤（脸部），特征毛发（脸部），特征毛发（身体、手、腿），痣，（颧骨）红晕，雀斑
+
+  特征毛发（身体、手、腿）颜色，纹身（脸部）颜色，伤疤（脸部）颜色，伤疤（身体）颜色，纹身（身体）颜色，特征毛发（脸部）颜色
+
+  头发，眉毛
+
+  头发颜色，眉毛颜色
+
+  眼睛
+
+  眼睛颜色
+
+  嘴巴（包括牙齿），胡子，鼻子，胡子颜色，嘴巴颜色
+
+  环境，背景
+
+### 天赋基因
+
+使徒拥有以下能力天赋基因，对使徒的外貌无显性影响，但决定了使徒进行各项操作时的效率和成功率：
+
+* **常规天赋基因**
+
+  力量、敏捷、灵巧、耐力（生命值）、智力、魅力、运气。
+
+  常规天赋取值范围1-255，在使徒诞生时根据遗传算法确定，并且其取值不超过潜力限定的范围。
+
+* **特殊天赋基因**
+
+  寿命：从进行任何一种操作开始计时，包括工作、生育等等
+
+  心情波动：类似性格，导致输出的波动范围变化
+
+  潜力：决定了使徒各项天赋的上限
+
+  元素偏好：一种或多种，影响工作或战斗的效果
+
+  学习能力（即装备栏）：最多可以装备的技能数量，取值范围0-3
+
+* **潜力**
+
+  潜力决定了使徒各项常规天赋的上限，对后天天赋的加成无影响。当使徒天赋发生变异进阶时，潜力将大概率增加。潜力值取值范围为0-255。
+
+## 自定义使徒
+
+自定义使徒是一种特殊的使徒。它的外貌基因由一个uuid设置，即不通过外貌基因决定形象，该uuid指向一个自定义设计的形象。但是它的天赋基因遵守基因规则，决定其能力。自定义使徒仅在外观形象上自定义，也拥有性别和种族特性。
+
+## 性状特征
+
+### 普通/基础性状
+
+指在初代使徒中的标准基础的显性基因性状。
+
+### 隐性性状特征
+
+隐性基因存在于使徒的基因序列中，处于未公布的位置。它们对使徒没有显性特征的影响。当一个含有隐性基因的使徒生育时，有一定几率发生基因交换，导致隐性基因被交换到显性位置，从而在孩子中该隐性性状得到被显式表达。
+
+### 变异性状
+
+偶尔，两种基因交互时会发生变异，即在孩子的该位置表达出来的性状在父母中都不存在该基因。由于变异性状需要在生育时才有机会发生，所以在初代使徒中不存在变异性状。
+
+由于变异的发生依赖含有特定基因的使徒进行繁育，并且需要有运气成分。低代的使徒中找到变异性状的几率更低。出生具有纯种突变基因的使徒需要多代繁育。变异基因可以继续进行繁育以获得新的变异基因。突变的进展取决于基础基因，M1基因，M2基因，M3基因和每个性状类别的一个可能的M4基因。
 

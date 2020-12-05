@@ -1,18 +1,17 @@
-# Gameplay
+---
+description: 收藏、养成、经营、对战、DeFi，各种丰富玩法
+---
 
-The Apostle is an essential game character in Evolution Land, and they act as the player's agent to perform various tasks.
+# 使徒的玩法
 
-Due to the different appearances, talents, and other characteristics of the apostles, two leading gameplays can be differentiated and introduced:
+使徒是进化星球中非常重要的游戏角色，玩家进行的大部分操作都由使徒来完成。由于使徒的外貌、天赋等特性不同，可以分化发展出两种主要的玩法：
 
-## Play Types
+## 玩法分类
 
-### Collectibles
+### 收藏类
 
-Its [genetic code](genome.md) determines every Apostle's appearance. Each gene fragment is responsible for a different trait of an Apostle, and together they combine to make each unique Apostle. Between the many categories, there are billions of possible combinations.
+使徒的外貌形状和天赋特性由[基因](genome.md)决定，所以仅从外貌来讲，好看酷炫的使徒比普通的使徒有收藏价值；同时，基因有显性和隐形之分，有些形状和天赋在几代基因突变进阶后才会出现，导致各种基因位的稀有度不同。能够拥有稀有高贵的基因并拥有良好天赋的使徒更是少之又少，这些都为使徒作为收藏型玩法提供了支持。
 
-Some traits are regular/base; some are hidden, while some will only appear after several generations of genetic mutations. This results in various rarity distribution. Apostles who have rare and noble genes and useful talents are even more infrequent, and they all support the apostle as a collectible game.
+### 功能型
 
-### Functional
-
-The Apostles perform various work. Their genome decides its capabilities and productivities for each type of job or occupation. Cultivating and selecting the most suitable Apostles are not just fun. It gives you a better reward financially and might help you win a battle.
-
+玩家通过使徒在游戏中承担各种工作。使徒的天赋基因对其从事不同工种的效率输出是不同的。所以，培育、挑选合适的使徒将使其在工作、战斗中事半功倍。

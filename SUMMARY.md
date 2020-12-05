@@ -34,7 +34,7 @@
   * [使徒](getting-started/game-entities/apostle/README.md)
     * [玩法](getting-started/game-entities/apostle/gameplay.md)
     * [基因组](getting-started/game-entities/apostle/genome.md)
-    * [生育](getting-started/game-entities/apostle/breed.md)
+    * [生育繁衍](getting-started/game-entities/apostle/breed.md)
     * [技能与职业](getting-started/game-entities/apostle/skills.md)
     * [职业市场](getting-started/game-entities/apostle/job-market.md)
     * [生育市场](getting-started/game-entities/apostle/dating.md)
@@ -63,7 +63,7 @@
   * [治理](advanced/evolution-land-dao/governance.md)
   * [分红](advanced/evolution-land-dao/dividends.md)
 
-## Tutorials
+## Tutorials  <a id="tutorials"></a>
 
 * [亚特兰蒂斯大陆 - 以太坊](tutorials/atlantis-ethereum/README.md)
   * [以太坊相关知识](tutorials/atlantis-ethereum/about-ethereum.md)

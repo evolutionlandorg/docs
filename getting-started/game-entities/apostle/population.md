@@ -1,32 +1,39 @@
 ---
-description: Haberge Tax Mode
+description: 哈伯格税在使徒人口控制中的运用
 ---
 
-# Population
+# 人口控制 
 
-Breed brings about a population explosion, which affects scarcity and player demand and occupies limited resources \(traffic, labor market\), and lacks the Survival of the Fittest Model in Darwin's theory.
+繁衍仍然带来了人口爆炸，不但影响了稀缺性和玩家需求，而且占用了竞争资源\(流量、人力市场\)，缺少了达尔文理论中的优胜劣汰模型。
 
-## Apostle's Life Span
+## 使徒的生命周期
 
-Therefore, to achieve a balanced population economic model, the plague on the planet can help prevent population explosions. Although a magic potion can cure the sick, the resources of the magic potion are limited. Players can only choose to help the apostles that are more valuable. We divide the Apostle's life cycle into three stages:
+因此，为了达到一个平衡的人口经济模型，星球上的瘟疫可以来帮助防止人口爆炸，瘟疫虽然可以被一种神奇药水治疗，但是神奇药水的资源有限，玩家们只能选择帮助使徒优胜劣汰。我们将使徒的生命周期分成了三个阶段，
 
-* the pre-birth stage, 
-* the natural life stage, 
-* and the life continuation stage. 
+- 诞生前阶段
+- 自然生命阶段
+- 生命延续阶段
 
-When an Apostle was born, he was in the pre-birth stage. At this time, the life span of the Apostle did not enter the countdown. When the Apostle starts to perform any operations, including part-time work, breeding, etc., it will enter the natural life span. The life span trait in the Apostle's genes can also be understood as the life value, representing how long the Apostle can live. When its life is over, the player needs to decide whether to extend the Apostle's life.
+使徒刚出生后，处于诞生前阶段，这时使徒的寿命不进入倒计时。当使徒开始进行任何操作，包括打工、生育等等，即进入自然寿命阶段，使徒基因中的寿命也可以理解为生命值，代表这个使徒可以活多长时间。当其寿命结束，玩家需要作出抉择是否延续使徒的寿命。
 
-During life, the Apostle needs to consume carbon and oxygen COO to maintain life. If carbon and oxygen are short, the Apostle will quickly enter a coma and interrupt the ongoing activities. Planetary Plagues exist all the time. When the Apostle's health expires, his immunity drops, and he cannot resist the plague on the Evolution Land. As a result, he cannot continue any work and enters a coma. Players can keep the Apostle in this state or send the Apostle to the "Incinerator" for destruction in exchange for a commemorative medal. There is a strange magic potion shop that sells magic potion. The magic potion can help the Apostle to come back from the coma and continue his life.
+寿命期间，使徒需要消耗碳氧COO来维持生命，如果缺少碳氧，则使徒很快进入昏迷状态而中断正在进行的活动。
 
-## Price of the Magic Potion
+## 星球瘟疫和神奇药水
 
-Weirdly, the magic potion shop does not decide the price. On the contrary, the price of this magical potion, `P`, is arbitrarily determined by the buyer. However, there is also a premise that the player must agree that anyone else can purchase the Apostle from at the price `P*(1/T )` even the player is not willing to.
+星球瘟疫时刻存在，当使徒生命值到期时，其免疫力下降，无法抵抗进化星球上的一种特殊瘟疫，导致无法继续任何工作和操作，进入一种昏迷状态。玩家可以保持使徒这种状态，也可以将使徒发送到「焚化炉」销毁，以换取一枚纪念勋章。
 
-Therefore, the magic potion price cannot be set too low so that other players can compulsorily buy your Apostle, nor should it be set too high because it means you are wasting money on the magic potion. So, in the end, players will tend to buy magic potions only for those high-value Apostles at a reasonable price.
+进化星球上有一个奇怪的神奇药水店，卖出的神奇药水可以帮助使徒延续生命。当使徒寿命到期进入昏迷状态后，除非使用神奇药水，否则无法恢复。神奇药水的价格由玩家自行决定，使用神奇药水后使徒即可延续生命。
 
-The magic potion shop may choose to distribute part of the income from the sale of magic potions to the living apostles to encourage the reproduction and birth of new apostles' lives.
+在进入生命值延续阶段前，主人可以选择是否延续生命， 如果玩家选择不延续，则使徒会变成一块传奇勋章，什么也不能做，只能用于挂在其他使徒身上用于增加能力值。但是，如果玩家觉得使徒价值比较高，可以选择购买神奇药水来抵御星球上的瘟疫以延续生命。卖这种神奇药水的商店有一种奇怪的规定，这种神奇药水的价格 `P` 由玩家购买者来任意决定，但是还有一个前提，就是玩家必须同意其他任何人可以强制以 `P*(1/T )` 的价格向使徒拥有者购买这个使徒。因此神奇药水的价格不能设的太低，这样其他玩家可以强制购买他的使徒，也不能设的太高，这样购买者会无力承担神奇药水的费用。因此最终，玩家会倾向于只为那些价值高的使徒购买神奇药水。
 
-## Haberge Tax Mode
+神奇药水店可能会选择将部分售卖神奇药水的收入分给那些活着的使徒，来激励新的使徒生命的繁衍和诞生。
 
-This model is inspired by the Harberger Xax model, which introduces two concepts for how property ownership works: Citizens evaluate their property and pay taxes based on that price—self-assessment tax; Anyone can purchase your property at a price calculated based on the tax you pay. This will encourage citizens only to keep valuable assets and pay honest tax based on their real value.
+## 哈伯格税模式
+
+这个模型有点像哈伯格税收模式，其为财产所有权如何运作引入了两个概念：
+
+* 公民评估自己的财产，并基于该价格进行纳税——自我评估税；
+* 任何人在任何时候，都可以以该价格从你那里购买财产，也就是说，任何人在任何时候都可以迫使你对财产进行出售。
+
+因此，使徒生命值进入神奇药物\(用哈伯格税购买\)阶段后，主人玩家需要评估自己使徒，给一个价格，并基于这个价格进行纳税\(购买神奇药物延续使徒生命\)。并且，任何玩家在任何时候，可以以该价格从你那边购买这个使徒，也就是说，任何人在任何时候都可以迫使你使徒财产进行出售。他们在购买这个使徒后也需要继续哈伯格税收，直到使徒死亡变成传奇勋章。
 
