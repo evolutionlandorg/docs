@@ -49,3 +49,7 @@ Competitive games such as PvE, PvP, siege, group warfare and national war requir
 ## Can I send an Apostle to my friend?
 
 Yes, you can.  Visit your Apostle's page and use "Gift" button to send to your friend's address.
+
+## Can I tame a CryptoKitty on the Byzantine Continent?
+
+Unfortunately, you can't do that. CryptoKitty is an external NFT only on the Ethereum network, which is our Atlantis Continent. You can tame and bind a CryptoKitty to your Apostles on the Atlantis Continent, not on Byzantine Continent yet. 
