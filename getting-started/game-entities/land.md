@@ -1,5 +1,7 @@
 # Land
 
+![Land Resource Reserves](../../.gitbook/assets/land-1.png)![Land Resource Reserves](../../.gitbook/assets/land-2.png)![Land Resource Reserves](../../.gitbook/assets/land-3.png)![Land Resource Reserves](../../.gitbook/assets/land-4.png)
+
 The size of each land is 100m x 100m, and there is no limit on the height \(assuming it is also 100m\). Then each land is a three-dimensional Euclidean Space. In this land space, the player can construct buildings. The building is made up of a number of basic units called “square blocks”, each of which is 1m x 1m. Each land can only be placed in a building that does not exceed its size. Multiple buildings can be placed on the top of the block, as long as there is no overlapping area between any two of them, and can be separated by smooth movement.
 
 LAND has five [resource](resource/) reserves that can be mined indicated as a number called Max Resource Attenuation Rate\(MRAR\). It means at full speed, the max amount of resources can be mined daily. The resource decays daily at a rate of about 1/10,000 every day.
