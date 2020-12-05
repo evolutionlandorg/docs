@@ -42,7 +42,7 @@
 
 ## **举例说明**
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/auction-revenue.png)
 
 To compensate governors who sacrifice their [KTON](../../getting-started/tokens/kton.md) liquidity and participation in the governance process. Revenues in the Governor Pool is paid to these governors based on their staked KTON proportionally against the overall pool.
 

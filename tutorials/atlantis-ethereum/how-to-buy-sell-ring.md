@@ -10,7 +10,7 @@
 
 出售：[https://www.evolution.land/land/1/bank/sell-ring](https://www.evolution.land/land/1/bank/sell-ring)
 
-![](../../.gitbook/assets/image%20%2818%29%20%281%29.png)
+![](../../.gitbook/assets/image%20%2818%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
 ## **在Uniswap进行交易**
 
