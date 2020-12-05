@@ -4,33 +4,32 @@ description: Contribute and help the world evolve
 
 # Developers
 
-Evolution Land is owned by players and created by developers. Any developer, no matter you are a designer, front-end engineer, or smart contract developer, you can find contribute and help the world evolve.  The [incentive](/overview/referral-program#smart-contract-based-referral) is built into the base smart contracts.
+Evolution Land is owned by players and created by developers. Any developer, no matter you are a designer, front-end engineer, or smart contract developer, you can find contribute and help the world evolve. The [incentive](https://github.com/evolutionlandorg/docs/tree/81207c410a2c2ae52f984b5c643a2a82d18ca54b/overview/referral-program/README.md#smart-contract-based-referral) is built into the base smart contracts.
 
 ## UI
 
 ### Front-end Interface
 
-Evolution Land's game logic is stored on the blockchain. Any web3 supported front-end can interact with the smart contracts without prior permission. Right now, players can access the game through v1 and v2 interfaces. They are perfect samples to show how you can design and develop various UIs while interacting with the same backend.
-We will open-source v1 front-end soon. It's a minimal design interface that serves as a scaffold project upon which you can develop.
+Evolution Land's game logic is stored on the blockchain. Any web3 supported front-end can interact with the smart contracts without prior permission. Right now, players can access the game through v1 and v2 interfaces. They are perfect samples to show how you can design and develop various UIs while interacting with the same backend. We will open-source v1 front-end soon. It's a minimal design interface that serves as a scaffold project upon which you can develop.
 
 ### Architecture Designers
 
-Evolution Land plans to release new gameplays of constructing buildings that players can construct or purchase to be deployed on the Land they own. A building market will be in place. Designers can model and design architectures to sell on the market. 
+Evolution Land plans to release new gameplays of constructing buildings that players can construct or purchase to be deployed on the Land they own. A building market will be in place. Designers can model and design architectures to sell on the market.
 
 ## SDK
 
-A client-side javascript SDK library is already open sourced on the github.  
+A client-side javascript SDK library is already open sourced on the github.
 
-- Read the [docs](https://evolutionland.js.org)
-- Visit the code [repo](https://github.com/evolutionlandorg/js-sdk)
+* Read the [docs](https://evolutionland.js.org)
+* Visit the code [repo](https://github.com/evolutionlandorg/js-sdk)
 
 ## Smart-contract Interaction
 
-Assets and game logics are all on-chain.  You can:
+Assets and game logics are all on-chain. You can:
 
-- Propose to introduce your asset to be used in Evolution Land
-- Use Evolution Land assets in your application
-- Invoke game plays contract from your application
+* Propose to introduce your asset to be used in Evolution Land
+* Use Evolution Land assets in your application
+* Invoke game plays contract from your application
 
 Check out smart-contract source code at the [repos](https://github.com/evolutionlandorg).
 
@@ -38,7 +37,7 @@ Check out smart-contract source code at the [repos](https://github.com/evolution
 
 **Ethereum Mainnet**
 
-```
+```text
 TOKEN_DEX_BRIDGE: "0xab1Cb6a9467b77B9451c1c61140FB34494baFFDD",
 TOKEN_RING: "0x9469d013805bffb7d3debe5e7839237e535ec483",
 TOKEN_WITHDRAW: "0xf45e406067798d2df7913704edcc2ac8d07f3d9e", // takeback
@@ -80,7 +79,7 @@ FURNACE_TAKEBACK: "0x8d7af9d2310016712b8f269df266f957cb12a27b",
 
 **Ethereum Ropston Testnet**
 
-```
+```text
 TOKEN_DEX_BRIDGE: "0xD42AA035Ea64feBAE5d2b3fd08Dc7bD89874C6dc", // DexBridge swap
 TOKEN_RING: "0xb52FBE2B925ab79a821b261C82c5Ba0814AAA5e0",
 TOKEN_WITHDRAW: "0x115493f616F3D213913F843fB5594C4d004b4782", // takeback
@@ -123,7 +122,7 @@ FURNACE_TAKEBACK: "0xA10D0C6e04845A5e998d1936249A30563c553417",
 
 **Tron Mainnet**
 
-```
+```text
 TOKEN_DEX_BRIDGE: "4165798DC18E6F8382FE96EC797105FC270FD4F466",
 TOKEN_RING: "416e0d26adf5323f5b82d5714354dc3c6870adee7c",
 TOKEN_WITHDRAW: "418507305db28a11038a493821b84117cf9a9f08fe", // takeback
@@ -157,9 +156,9 @@ AUCTIONHOLDER: "",
 JUSTSWAP_EXCHANGE: "41394CFB02DA445B95CA61DB8A993AF63E2AAE907A",
 ```
 
-**Tron Testnet** 
+**Tron Testnet**
 
-```
+```text
 TOKEN_DEX_BRIDGE: "41061CC649E56EB386949A789034B9EF61FC6B11D0", // DexBridge swap
 TOKEN_RING: "415e465875334b3960e6fc3f6e018ef70d66dedf15",
 TOKEN_WITHDRAW: "41B139BBA1233BB4F2AE2F019CFDD9C1DD15C6EA37", // takeback

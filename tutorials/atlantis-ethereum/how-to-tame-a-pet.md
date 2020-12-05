@@ -1,7 +1,7 @@
-# How to Tame a Pet？
+# How to tame a pet
 
 {% hint style="info" %}
-This guide covers the v1 UI interface. In v2 (latest) UI interface, the guide should work too with a slight change.
+This guide covers the v1 UI interface. In v2 \(latest\) UI interface, the guide should work too with a slight change.
 {% endhint %}
 
 Below are simple screenshots of how to using the "Pet" system.
@@ -36,4 +36,5 @@ Apostle with Pet in detail view.
 
 ![Mining Enhanced](file:///Users/achien/Projects/evolution.land/repo/docs/.gitbook/assets/pet8.png?lastModify=1607158717)
 
-[Mining Ability Enhanced](/getting-started/game-entities/apostle/skills.md#productivity). Apostle with a pet has better minging output than without.
+[Mining Ability Enhanced](../../getting-started/game-entities/apostle/skills.md#productivity). Apostle with a pet has better minging output than without.
+

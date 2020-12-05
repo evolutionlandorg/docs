@@ -12,7 +12,7 @@ The furnace is the NFT synthesis system in Evolution Land. In the furnace system
 
 11.11 Let us witness the grand opening of the Evolution Land Furnace system, participate in the treasure box airdrop party, and win free limited mining drills!
 
-## Why grab the \[Limited Time Free Treasure Box\]? What’s amazing about it? 
+## Why grab the \[Limited Time Free Treasure Box\]? What’s amazing about it?
 
 Treasure boxes have \[Golden Treasure Box\] and \[Silver Treasure Box\]. Rewards inside are different, and the drop rate of varying levels of drills is different.
 
@@ -52,7 +52,7 @@ Where are the treasure boxes?
 
 Follow [Darwinia](https://twitter.com/@DarwiniaNetwork) Twitter and find answers!
 
-## How to get a free treasure box airdrop? 
+## How to get a free treasure box airdrop?
 
 Complete simple tasks:
 

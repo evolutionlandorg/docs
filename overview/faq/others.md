@@ -1,17 +1,16 @@
-# General FAQ
+# Others
 
 ## Why is \[transaction failed\]?
 
 There may be a "transaction fail" when participating in a land auction. There're many possible reasons:
 
-- You may provide less gas limit that the transaction requires to complete. You should not tune down the gas limit estimated by your wallet or tune up a little bit to be sure.
-- The asset you are trying to purchase is not for sale (sell pulled it off, someone else bought it, or placed a bid result your bid amount unqualified) when your transaction is processed, hence failed. 
-
-- Or it could be some un-discovered bug, let us [know](/overview/feedback-and-support)
+* You may provide less gas limit that the transaction requires to complete. You should not tune down the gas limit estimated by your wallet or tune up a little bit to be sure.
+* The asset you are trying to purchase is not for sale \(sell pulled it off, someone else bought it, or placed a bid result your bid amount unqualified\) when your transaction is processed, hence failed.
+* Or it could be some un-discovered bug, let us [know](https://github.com/evolutionlandorg/docs/tree/6311cb781553ee3b79984ab2d0df7865d51a103e/overview/feedback-and-support/README.md)
 
 ## My transaction is failed, but fee is still charged, why?
 
-When your transaction is process on the blockchain, you need to pay for the gas.  Even the transaction is failed, it still requires computation.  The gas fee is charged by the miners on the blockchain, not by Evolution Land game.
+When your transaction is process on the blockchain, you need to pay for the gas. Even the transaction is failed, it still requires computation. The gas fee is charged by the miners on the blockchain, not by Evolution Land game.
 
 ## Why stopped at \[waiting for confirmation\]?
 
@@ -45,5 +44,5 @@ Genetic probability of next generation attributes：40% genetic mother, 40% gene
 
 Similar to the real world, all economic activities, production and construction are centered around resources. Props, architectures, and researches require different types of element resources. For now, you can add element preferences \(in consumption of resources\) to the new apostles to increase the efficiency of the apostle's mining of such elements.
 
-{% page-ref page="/getting-started/game-entities/resource" %}
+{% page-ref page="../../getting-started/game-entities/resource/" %}
 

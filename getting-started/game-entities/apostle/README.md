@@ -1,6 +1,10 @@
 # Apostle
 
+![](../../../.gitbook/assets/1880997323791638997538733961407804319999756217548894077905236785516223687.png)
+
 The story takes place someday in the future. Scientists predict that the Earth will be hit by a meteorite again, which will destroy everything on the Earth.
+
+![](../../../.gitbook/assets/16122484686004879874940863623874385534526219737989173654280368027604127890.png)
 
 All countries have united and successfully cultivated the first genuinely self-aware intelligent body named AHS \(Artificial Homo sapiens\) called Eve, which was used as the LAND \(Earth\) space station to continue human civilization. The administrator is responsible for all operations of the space station when the astronauts are dormant.
 

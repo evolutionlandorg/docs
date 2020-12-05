@@ -2,9 +2,7 @@
 
 ## **Auction rules**
 
-In Evolution Land, the seller can set a pair of starting price and ending price and the price change duration. According to the price change period, the auction price will change from the starting price to the ending price linearly. 
-
-{% page-ref page="/advanced/trading/nft-market.md#auction-system" %}
+In Evolution Land, the seller can set a pair of starting price and ending price and the price change duration. According to the price change period, the auction price will change from the starting price to the ending price linearly.
 
 ## What is a Dutch auction?
 
@@ -30,19 +28,20 @@ One piece of Land is released for auction every two hours on Atlantis, while tha
 
 ## Why Show \[outbid\]? What should I do?
 
-If other player places a bid higher than yours, your bid is outbid.  You can bid again if you still want to win the auction or simple give up.
+If other player places a bid higher than yours, your bid is outbid. You can bid again if you still want to win the auction or simple give up.
 
 ## Why do transactions often fail when in auction?
 
 There may be a "transaction fail" when participating in a land auction. There're many possible reasons:
 
-- You may provide less gas limit that the transaction requires to complete. You should not tune down the gas limit estimated by your wallet or tune up a little bit to be sure.
-- The asset you are trying to purchase is not for sale (sell pulled it off, someone else bought it, or placed a bid result your bid amount unqualified) when your transaction is processed, hence failed.
+* You may provide less gas limit that the transaction requires to complete. You should not tune down the gas limit estimated by your wallet or tune up a little bit to be sure.
+* The asset you are trying to purchase is not for sale \(sell pulled it off, someone else bought it, or placed a bid result your bid amount unqualified\) when your transaction is processed, hence failed.
 
 Taking the Land auction as an example, you make a bid 10% more than the current price of 100. The network may confirm your transaction for a longer time, depending on the payment fee. Before your transaction is confirmed, another user may pay a higher gas fee to make a bid, and his transaction is included in the network before your transaction. Your bid might be lower when your transaction is being processed than the latest offer, so your bid is rejected as an invalid bid.
 
-It could also be some un-discovered bug, let us [know](/overview/feedback-and-support)
+It could also be some un-discovered bug, let us [know](https://github.com/evolutionlandorg/docs/tree/6311cb781553ee3b79984ab2d0df7865d51a103e/overview/feedback-and-support/README.md)
 
 ## Show \[Congratulations! Transaction successfully\], but I can't find my Apostle/Land?
 
 Networks sometimes have short delays, please wait and refresh.
+

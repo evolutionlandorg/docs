@@ -20,7 +20,7 @@ Click on "More" to see the market: including "All", "On sale", "For Breed" and "
 
 ![](../../.gitbook/assets/apostle-talents.png)
 
-![](../../.gitbook/assets/auction-timer.png)
+![](../../.gitbook/assets/auction-timer%20%281%29.png)
 
 ![](../../.gitbook/assets/tron-apostle-bid.png)
 

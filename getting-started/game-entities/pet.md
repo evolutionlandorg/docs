@@ -12,11 +12,9 @@ EvolutionLand contract system will operate on this mirrored kitty instead of the
 
 The Player also can "let go" the bound Pet to revert the operation or simply trying to re-tame using a different Apostle.
 
-We are looking to expand Pet gameplay by collaborating with more external NFT projects. If you are running an NFT project and would like to include your cute animals in Evolution Land, please let us [know](/overview/feedback-and-support.md).
+We are looking to expand Pet gameplay by collaborating with more external NFT projects. If you are running an NFT project and would like to include your cute animals in Evolution Land, please let us [know](../../overview/feedback-and-support.md).
 
 ## Tame a Pet
 
 Check out the guide below to learn how to tame a CryptoKitty on the Atlantis Continent.
-
-{% page-ref page="/tutorials/atlantis-ethereum/how-to-tame--pet.md" %}
 

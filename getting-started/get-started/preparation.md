@@ -4,7 +4,7 @@ description: How to play Evolution Land?
 
 # Preparation
 
-You need a [cryptocurrency wallet](wallets.md) to interact with game lands.  This wallet will help manage your private key so that you can receive/send crypto tokens/assets, as well as signing transactions.
+You need a [cryptocurrency wallet](wallets.md) to interact with game lands. This wallet will help manage your private key so that you can receive/send crypto tokens/assets, as well as signing transactions.
 
 Evolution Land consists of continents deployed on different blockchains, so first, you have to choose which continent to play on. The hardware and software requirements for different continents can be seen in the following table:
 
