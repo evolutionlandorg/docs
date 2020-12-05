@@ -18,7 +18,21 @@ Evolution Land plans to release new gameplays of constructing buildings that pla
 
 ## SDK
 
-A client-side javascript SDK library is already open sourced on the github.
+A client-side javascript SDK library is already open sourced on the github. 
+
+```javascript
+const evo = new Evolution();
+
+evo.createWeb3js({provider: web3.currentProvider})
+evo.createTronweb({
+  fullHost: 'https://api.shasta.trongrid.io',
+})
+
+// evo.createEvolutionLand('ethereum', 'ropsten')
+evo.createEvolutionLand('tron', 'shasta')
+
+evo.ethEvoland.buyRing(10000)
+```
 
 * Read the [docs](https://evolutionland.js.org)
 * Visit the code [repo](https://github.com/evolutionlandorg/js-sdk)
