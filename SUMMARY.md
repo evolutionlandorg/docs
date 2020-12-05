@@ -69,6 +69,7 @@
   * [How to buy/sell RING?](tutorials/atlantis-ethereum/how-to-buy-sell-ring.md)
   * [How to buy/sell/gift【lands】 and related operations](tutorials/atlantis-ethereum/how-to-buy-sell-gift-lands-and-related-operations.md)
   * [How to buy/sell/gift 【apostles】 and related operations](tutorials/atlantis-ethereum/how-to-buy-sell-gift-apostles-and-related-operations.md)
+  * [How to tame a pet](tutorials/atlantis-ethereum/how-to-tame-a-pet.md)
 * [Byzantine - Tron](tutorials/byzantine-tron/README.md)
   * [How to register?](tutorials/byzantine-tron/how-to-register.md)
   * [How to buy/sell RING?](tutorials/byzantine-tron/how-to-buy-sell-ring.md)
