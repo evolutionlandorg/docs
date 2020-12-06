@@ -71,6 +71,7 @@
   * [如何购买/出售RING？](tutorials/atlantis-ethereum/how-to-buy-sell-ring.md)
   * [购买/出售/赠送地块以及地块的相关操作](tutorials/atlantis-ethereum/how-to-buy-sell-gift-lands-and-related-operations.md)
   * [购买/出售使徒以及使徒的相关操作](tutorials/atlantis-ethereum/how-to-buy-sell-gift-apostles-and-related-operations.md)
+  * [如何驯服宠物](tutorials/atlantis-ethereum/how-to-tame-a-pet.md)
 * [拜占庭大陆 - 波场](tutorials/byzantine-tron/README.md)
   * [波场相关知识](tutorials/byzantine-tron/about-tron.md)
   * [怎样注册进化星球？](tutorials/byzantine-tron/how-to-register.md)

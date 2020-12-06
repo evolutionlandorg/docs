@@ -1,5 +1,5 @@
 ---
-description: Want to tame a cute CryptoKitty?
+description: 想要驯服一只谜恋猫作为使徒的宠物么
 ---
 
 # 宠物
@@ -52,7 +52,9 @@ The Player also can "let go" the bound Pet to revert the operation or simply try
 
 We are looking to expand Pet gameplay by collaborating with more external NFT projects. If you are running an NFT project and would like to include your cute animals in Evolution Land, please let us [know](../../overview/feedback-and-support.md).
 
-## Tame a Pet
+## 驯服谜恋猫
 
-Check out the guide below to learn how to tame a CryptoKitty on the Atlantis Continent.
+查看以下教程了解如何在亚特兰蒂斯大陆上驯服谜恋猫。
+
+{% page-ref page="/tutorials/atlantis-ethereum/how-to-tame-a-pet.md" %}
 
