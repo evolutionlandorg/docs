@@ -12,6 +12,8 @@ We will discuss with the Evolution Land residents to build a public management m
 
 ## Governor and Voting Power
 
+![Voting Power Source](../../.gitbook/assets/voting-power-en.png)
+
 Anyone who has a stake in the game has a say in the governance process. They have various influence levels normalized as Voting Power.
 
 | Demographic | Voting Power \(VP\) |
