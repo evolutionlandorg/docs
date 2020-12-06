@@ -16,7 +16,7 @@ RING is the native token of the Darwinia Network. Evolution Land, as the flagshi
 
 RING is inflated at a rate of around 5% by the Darwinia Network to pay validators and nominators for validating and producing blocks. RING has a hard cap of 10 billion to be reached in 50 years at the current rate.
 
-## ![KTON](../../.gitbook/assets/ringicon.png) RING Specification
+## ![KTON](../../.gitbook/assets/ringIcon.png) RING Specification
 
 * Ethereum \(the Atlantis Continent\)
   * Spec: `ERC20`
