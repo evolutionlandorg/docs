@@ -1,5 +1,5 @@
 ---
-description: A Decentralized Autonomous Organization
+description: 进化星球是一个去中心化自治社区
 ---
 
 # 进化星球 DAO
