@@ -1,3 +1,7 @@
+---
+description: 钱包用于管理私钥以及所属的资产，游戏内互动都需要钱包的帮助。
+---
+
 # Wallet Related
 
 ## I can't find tokens in Metamask
