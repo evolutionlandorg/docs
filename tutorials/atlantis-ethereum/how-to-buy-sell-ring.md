@@ -1,24 +1,43 @@
 # How to buy/sell RING?
 
-## **1. Trading in the Gringotts on ATLANTIS**
+You can buy or sell RING through these channels:
 
-You can exchange RING and ETH through the Bancor in Gringotts. The current price of RING is determined by Bancor's latest transaction price and your order amount. The transaction will cost ETH as GAS.
+- In-game Grintgott Bank
+- Decentralized Exchange
+- Centralized Exchange
 
-Buy：[https://www.evolution.land/land/1/bank/buy-ring](https://www.evolution.land/land/1/bank/buy-ring)
+## Gringott Bank
 
-Sell：[https://www.evolution.land/land/1/bank/sell-ring](https://www.evolution.land/land/1/bank/sell-ring)
+Gringott Bank is the in-game bank that allows you to buy or sell RING using the network's native token, such as ETH or TRX, according to the continent you are on, whether it's Atlantis \(ETH\) or Byzantine \(TRX\). Behind the scene, Gringott Bank links to a liquidity pool, Uniswap \(Atlantis\) and Justswap \(Byzantine\), to provide the liquidity.
 
-![Buy and Sell RING](../../.gitbook/assets/buy-sell-ring.png)
+* ![Gringott](../../.gitbook/assets/gringott.png)[Gringott Bank on the Atlantis Continent \(Ethereum\)](https://www.evolution.land/land/1/bank/buy-ring)
 
-## **2. Trading on OTCMAKER**
+![Buy and Sell RING](../../.gitbook/assets/image (40).png)
 
-You can buy/sell RING directly from the merchant on OTCMAKER, or you can post an advertisement to become a merchant to buy/sell your own RING.
+## DEX
 
-Link: [https://www.otcmaker.com/](https://www.otcmaker.com/)
+DEX stands for Decentralized Exchange. You can use your cryptocurrency wallet to buy or sell directly.
 
-## **3. Trading on Cybex**
+On Atlantis Continent \(Ethereum\):
 
-You can trade RING/USDT, RING/ETH and RING/CYB on the Cybex.
+* Uniswap\(v2\): [RING/ETH](https://info.uniswap.org/token/0x9469d013805bffb7d3debe5e7839237e535ec483)
+* 1inch Exchange: [RING/ETH](https://1inch.exchange/#/RING/ETH)
 
-Link: [https://dex.cybex.io](https://dex.cybex.io/)
+On the Byzantine Continent \(Tron\):
+
+* Justswap: [RING/TRX](https://justswap.io/#/scan/detail/trx/TL175uyihLqQD656aFx3uhHYe1tyGkmXaW)
+
+## CEX
+
+CEX stands for Centralized Exchange. You can also buy or sell RING at many CEX. The following list shows a few. You can check out [coinmarketcap](https://coinmarketcap.com/currencies/darwinia-network/markets/) for more information.
+
+* [Huobi Global](https://www.hbg.com/en-us/exchange/ring_usdt)
+* [BKEX](https://www.bkex.com/trade/RING_USDT)
+* [MXC.com](https://www.mxc.com/trade/easy#RING_USDT)
+* [Hotbit](https://www.hotbit.io/exchange?symbol=RING_USDT)
+* [Gate.io](https://gate.io/trade/ring_usdt)
+* [CoinEX](https://www.coinex.com/trading?currency=usdt&dest=ring&tab=limit)
+* [Poloniex](https://poloniex.com/exchange#usdt_ring)
+* [Hoo](https://hoo.com/spot/ring-usdt)
+* [otcmaker](https://www.otcmaker.com/)
 
