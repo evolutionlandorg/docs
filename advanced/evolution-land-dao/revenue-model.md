@@ -44,7 +44,9 @@ The allocation percentage is subject to the governance process.
 
 This is also called the lottery pool. When players spent some money in the game, they are rewarded with Points that act as lottery tickets. Players can use them in the "Happy Lottery" gameplay to win a grand prize. The prize pool is filled up by this lottery tax from each spending transaction.
 
-Check out Point and Lottery for more information.
+Check out [Point and Lottery](/getting-started/game-entities/lottery.md) for more information.
+
+{% page-ref page="/getting-started/game-entities/lottery.md" %}
 
 ### Content Contribution Incentive Pool
 
@@ -57,6 +59,8 @@ Because of the subjective nature of this pool's purpose, no money has been spent
 Governor is a paying job. Any player can become a governor to participate in the governance process as long as they have staked interest in the game. This pool incentivizes governors' sacrificed liquidity.
 
 Check out [Governance](governance.md) for more information.
+
+{% page-ref page="governance.md" %}
 
 ### Operations & Dev Pool
 
