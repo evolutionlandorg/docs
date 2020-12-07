@@ -19,11 +19,12 @@ If any players participating in the auction through your link, you would get a r
 
 ### Case Study
 
-\(1\) Player A is the first one who bid on the land. He/she cost 1000 RING.
+1. Player A is the first one who bid on the land. He/she cost 1000 RING.
 
-\(2\) Player B participates in the auction through the link shared by Player C and successfully bids with 1100 RING.
+2. Player B participates in the auction through the link shared by Player C and successfully bids with 1100 RING.
 
-\(3\) After Player B bid successfully, let's look at the Tokens Transferred information:
+3. After Player B bid successfully, let's look at the Tokens Transferred information:
+
 
 ![Bid Transaction Analysis](../.gitbook/assets/referal-txs.png)
 
