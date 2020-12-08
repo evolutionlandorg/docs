@@ -48,14 +48,14 @@ description: 交易创造价值，理解各种拍卖规则
 
 ## 为什么会【交易失败】？
 
-There may be a "transaction fail" when participating in a land auction. There're many possible reasons:
+参与土地拍卖时，有时可能会出现「成交失败」的情况。存在以下几种可能的原因：
 
-* You may provide less gas limit that the transaction requires to complete. You should not tune down the gas limit estimated by your wallet or tune up a little bit to be sure.
-* The asset you are trying to purchase is not for sale \(sell pulled it off, someone else bought it, or placed a bid result your bid amount unqualified\) when your transaction is processed, hence failed.
+* 也许是由于你所设定的燃料费上限低于交易完成所需额度。请尽量不要调低钱包里预估的燃料费上限，或者调高一点以确保交易成功。
+* 在你的交易被处理时，试图购买的资产已不是出售中的状态（已成功出售，已被其他人买走，或者你的出价金额不合格），因此拍卖失败。
 
-Taking the Land auction as an example, you make a bid 10% more than the current price of 100. The network may confirm your transaction for a longer time, depending on the payment fee. Before your transaction is confirmed, another user may pay a higher gas fee to make a bid, and his transaction is included in the network before your transaction. Your bid might be lower when your transaction is being processed than the latest offer, so your bid is rejected as an invalid bid.
+以土地拍卖为例，假设你的出价比起拍价格100多出10%。根据支付的燃料费不同，网络可能需要更长的时间来对您的交易进行确认。在你的交易被确认之前，可能有其他用户支付了更高的燃料费进行投标，并且他的交易在你的交易之前被记录在网络中。因此当网络处理到你交易时，你的出价可能已经低于最新报价，所以你的出价将被视为无效出价而失败。
 
-It could also be some un-discovered bug, let us [know](/overview/feedback-and-support.md)
+此外，也许是一些其他的未知错误，请联系[我们](/overview/feedback-and-support.md)
 
 ## 显示【交易成功】，但我找不到我的物品？
 
