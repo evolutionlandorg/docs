@@ -4,21 +4,21 @@ description: Contribute and help the world evolve
 
 # Developers
 
-Evolution Land is owned by players and created by developers. Any developer, no matter you are a designer, front-end engineer, or smart contract developer, you can find contribute and help the world evolve. The [incentive](referral-program.md#smart-contract-based-referral) is built into the base smart contracts.
+进化星球为玩家所拥有，由开发者创建。任何开发者，无论是设计师、前端工程师还是智能合约开发者，都可以参与贡献从而推动世界发展。[激励计划](referral-program.md#smart-contract-based-referral) 部署于智能合约中。
 
 ## UI
 
-### Front-end Interface
+### 前端界面
 
-Evolution Land's game logic is stored on the blockchain. Any web3 supported front-end can interact with the smart contracts without prior permission. Right now, players can access the game through v1 and v2 interfaces. They are perfect samples to show how you can design and develop various UIs while interacting with the same backend. We will open-source v1 front-end soon. It's a minimal design interface that serves as a scaffold project upon which you can develop.
+进化星球的游戏逻辑存储在区块链上。无需事先许可，任何由web3支持的前端都可以与智能合约进行交互。现在，玩家可以通过v1和v2接口访问游戏，这是展示如何与同一个后端交互时设计和开发各种用户界面的完美示例。我们将在不久后开放v1版本前端的源代码。这是一个最小的设计接口，可以作为一个脚手架项目来开发。
 
-### Architecture Designers
+### 建筑设计师
 
-Evolution Land plans to release new gameplays of constructing buildings that players can construct or purchase to be deployed on the Land they own. A building market will be in place. Designers can model and design architectures to sell on the market.
+进化星球计划发布新的游戏玩法，玩家可以通过建造或购买建筑来部署在他们拥有的土地上。一个建筑市场将会建立起来。设计师可以对建筑进行建模和设计，以便在市场上销售。
 
 ## SDK
 
-A client-side javascript SDK library is already open sourced on the github. 
+客户端 javascript SDK 库已在 github 上开源。
 
 ```javascript
 const evo = new Evolution();
@@ -34,22 +34,22 @@ evo.createEvolutionLand('tron', 'shasta')
 evo.ethEvoland.buyRing(10000)
 ```
 
-* Read the [docs](https://evolutionland.js.org)
-* Visit the code [repo](https://github.com/evolutionlandorg/js-sdk)
+* 浏览 [docs](https://evolutionland.js.org)
+* 访问 [代码库](https://github.com/evolutionlandorg/js-sdk)
 
-## Smart-contract Interaction
+## 智能合约交互
 
-Assets and game logics are all on-chain. You can:
+资产和游戏逻辑均已上链。你可以：
 
-* Propose to introduce your asset to be used in Evolution Land
-* Use Evolution Land assets in your application
-* Invoke game plays contract from your application
+* 在进化星球引进你的资产以使用
+* 在应用程序中使用你在进化星球的资产
+* 从应用程序激活你的游戏合约
 
-Check out smart-contract source code at the [repos](https://github.com/evolutionlandorg).
+点击[仓库](https://github.com/evolutionlandorg)查看智能合约源代码
 
-### Contract addresses are the mainnet and testnet:
+### 合约地址分为主网和测试网：
 
-**Ethereum Mainnet**
+**以太坊主网**
 
 ```text
 TOKEN_DEX_BRIDGE: "0xab1Cb6a9467b77B9451c1c61140FB34494baFFDD",
@@ -91,7 +91,7 @@ FURNACE_TREASURE: "0xc7D7E731d6bf9182701096adCd5bba3bb0CF76fc",
 FURNACE_TAKEBACK: "0x8d7af9d2310016712b8f269df266f957cb12a27b",
 ```
 
-**Ethereum Ropston Testnet**
+**以太坊Ropston测试网**
 
 ```text
 TOKEN_DEX_BRIDGE: "0xD42AA035Ea64feBAE5d2b3fd08Dc7bD89874C6dc", // DexBridge swap
@@ -134,7 +134,7 @@ FURNACE_TREASURE: "0xF72361096f11d7E4e45046d7a83726b1A9107D5E",
 FURNACE_TAKEBACK: "0xA10D0C6e04845A5e998d1936249A30563c553417",
 ```
 
-**Tron Mainnet**
+**波场主网**
 
 ```text
 TOKEN_DEX_BRIDGE: "4165798DC18E6F8382FE96EC797105FC270FD4F466",
@@ -170,7 +170,7 @@ AUCTIONHOLDER: "",
 JUSTSWAP_EXCHANGE: "41394CFB02DA445B95CA61DB8A993AF63E2AAE907A",
 ```
 
-**Tron Testnet**
+**波场测试网**
 
 ```text
 TOKEN_DEX_BRIDGE: "41061CC649E56EB386949A789034B9EF61FC6B11D0", // DexBridge swap
