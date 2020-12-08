@@ -6,7 +6,7 @@ description: 游戏中的各种可流通的价值符号皆为链上通证
 
 # 关于通证
 
-## **什么是RING?**
+## 什么是RING?
 
 RING是进化星球中的系统通证，游戏内的主要计价单位，充当基本货币使用。将会被用于支付进化星球系统和网络中的操作手续费和智能合约燃料费，各种元素资源、地块、建筑和道具的交易和购买也将使用。
 
@@ -14,15 +14,15 @@ RING作为计价单位，是游戏内流动性最强的货币，通俗的说法�
 
 {% page-ref page="../../getting-started/tokens/ring.md" %}
 
-## **什么是氪石KTON?**
+## 什么是氪石KTON?
 
-In Evolution Land, KTON is used as **a governance token**. Players can voluntarily lock their KTON into a governance contract \(minimum 14 days lock time\) to receive voting power. These voting power can vote for governance proposals within the continent to affect the evolution of the game. In return, these "governor" players will have the right to receive game **revenue dividends** \(30% of all revenue\), proportionally to their stake percentage of all locked KTONs.
+在进化星球，KTON充当**治理凭证**。玩家可以自愿将自己的KTON锁定在治理合约中 \(至少锁定14天\) 以获得投票权。拥有投票权的玩家可以利用投票来决定大陆的治理方案，从而影响游戏的发展。作为回报，这些「治理者」玩家将有权获得游戏运营的 **收入红利** \(占全部收入的30%\)，与他们在所有锁定KTON中的持股比成比例。 
 
-In the game, some high-value Lands, high-rank buildings, and props are priced in KTON.
+在游戏中，部分高品级地块（富矿）以及稀有装备、道具只能用氪石购买。
 
 {% page-ref page="../../getting-started/tokens/kton.md" %}
 
-## **什么是碳氧COO？**
+## 什么是碳氧COO？
 
 碳氧是一种易得的资源，好比我们呼吸的氧气，在进化星球的故事背景中，这个星球上的使徒（[使徒](/getting-started/game-entities/apostle)是玩家的游戏内代表）需要碳氧才能存活。
 
