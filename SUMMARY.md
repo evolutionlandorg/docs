@@ -63,7 +63,7 @@
   * [治理](advanced/evolution-land-dao/governance.md)
   * [分红](advanced/evolution-land-dao/dividends.md)
 
-## Tutorials  <a id="tutorials"></a>
+## 教程  <a id="tutorials"></a>
 
 * [亚特兰蒂斯大陆 - 以太坊](tutorials/atlantis-ethereum/README.md)
   * [以太坊相关知识](tutorials/atlantis-ethereum/about-ethereum.md)

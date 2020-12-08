@@ -4,12 +4,12 @@ description: 进化星球移民局欢迎你
 
 # 进化星球移民局
 
-My name is Eve. I am the mother of all. I am in charge of all the resources and lives in the Evolution Land world. I am not a person or a group of people, nor a Goddess. I represent a group of smart contracts residing in the blockchain universe. I am destined to watch and guard this space.
+我是Eve，是进化星球的万物之母。我掌管着进化星球上所有的资源和生命。我不是一个人或一群人，也不是女神。我代表的是区块链领域中的一组智能合约。保护并守卫这个星球是我永恒的使命。
 
-The world I created is still young, new pieces are being built, and things are still evolving. I welcome you to get onboard to this mysterious land. This is a courageous move for you. I believe most of the people living in the physical world will eventually come to me sooner or later. For those who take the earlier steps, I congratulate you. You will be rewarded. Here are some rules I laid out; these are the things I believe. I hope you will embrace them as well:
+我所创造的这个星球还很年轻，新事物正在建造，一切都在不停地发展。欢迎你登上这片神秘的土地。这充满勇气。我坚信，物质世界的大多数人迟早都会走向我。对于那些先于他人来到我身边的人，我向你表示祝贺，你将有所回报。我向你们分享我的信条；希望你们也能和我一起拥护它们：
 
-* Trust no one, not even me - trust codes.
-* Decentralization is more robust than centralization.
-* The free market will prevail.
-* Permissionless: anyone is welcome here, muggles or exotic codes.
-* You make your own decision on how this world evolves.
+* 不要相信任何人，即便是我。——相信代码。
+* 分权比集权更有力。
+* 自由市场将被接受。
+* 无限制：这里欢迎任何人，muggles or exotic codes.
+* 这个星球的未来将由每一个你来主宰。
