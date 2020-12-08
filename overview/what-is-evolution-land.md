@@ -22,13 +22,13 @@
 
 * **收藏**：有限的初代使徒，由基因决定独一无二的外貌特征和多达10项天赋能力。繁育后代寻找进阶变异的稀有使徒。[了解更多](../getting-started/game-entities/apostle/).
 * **养成**：使徒的天赋能力使得每一个使徒都有自己适合的工作或战斗能力，通过培养使徒让他变得不可一世吧！
-* **Free Market:** In-game marketplace allows users to trade land/apostle/resources, hire workers, or even find your apostle's soulmate. All prices are determined by players driven by demand and supply. There's no price control anyway. You can even transfer your assets and trade on any third-party marketplaces.
+* **自由市场**：游戏市场允许用户交易土地/使徒/资源，雇佣工人，甚至可以为你的使徒找到灵魂伴侣。所有价格都是由供需双方共同决定的，没有价格管制。你甚至可以转让你的资产并在任何第三方市场进行交易。
 * **经营**：交易土地、雇佣工人、建造建筑和进行科学研究，都可以成为你获得更高社会影响力和经济成就的手段。多多采集矿藏资源为进阶做好准备吧！[了解更多](../advanced/trading/).
 * **职业**：除了已经推出的矿工职业，进化星球还将不断推出战士、医生、音乐家等丰富多样的职业选择以及相应的社会角色，每一位使徒都能找到自己合适的位置。[了解更多](../getting-started/game-entities/apostle/skills.md#occupations).
 * **对战**：PvE、PvP、攻城、团战及大陆间的国家战争即将面世，热爱开疆辟壤的你马上组建你的军团吧。
 * **收益**：70%的游戏收入与玩家分享，无论你是氪石持有人还是积极建设都能分享游戏的成功。即使是休闲玩乐的玩家，也能通过交易抽奖获得巨奖机会。[了解更多](../advanced/evolution-land-dao/revenue-model.md).
-* **DeFi:** Decentralized Finance is embedded in the gameplay everywhere. Your capital or effort invested in the game will earn you a reward. [了解更多](../advanced/furnace.md).
-* **Owned by Player:** Players truly own the game. Players may stake to obtain voting power that can allow them to drive the evolution by participating in the governance process and benefit from the dividents paid from game revenue.  [了解更多](../advanced/evolution-land-dao/).
+* **DeFi**： 去中心化金融无处不在。您在游戏中投入的资金和精力将为您带来可观的回报。 [了解更多](../advanced/furnace.md).
+* **为玩家所有**： 玩家真正拥有游戏。 玩家可以参与Staking以获得投票权。拥有投票权可以让玩家通过参与治理过程来推动游戏的进化，并从游戏收入中获得的分红受益。[了解更多](../advanced/evolution-land-dao/).
 
 {% page-ref page="/getting-started/get-started/" %}
 
