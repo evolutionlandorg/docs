@@ -4,17 +4,9 @@ description: 各种未分类的常见问题集锦
 
 # 通用问题集合
 
-## Why is \[transaction failed\]?
+## 为什么我的交易失败了却仍要收费？
 
-There may be a "transaction fail" when participating in a land auction. There're many possible reasons:
-
-* You may provide less gas limit that the transaction requires to complete. You should not tune down the gas limit estimated by your wallet or tune up a little bit to be sure.
-* The asset you are trying to purchase is not for sale \(sell pulled it off, someone else bought it, or placed a bid result your bid amount unqualified\) when your transaction is processed, hence failed.
-* Or it could be some un-discovered bug, let us [know](/overview/feedback-and-support.md)
-
-## My transaction is failed, but fee is still charged, why?
-
-When your transaction is process on the blockchain, you need to pay for the gas. Even the transaction is failed, it still requires computation. The gas fee is charged by the miners on the blockchain, not by Evolution Land game.
+当你的交易在区块链上被处理时，你需要支付燃料费。即使交易失败，它仍然需要计算。燃料费是由区块链上的矿工收取的，而不是由进化星球收取的。
 
 ## 为什么购买了土地却没有获得抽奖积分？
 
