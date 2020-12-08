@@ -19,9 +19,10 @@
 
 请注意：加密币钱包相当于银行账户——请谨慎对待，请务必记住您的私钥和助记词。
 
-## Can we modify your crypto wallet password?
+## 你们可以修改我的加密币钱包密码吗？
 
-‌No, we can't. Crypto wallet is a standalone piece of software, and we do not have any control over it. Although this means we can't help you reset your password, it also means that we will never transfer assets from your wallet. Your game assets are stored in your wallet, but not in our database, and your wallet belongs to you. Please note that this is the most significant difference between blockchain games and traditional centralized games.
+‌加密币钱包是独立的软件，我们对其不拥有任何控制权。尽管这意味着我们无法帮您重置密码，但也意味着我们绝对不会强制性地从您的钱包夺取资产。您的游戏资产存储在您的钱包中，并不在我们的数据库中，而您的钱包属于您。请注意，这一点是区块链游戏和传统中心化游戏最大的区别。
+请注意：加密币钱包相当于银行账户——请谨慎对待，请务必记住您的密码和助记词。
 
 ## 什么是【钱包地址】 ？
 
