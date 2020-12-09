@@ -1,20 +1,21 @@
-# Gas and Fees
+# 燃料费Gas
 
-Whenever you place a bid for Land, breed your Apostle, and create or cancel an auction, your request gets sent to miners on the blockchain network who crunch the numbers and confirm the transaction \(thank you, miners!\). For that service the miners receive a network fee paid by the person submitting the transaction request \(please note that entire fee goes to the miners, not the game!\). That fee, sometimes written as “Tx fee,” is determined by two factors: the “Gas Price” of your transaction and the amount of gas used to process it.
+当你想要出价购买土地、进行使徒繁育，或者想要创建一笔拍卖时，你发起的请求会被发送给区块链网络上进行计算和交易确认工作的矿工（感谢矿工的辛勤工作！）发起交易请求的用户需要为矿工的服务支付手续费（请注意，所有的手续费都是支付给矿工的而非项目方）。这笔费用，有时候显示为「Tx fee」，其具体金额是由交易的「Gas Price」和执行操作消耗的「Gas Limit」这两个因素决定的。
 
 ![Metamask Gas Price and Tx Fees](../../.gitbook/assets/metamask_gasprice.png)
 
-Gas Price \(Gwei\) is the amount of ether offered per gas unit to pay miners to process your transaction. Converting Gwei into ether is simple: take the Gwei value and move the decimal point nine spaces to the left. So, 5 Gwei equals 0.000000005 ether.
+Gas Price \(Gwei\) 是指为了让矿工打包该笔交易，用户愿意为每个 Gas 支付的价格（ETH 的数量）。一般 Gas Price 的单位为 Gwei，1 ETH = 1,000,000,000 Gwei，所以将 Gwei 转换为 ETH 是很简单的，只需要将 Gwei 数值的小数点向左移动 9 位。例如：5 Gwei = 0.000000005 ETH。
 
-“Gas Limit” sets the maximum amount of computational power you’ll allow the miner to use before they top out and stop processing your request. Essentially gas limit creates a ceiling on how much ether you want to spend on a given transaction as a way to keep costs reasonable.
+Gas Limit 是指用户愿意为执行确认交易操作支付的最大 Gas 数量。基本上，Gas Limit 是为你在给定交易中花费多少 Gas 设定一个上限，以保证合理的手续费。
 
-## **What gas price should I use?**
 
-Setting a gas price is up to you – some people are more gassy than others – but there are helpful guidelines. The higher the gas price you set, the faster your transaction will get processed. So for more important transactions, think about setting a higher gas price. If, for example, you’re bidding on a Land with decent resource reserve and worry about another player swooping in, set the gas price higher to speed up your request. If you’re just going to breed a couple of your Apostles, it’s fine to set it lower and save some money, but the transaction will take longer.
+## 我应该付多少Gas费?
 
-[Gas Now](https://gasnow.org) is a valuable tool to help manually set your gas price. Use their suggested “Gas Price Standard” to make sure a transaction goes through quickly \(usually, a few minutes\). Select the Gas Price Slow for less important transactions that you’re willing to wait on \(typically around 10 minutes, depending on network traffic\). The Gas Now also shows you approximately how long a transaction will take at a specific Gas Price and lets you select your price based on the time you’re willing to wait.
+Gas Price 高低的设定取决于用户本人——氪金战士请随意。对于普通玩家来说，设定的 Gas Price 越高，交易处理得越快。因此，对于重要的交易，建议可以将 Gas Price 体设定得高一点。比如，假设你在竞拍一块资源储量不错的土地，又担心被其他玩家横刀夺爱，可以选择把 Gas Price 调高，以加快交易确认的时间。如果只是想进行使徒繁育，你也可以选择把 Gas Price 调低一些，但交易确认所需时间会更长。
+
+[Gas Now](https://gasnow.org) 是一个可以帮助你手动设定 Gas Price 的工具。使用 Gas Now 推荐的「Gas Pride Standara」，可以确保交易确认能够快速完成（通常是几分钟）。对于那些你愿意等待的重要性较低的交易，可以选择「Gas Price Slow」（通常在 10 分钟左右，取决于网络流量）。Gas Now 还能够显示在特定的 Gas Price 下，一笔交易确认大约需要花多长时间，让你可以根据自身的需求时间来调整 Gas Price。
 
 ![Gasnow Gadget](../../.gitbook/assets/gasnow.png)
 
-Keep in mind that your actual transaction fee will almost always be lower than the potential maximum – great! Once a miner executes your transaction, you keep whatever ETH is left over from your gas limit. But if your gas limit is too low and the miner maxes out, your transaction will get cancelled and you’ll still have to pay the max fee – not so great. So make sure to choose a gas limit with enough room to guarantee your transaction goes through. Remember, MetaMask will always suggest the exact amount of gas to use so there’s no need to adjust.
+请注意，你实际支付的交易燃料费（即手续费）一般都会低于预测最高值，这很棒！ 一旦矿工打包你的交易，Gas Limit 中未被消耗的 ETH 将退还给你（不会被收取）。但是如果你的 Gas Limit 设置的太低，矿工需要消耗的费用超过你的设定值，你的交易会被取消，同时之前设置的燃料费不会被退还，这就不太令人愉快了。鉴于以上情况，请确保选择一个充足的 Gas Limit 来保证你的交易能够顺进行。记住，MetaMask 会始终根据当时的网络情况建议一个合理的燃料费，所以没有特殊需求不建议调整默认的燃料费。
 
