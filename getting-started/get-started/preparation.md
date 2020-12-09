@@ -1,5 +1,5 @@
 ---
-description: How to play Evolution Land?
+description: 进化星球怎么玩？
 ---
 
 ## 进化星球怎么玩？
