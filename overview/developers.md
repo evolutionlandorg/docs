@@ -1,8 +1,8 @@
 ---
-description: Contribute and help the world evolve
+description: 做出贡献来帮助世界进化
 ---
 
-# Developers
+# 开发者
 
 进化星球为玩家所拥有，由开发者创建。任何开发者，无论是设计师、前端工程师还是智能合约开发者，都可以参与贡献从而推动世界发展。[激励计划](referral-program.md#smart-contract-based-referral) 部署于智能合约中。
 

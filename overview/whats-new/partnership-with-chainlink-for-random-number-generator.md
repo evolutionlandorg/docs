@@ -1,5 +1,5 @@
 ---
-description: Partner with ChainLink as VRF provider
+description: ChainLink成为进化星球VRF随机数提供商伙伴
 ---
 
 # 进化星球宣布由去中心化预言机 Chainlink VRF 支持的新使徒繁育和游戏奖励机制
