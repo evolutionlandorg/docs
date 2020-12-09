@@ -1,19 +1,19 @@
 ---
-description: How do I get started to play?
+description: 如何开始游戏?
 ---
 
-# Get Started
+# 新手上路
 
-Blockchain game is quite different from traditional games we are familiar with.  You need to complete the following entry tasks to prove you are ready to explore this new adventurous world.
+区块链游戏与我们所熟悉的传统游戏有很大不同。在开始游戏前，你需要完成以下几个步骤，为探索这个新的冒险世界做好充分的准备。
 
-1. \*\*\*\*[**Get a cryptocurrency wallet**](preparation.md)**.** You need it to help you manage your keys, assets, and help you sign transactions.
-2. **Backup your wallet.** All your assets stay in your wallet.  While you have the true ownership, you are also responsible to make it secure.  We have no way to access or recover your lost assets. 
-3. **Fund your wallet** with some ETH or TRON to pay for on-chain [transaction fees](gas-and-fees.md).  You can acquire these cryptocurrencies via major exchanges, such as [huobi.com](https://huobi.com), [binance.com](https://binance.com).
-4.  **Start exploring** by visiting https://evolution.land in your wallet's browser.
+1. **创建一个加密**[**数字钱包**](preparation.md)。你需要它来帮助你管理密钥、资产，进行签名交易。transactions.
+2. **备份你的钱包**。 你所有的资产都存放在你的钱包里。你持有钱包所有权的同时，你也有责任确保它的安全。请注意，我们无法获取或找回你丢失的资产。
+3. **为你的钱包充值** 一定的ETH或TRON以支付链上交易[燃料费](gas-and-fees.md)。你可以通过以下几大交易所进行充值，如[huobi.com](https://huobi.com)，[binance.com](https://binance.com).
+4.  **开始游戏**。在你的钱包浏览器里搜索[https://evolution.land](https://evolution.land)以开始你的新探索。
 
-The following topics will help you understand the game better to be good at the game and maybe make some profit.
+另外，我们还准备了下列游戏相关介绍，希望能帮助你更好地理解和参与游戏。
 
-1. [Game Entities](../game-entities/): Learn about the in-game entities and objects as well as game players around them.
-2. [Ways to Play](ways-to-play.md): To be a happy miner, smart trader, or collector, the choice is all yours.
-3. [Token Economy](../tokens/): The game is a simulation of the free-market economy, you work, invest, and trade.  Understand the rules and economic settings will help you do better.
+1. [游戏实体](../game-entities/)：了解游戏中的实体，道具以及相关的游戏角色。
+2. [玩法概述](ways-to-play.md)：做一个快乐的矿工、精明的的交易者，还是收藏家，选择权全在你。
+3. [通证](../tokens/)：进化星球模拟的是自由市场经济，你可以在这里工作、投资、交易等。了解规则和经济环境会帮助你更好地游戏。
 
