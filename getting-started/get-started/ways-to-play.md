@@ -1,36 +1,37 @@
-# Ways to Play
+# 玩法概述
 
-There are as many ways to play Evolution Land as you can imagine, and it's still growing. Here are some typical player types we put together that might give you some ideas.
+所有你能想象到的玩法，进化星球里都有，并且还在不断丰富中。以下是一些经典玩家画像，也许能给你带来一些灵感。
 
-## The Landlord
+## 地主
 
-The landlord owns at least one land with random resource reserves. He deploys his Apostles or hires other miner Apostles to mine resources from the ground for him. He pays RING compensation to compensate the miners according to working hours. Resources are essential for building construction, Furnace, and more.
+地主一般拥有一块或以上的土地，土地内的资源储备是随机分布的。地主会部署他的使徒，或者雇用其他的矿工使徒在自己的地块上工作，为他在开采地块中蕴藏的资源。地主会按工作时间付给矿工使徒相应的 RING。使徒在地块上所挖的资源，对于建筑、熔炉等都是必不可少的。
 
-## The Miner
+## 矿工培养师
 
-Player breeds or purchases to get perfect miners that have greater mining productivity. Apostles have ten working properties, good at various activities. Mining is one of those.
+玩家可以通过繁育或购买使徒以获得具有更高采矿生产率的完美矿工使徒。使徒有十种工作能力，擅长各种活动。采矿就是其中之一。
 
-## The Apostle Collector
+## 使徒收藏家
 
-The collector loves every Apostle, no matter how weird, ugly, or scary they might look. Their genes determine the Apostles' physical appearance and talents that their parents might inherit and mutate.
+收藏家喜欢每一个使徒，不管他们长得多么怪异、丑陋或可怕。基因决定了使徒的外貌和才能，并且他们会继承父母使徒的基因，也有可能发生基因突变。
 
-## The Breeder
+## 使徒优育计划者
 
-The Breeder is a brilliant geneticist. They study their Apostle' genomes and experiment with different breeding pairings to create the most unique, rare, and, of course, capable Apostles.
+使徒优育计划者可谓是杰出的遗传学家。他们研究使徒的基因组，用不同的繁殖配对进行实验，致力于培育出最独特、最稀有、当然也是最有能力的使徒。
 
-## The Trader
+## 商人
 
-The Trader has mastered the marketplace. They constantly buy and sell the most in-demand Lands, Apostles, Resources, or any other tradable items, always making offers, closing deals, and snatching up the most prized felines on the marketplace.
+商人在市场上叱咤风云，他们不断地买卖最抢手的土地、使徒、资源或任何其他可交易的物品，在一系列的出价、成交中 snatching up the most prized felines on the marketplace.
 
-## The DeFiner
 
-The DeFiner comes from the DeFi world. They understand how to provide liquidity to game tokens; in return, they are rewarded for their efforts.
+## Definer
 
-## The Blacksmith
+DeFiner 来自 Defi 领域。他们知道如何为游戏通证提供流动性；反过来，他们的努力会得到回报。
 
-Blacksmith loves crafting and forging. They enchant Drills and other primary elements \(according to Formula\) to mint new powerful equipment to boost working power.
+## 打铁匠
 
-## The Governor
+打铁匠喜欢手工和锻造。他们给钻头和其他主要元素施法（根据配方），铸造新生的强大装备，以提高工作能力。
 
-The Governor is interested in politics and active in voting for proposals about game parameters, such as tax rates, formula addition, and many other issues. The Governor obtains his voting power by either staking KTON token or owning Lands on the continent.
+## 治理者
+
+治理者非常关心政治，并积极参与有关游戏参数的提案的投票，例如税率、配方添加等许多其他问题。治理者通过持有 KTON 通证或土地持有获得投票权。
 
