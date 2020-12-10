@@ -14,7 +14,7 @@ description: 想要驯服一只谜恋猫作为使徒的宠物么
 
 可爱萌宠迷恋猫将是第一个来到进化星球的宠物,之后进化星球将引入更多的ERC721资产以供玩家选择。玩家可以在进化星球首页 &gt;&gt; 左上角菜单 &gt;&gt;「我的宠物」中查看自己的宠物。
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/pet00.png)
 
 只有登陆进化星球的以太坊地址所拥有的迷恋猫才能进行驯化动作。「驯化」这一操作实质上是玩家签名允许生成镜像迷恋猫并选择绑定使徒的过程。
 
@@ -30,11 +30,11 @@ description: 想要驯服一只谜恋猫作为使徒的宠物么
 
 * 点击进入「我的宠物」
 
-![](https://evolutionland.zendesk.com/hc/article_attachments/360026887073/mceclip0.png)
+![](../../.gitbook/assets/pet01.png)
 
 * 选择想要驯化的宠物点击「驯化」（此处显示的猫咪是当前登陆地址所拥有的迷恋猫）
 
-![](https://evolutionland.zendesk.com/hc/article_attachments/360026887193/mceclip1.png)
+![](../../.gitbook/assets/pet02.png)
 
 * 选择希望驯化猫咪的使徒并等待交易确认。
 * 绑定后可以在「我的宠物」查看宠物状态或在「我的使徒」中查看使徒的相关状态。
