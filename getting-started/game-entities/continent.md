@@ -24,7 +24,7 @@
 
 ![拜占庭](../../.gitbook/assets/the-byzantine-cn.png)
 
-新大陆正在不断开发中。以下是我们根据**用户量**，**DApp 繁荣程度**，**智能合约兼容性**以及**燃料费**评估选出的候选区块链。
+新大陆正在不断开发中。以下是我们根据**用户基数**，**DApp 繁荣程度**，**智能合约兼容性**以及**燃料费**评估出的候选区块链。
 
 * Binance Smart Chain
 * Darwinia Crab Network
