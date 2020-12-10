@@ -6,9 +6,9 @@ description: 如何开始游戏?
 
 区块链游戏与我们所熟悉的传统游戏有很大不同。在开始游戏前，你需要完成以下几个步骤，为探索这个新的冒险世界做好充分的准备。
 
-1. **创建一个加密**[**数字钱包**](preparation.md)。你需要它来帮助你管理密钥、资产，进行签名交易。transactions.
+1. **创建一个加密**[**数字钱包**](preparation.md)。你需要它来帮助你管理密钥、资产，进行签名交易。
 2. **备份你的钱包**。 你所有的资产都存放在你的钱包里。你持有钱包所有权的同时，你也有责任确保它的安全。请注意，我们无法获取或找回你丢失的资产。
-3. **为你的钱包充值一定的ETH或TRON以支付链上交易**[**燃料费**](gas-and-fees.md)。你可以通过以下几大交易所进行充值，如 [huobi.com](https://huobi.com)，[binance.com](https://binance.com).
+3. **为你的钱包充值一定的 ETH 或 TRON 以支付链上交易**[**燃料费**](gas-and-fees.md)。你可以通过以下几大交易所进行充值，如 [huobi.com](https://huobi.com)，[binance.com](https://binance.com).
 4.  **开始游戏**。在你的钱包浏览器里搜索 [https://evolution.land](https://evolution.land) 以开始你的新探索。
 
 另外，我们还准备了下列游戏相关介绍，希望能帮助你更好地理解和参与游戏。
