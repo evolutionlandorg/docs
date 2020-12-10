@@ -1,16 +1,16 @@
 ---
-description: 做出贡献来帮助世界进化
+description: 做出贡献来加速进化
 ---
 
 # 开发者
 
-进化星球为玩家所拥有，由开发者创建。任何开发者，无论是设计师、前端工程师还是智能合约开发者，都可以参与贡献从而推动世界发展。[激励计划](referral-program.md#smart-contract-based-referral) 部署于智能合约中。
+进化星球由玩家所主导，由开发者创建。任何开发者，无论是设计师、前端工程师还是智能合约开发者，都可以参与贡献从而推动世界发展。[激励计划](referral-program.md#smart-contract-based-referral)部署于智能合约中。
 
 ## UI
 
 ### 前端界面
 
-进化星球的游戏逻辑存储在区块链上。无需事先许可，任何由web3支持的前端都可以与智能合约进行交互。现在，玩家可以通过v1和v2接口访问游戏，这是展示如何与同一个后端交互时设计和开发各种用户界面的完美示例。我们将在不久后开放v1版本前端的源代码。这是一个最小的设计接口，可以作为一个脚手架项目来开发。
+进化星球的游戏逻辑存储在区块链上。无需事先许可，任何由 web3 支持的前端都可以与智能合约进行交互。现在，玩家可以通过 v1 和 v2 接口访问游戏，这是一个展示如何与同一后端交互时设计和开发各种用户界面的完美示例。我们将在不久后开放 v1 版本前端的源代码。这是一个最小的设计接口，可以作为一个脚手架项目来开发。
 
 ### 建筑设计师
 
@@ -35,7 +35,7 @@ evo.ethEvoland.buyRing(10000)
 ```
 
 * 浏览 [docs](https://evolutionland.js.org)
-* 访问 [代码库](https://github.com/evolutionlandorg/js-sdk)
+* 访问[代码库](https://github.com/evolutionlandorg/js-sdk)
 
 ## 智能合约交互
 
@@ -91,7 +91,7 @@ FURNACE_TREASURE: "0xc7D7E731d6bf9182701096adCd5bba3bb0CF76fc",
 FURNACE_TAKEBACK: "0x8d7af9d2310016712b8f269df266f957cb12a27b",
 ```
 
-**以太坊Ropston测试网**
+**以太坊 Ropston 测试网**
 
 ```text
 TOKEN_DEX_BRIDGE: "0xD42AA035Ea64feBAE5d2b3fd08Dc7bD89874C6dc", // DexBridge swap
