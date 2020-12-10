@@ -70,6 +70,6 @@ description: 进化星球怎么玩？
 ## 手机
 
 1. 根据你玩的大陆下载手机钱包
-2. 通过手机钱包中的DAPP应用市场找到 进化星球 EvolutionLand
+2. 通过手机钱包中的 DAPP 应用市场找到 进化星球 EvolutionLand
 3. 开始游戏
 
