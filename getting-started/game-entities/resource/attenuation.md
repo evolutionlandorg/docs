@@ -1,4 +1,4 @@
-# Attenuation
+# 资源损耗
 
 Resource generation rate `V(time)`: refers to the resource release rate of the current time of the Land.
 
