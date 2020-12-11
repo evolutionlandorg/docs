@@ -7,7 +7,5 @@
 
 ![使徒求职](../../../.gitbook/assets/jobmarket-cn.png)
 
-![](../../../.gitbook/assets/jobmarket-cn.png)
-
 想要雇佣使徒的玩家，进入使徒市场后，选择「招聘」选项卡即可查看所有正在寻找工作的使徒。你可以浏览使徒的能力和工资，并据此作出选择。
 
