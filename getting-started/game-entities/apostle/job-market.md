@@ -1,10 +1,11 @@
-# Job Market
+# 职业市场
 
-Apostles need to earn a living for the owner, but what if the owner doesn't own Land? There's a Job Market for Apostles to look for a job or landowners to hire good miners.
+使徒们需要为主人谋生，但是如果主人没有土地怎么办？
+在就业市场，使徒可以找工作，拥有土地的玩家在此雇佣矿工使徒。
 
-Players need to list their Apostles on the job market; Set work period \(at least 7 days\) and daily wages \(in RING\). Other players can decide whether to hire the Apostle based on the Apostle's talent and salaries. Once employed, the Apostle will receive RINGs while the employer will get the mineral resources.
+玩家需要在就业市场上列出他们出租的使徒的名单；设定工作时间（至少 7 天）和每日工资（以 RING 结算）。雇佣的玩家可以根据使徒的天赋和薪水来决定是否雇佣使徒。一旦被雇用，使徒将获得 RING，而雇主将获得使徒挖出的资源。
 
 ![Looking for a Job](../../../.gitbook/assets/job.png)
 
-For employers, go to Apostle market, select the "Recruit" tab to view all Apostles looking for a job. Browser their talents and wages, and decide whom to hire.
+想要雇佣使徒的玩家，进入使徒市场后，选择「招聘」选项卡即可查看所有正在寻找工作的使徒。你可以浏览使徒的能力和工资，并据此作出选择。
 
