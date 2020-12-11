@@ -4,54 +4,46 @@ description: 资源，又叫「元素」
 
 # 资源
 
-**进化星球有五种基本元素：金（GOLD）、木 \(WOOD\)、水 \(HHO\)、火 \(FIRE\)、土 \(SIOO\)。**
+**进化星球有五种基本元素：金（GOLD）、木（WOO）、水（HHO）、火（FIRE）、土（SIOO）。**
 
-进化星球的每块地块都会不停的产出这些元素。
+这些资源埋藏在地块深处。进化星球的每块地块都会不停的产出这些元素。每个地块下的资源储量是随机分布的。随着时间的推移，它们以每天 1/10000 的速度自然耗损。
 
-但是由于地块属性不同，各种元素的产出速率和数量不同：靠近矿山的产生金多一些，靠近森林的产生木多一些，靠近河流的产生水多一些，靠近火山的产生火多一些，靠近山的产生土多一些。
+由于地块属性不同，各种元素的产出速率和数量不同：靠近矿山的产生金多一些，靠近森林的产生木多一些，靠近河流的产生水多一些，靠近火山的产生火多一些，靠近山的产生土多一些。
+
+* 矿井：金（GOLD）
+* 森林：木（WOOD）
+* 河流：水（HHO）
+* 火山：火（FIRE）
+* 山：土（SIOO）
 
 多一些的含义是产生速度相对快，也是总量的相对多。
 
-这五种元素也是五种代币，在地上盖房子，建道具需要消耗金木水火土中的一种或几种，不同的道具五元素的配比不同。
+通过将基本元素按一定数量的配比可合成更高级的复合物，复合物组合可以生成更高级的复合物。高级道具的制作及使用需要同等级难度的元素。随着游戏的深入，可以引入更多的基本元素以及相应的组合图谱。 
 
-通过将基本元素通过一定数量的配比可合成更高级的复合物，复合物组合可以生成更高级的复合物。高级道具的制作及使用需要同等级难度的元素。随着游戏的深入，可以引入更多的基本元素以及相应的组合图谱。 
+## 资源衰减率
 
+资源的释放采用随机因素衰减供给模型。资源释放将取决于土地的属性（五种资源的释放率）和玩家的采矿指标。地块诞生时的初始最大资源生成率是你每天可以开采的全部资源。这个速率每天下降 1/10000。
 
-# Resource
+如果采集率或开采功率小于当前土地资源释放率，则未开采资源将消失，不可重新被采。从某种程度来讲，就相当于被销毁了。
 
-There are five primary resources on Evolution Land: **GOLD, WOOD, HHO, FIRE, and SIOO**. These resources are deep under the Lands. Each Land has random resource reservers that decay at a rate of 1/10,000 daily as time goes by.
+[查看资源衰减的详细说明](attenuation.md)
 
-Resource reserves follow the continent terrain layout. That is, Lands close to X terrain will have better odds to have rich Y:
+## 挖矿
 
-* Mine: GOLD
-* Forest: WOOD
-* River: HHO
-* Volcano: FIRE
-* Mountain: SIOO
-
-## Resource Attenuation Rate
-
-Resources will be released using a model of attenuation supply with random factors. Resource release will be determined by the Land's attributes \(the five resources' release rate\) and the player's mining indicators. The initial maximum rate of resource generation at the Land's birth is the full resources you can mine daily. This rate decays by 1/10,000 every day.
-
-If the collecting rate or mining power is less than the current release rate of the resource from the Land, the un-mined resources will vanish, never be mined. It's like being burned on the other perspective.
-
-Check out a detailed explanation about [Resource Attenuation Rate](attenuation.md).
-
-## Mining
-
-You can mine resources by deploying the Apostles or mining Equipment such as DRILLs to the land. The mining productivity depends on the number and quality of the Apostles and/or Equipment.
+你可以通过部署使徒或采矿设备（如钻机）来开采资源。采矿生产率取决于使徒和/或设备的数量和质量。
 
 ![Mining with Gears](../../../.gitbook/assets/mining-gear.png)
 
-## Usage
+## 用途
 
-The five primary resources are the fundamental elements for building complex substance in Evolution Land. Buildings, Equipment, and other props will require resources or sometimes resource LP \(Liquidity Provider\) tokens to make or mint.
 
-When breeding a new Apostle, you have the chance to add/feed resource to the baby so that it might have resource specialty when born. When Apostles have resource specialty, they have extra power when dealing with specific resources, such as mining that type of resource or waving weapons mint with that type of resource.
+五种基本资源是构建进化星球复合物质的基本要素。建筑物、设备和其他道具需要资源，有时需要 LP（流动性提供者）来制造或铸造。
 
-These five resources are also five tokens. Building a house or props will consume one or several kinds of these five resources.
+当繁育一个新生使徒时，你可以给婴儿使徒添加/喂养资源，这样婴儿使徒在出生时有机会具备资源专长。当使徒有资源专长，他们在处理特定资源时会有额外的力量，比如开采特定资源的能力或者使用这种资源铸造的武器的能力。
 
-## Specifications
+这五种资源也是五种游戏通证。建造一个楼房，或者道具都会消耗掉一种或几种资源。
 
-Check out [resource token specifications](../../tokens/resource.md).
+## 参数
+
+查看[资源通证参数](../../tokens/resource.md)
 
