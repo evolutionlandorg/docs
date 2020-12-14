@@ -1,8 +1,8 @@
 # 交易
 
-Almost everything in the Evolution Land that's tokenized can be traded in the in-game marketplace or at an external market. These markets can be categorized into NFT \(non-fungible token\) markets and FT \(fungible token\) exchanges according to what you want to trade.
+在进化星球，几乎所有被通证化的物品都可以在游戏内市场或外部市场进行交易。根据你要交易的内容，这些市场可分为 NFT（非同质化通证）市场和 FT（同质化通证）交易所。
 
-Check out this [tokens](../../getting-started/tokens/) page to learn how to categorize assets and/or tokens.
+点击[通证](../../getting-started/tokens/)以了解如何对资产和通证进行分类。
 
 {% page-ref page="nft-market.md" %}
 
