@@ -6,13 +6,13 @@ description: 想要驯服一只谜恋猫作为使徒的宠物么
 
 ## 进化星球开放新的玩法：宠物
 
-玩家可以将外部Dapp中的ERC721资产导入进化星球作为自己心爱的宠物。
+玩家可以将外部 DAPP 中的 ERC721 资产导入进化星球作为自己心爱的宠物。
 
 玩家所拥有的使徒可以对宠物进行驯化，当宠物被驯化（即与使徒绑定）时，该使徒参与各项活动的能力将会增强。
 
 目前，玩家首次绑定宠物时，其使徒的挖矿能力将增强（矿工是第一个也是目前仅有的职业）。在未来，使徒的战斗能力，治疗能力等也可以通过驯化携带宠物来增强。
 
-可爱萌宠迷恋猫将是第一个来到进化星球的宠物,之后进化星球将引入更多的ERC721资产以供玩家选择。玩家可以在进化星球首页 &gt;&gt; 左上角菜单 &gt;&gt;「我的宠物」中查看自己的宠物。
+可爱萌宠迷恋猫将是第一个来到进化星球的宠物，之后进化星球将引入更多的 ERC721 资产以供玩家选择。玩家可以在进化星球首页 >> 左上角菜单 >> 「我的宠物」中查看自己的宠物。
 
 ![](../../.gitbook/assets/pet00.png)
 
@@ -26,31 +26,8 @@ description: 想要驯服一只谜恋猫作为使徒的宠物么
 
 如果您想恢复操作或尝试用不同的使徒驯化同一只宠物，您可以选择「放生」已驯化的宠物。
 
-## **「宠物」怎么玩？**
+进化星球希望通过与更多的外部 NFT 项目合作来扩大宠物游戏的可玩性。如果你正在运行一个 NFT 项目，并想把你可爱的动物纳入进化星球，请联系[我们](../../overview/feedback-and-support.md)。
 
-* 点击进入「我的宠物」
-
-![](../../.gitbook/assets/pet01.png)
-
-* 选择想要驯化的宠物点击「驯化」（此处显示的猫咪是当前登陆地址所拥有的迷恋猫）
-
-![](../../.gitbook/assets/pet02.png)
-
-* 选择希望驯化猫咪的使徒并等待交易确认。
-* 绑定后可以在「我的宠物」查看宠物状态或在「我的使徒」中查看使徒的相关状态。
-
-
-# Pet
-
-EvolutionLand introduces a feature called "Pet." It allows the Player to import ERC721 assets in foreign dApps into EvolutionLand as "Pet." The Player can use his Apostle to tame Pet. The Pet will be bound with the Apostle physically and spiritually to enhance Apostle's ability in various activities. Right now, the Apostle's mining ability will be enhanced. In future releases, Apostles' fighting skills, healing skills, etc., will be improved by carrying a pet.
-
-The very first Pet will be from CryptoKitties. More ERC721 sources will be added so that players have more choices. Player go to "My Pets" section, and only CryptoKitties owned by Player's address will be displayed, and the Player can perform further "Tame" action. Tame, in a technical sense, is that the Player signs a transaction in which a mirror Crypto Kitty is generated and bind to the Player's Apostle at choice. This process verifies Player who signs the Tx is the Crypto Kitty's owner. It means you won't be able to tame other people's kitties.
-
-EvolutionLand contract system will operate on this mirrored kitty instead of the original kitty except in one situation: if the Player is going to sell, it's reflected kitty using an auction. EvolutionLand will require the Player to transfer ownership of the original kitty to an auction contract to prevent mirrored, and the original kitty ends up with a different owner. Selling/buying Pet is not enabled and will be introduced at a later time.
-
-The Player also can "let go" the bound Pet to revert the operation or simply trying to re-tame using a different Apostle.
-
-We are looking to expand Pet gameplay by collaborating with more external NFT projects. If you are running an NFT project and would like to include your cute animals in Evolution Land, please let us [know](../../overview/feedback-and-support.md).
 
 ## 驯服谜恋猫
 
