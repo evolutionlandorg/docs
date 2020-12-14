@@ -1,59 +1,59 @@
-# Resource
+# 资源
 
-The resources are standard fungible tokens \(ERC20/TRC20\). You can find their smart contract specification below. Learn more about what [resource](../game-entities/resource/) is used for.
+资源是标准的同质化通证。你可以在下面找到资源的智能合约规格。进一步了解[资源](../game-entities/resource/)的用途。
 
-## ![GOLD](../../.gitbook/assets/goldicon.png) GOLD
+## ![金](../../.gitbook/assets/goldicon.png) 金
 
-* Ethereum \(the Atlantis Continent\)
-  * Spec: `ERC20`
-  * Precision: `18`
-  * Smart Contract Address \(Ethereum\): `0x358dba28848cca268ba8a76b65e5b3ef9ef92238`
-* Tron \(the Byzantine Continent\)
+* 以太坊（亚特兰蒂斯大陆）
+  * 规格: `ERC20`
+  * 精度: `18`
+  * 智能合约地址（以太坊）：`0x358dba28848cca268ba8a76b65e5b3ef9ef92238`
+* 波场（拜占庭大陆）
   * Spec: `TRC20`
-  * Precision: `18`
-  * Smart Contract Address \(Tron\): `TCA6c9DLYKX4QTPL5pfCBkJqrJJ9DdVM4S`
+  * 精度: `18`
+  * 智能合约地址（波场）：`TCA6c9DLYKX4QTPL5pfCBkJqrJJ9DdVM4S`
 
-## ![WOOD](../../.gitbook/assets/woodicon.png) WOOD
+## ![木](../../.gitbook/assets/woodicon.png) 木
 
-* Ethereum \(the Atlantis Continent\)
-  * Spec: `ERC20`
-  * Precision: `18`
-  * Smart Contract Address \(Ethereum\): `0xd4b784ae5c12153d11ca55853d832d2a2d514a08`
-* Tron \(the Byzantine Continent\)
-  * Spec: `TRC20`
-  * Precision: `18`
-  * Smart Contract Address \(Tron\): `TGuGnbnUAao1Rqp7W4SWJdbT25onnJ3oy2`
+* 以太坊（亚特兰蒂斯大陆）
+  * 规格: `ERC20`
+  * 精度: `18`
+  * 智能合约地址（以太坊）：`0xd4b784ae5c12153d11ca55853d832d2a2d514a08`
+* 波场（拜占庭大陆）
+  * 规格: `TRC20`
+  * 精度: `18`
+  * 智能合约地址（波场）：`TGuGnbnUAao1Rqp7W4SWJdbT25onnJ3oy2`
 
-## ![WATER](../../.gitbook/assets/watericon.png) HOO
+## ![水](../../.gitbook/assets/watericon.png) 水
 
-* Ethereum \(the Atlantis Continent\)
-  * Spec: `ERC20`
-  * Precision: `18`
-  * Smart Contract Address \(Ethereum\): `0x19e22a73a046f19ecb51a46ace4ca7a4bb7c20c6`
-* Tron \(the Byzantine Continent\)
-  * Spec: `TRC20`
-  * Precision: `18`
-  * Smart Contract Address \(Tron\): `TNGkC4xUSAyWaiJu3tu7EmgqUtvR45jTFG`
+* 以太坊（亚特兰蒂斯大陆）
+  * 规格: `ERC20`
+  * 精度: `18`
+  * 智能合约地址（以太坊）：`0x19e22a73a046f19ecb51a46ace4ca7a4bb7c20c6`
+* 波场（拜占庭大陆）
+  * 规格: `TRC20`
+  * 精度: `18`
+  * 智能合约地址（波场）：`TNGkC4xUSAyWaiJu3tu7EmgqUtvR45jTFG`
 
-## ![FIRE](../../.gitbook/assets/fireicon.png) FIRE
+## ![火](../../.gitbook/assets/fireicon.png) 火
 
-* Ethereum \(the Atlantis Continent\)
-  * Spec: `ERC20`
-  * Precision: `18`
-  * Smart Contract Address \(Ethereum\): `0x8469a695d70033ecd170c82be1253842162aa77e`
-* Tron \(the Byzantine Continent\)
-  * Spec: `TRC20`
-  * Precision: `18`
-  * Smart Contract Address \(Tron\): `TSxvo3HsdfWpg1Z6KGrLa14Ap56aFKk1bz`
+* 以太坊（亚特兰蒂斯大陆）
+  * 规格: `ERC20`
+  * 精度: `18`
+  * 智能合约地址（以太坊）：`0x8469a695d70033ecd170c82be1253842162aa77e`
+* 波场（拜占庭大陆）
+  * 规格: `TRC20`
+  * 精度: `18`
+  * 智能合约地址（波场）：`TSxvo3HsdfWpg1Z6KGrLa14Ap56aFKk1bz`
 
-## ![SIOO](../../.gitbook/assets/soilicon.png) SIOO
+## ![土](../../.gitbook/assets/soilicon.png) 土
 
-* Ethereum \(the Atlantis Continent\)
-  * Spec: `ERC20`
-  * Precision: `18`
-  * Smart Contract Address \(Ethereum\): `0x1320994fa466e19f17b143995999c7275eae50e1`
-* Tron \(the Byzantine Continent\)
-  * Spec: `TRC20`
-  * Precision: `18`
-  * Smart Contract Address \(Tron\): `TQZDHQw6evUsACqT14pCVMvbTXMZbarFtt`
+* 以太坊（亚特兰蒂斯大陆）
+  * 规格: `ERC20`
+  * 精度：`18`
+  * 智能合约地址（以太坊）：`0x1320994fa466e19f17b143995999c7275eae50e1`
+* 波场（拜占庭大陆）
+  * 规格: `TRC20`
+  * 精度：`18`
+  * 智能合约地址（波场）：`TQZDHQw6evUsACqT14pCVMvbTXMZbarFtt`
 
