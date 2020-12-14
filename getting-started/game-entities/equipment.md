@@ -10,17 +10,17 @@
 
 装备后带来土地上采掘元素速度获得加成效应，加成部分的元素收益由道具装备所有人享有。
 
-公共属性下的装备栏位中放入道具获得的收益，应向栏位所有者支付租金，租金暂设定为5%，全局参数，可通过治理进行调整。今后再考虑是否由栏位所有人自行设定。
+公共属性下的装备栏位中放入道具获得的收益，应向栏位所有者支付租金，租金暂设定为 5%，全局参数，可通过治理进行调整。今后再考虑是否由栏位所有人自行设定。
 
 在公共属性下，高阶道具可以强制占有低阶道具的栏位，同阶道具则不可。
 
-所以，在一块地上最多可以部署10件道具，其中5件通过与使徒绑定实现，另外5个直接部署在土地装备栏中。从地主视角来看，使徒位是地主专属的，土地装备栏则是有条件开放，地主也有权利设置成私有，不允许其他用户部署。
+所以，在一块地上最多可以部署 10 件道具，其中 5 件通过与使徒绑定实现，另外 5 个直接部署在土地装备栏中。从地主视角来看，使徒位是地主专属的，土地装备栏则是有条件开放，地主也有权利设置成私有，不允许其他用户部署。
 
-Equipment is the general term for the game props that can help perform specific tasks. They can be buildings you construct and place on Land to boost overall mining power, or mining gears such as DRILL you attach to the Apostles or Land to increase mining productivity, or weapons your Apostle use to flight another.
+装备是游戏道具的总称，可以帮助执行特定任务。可以是你建造和放置在陆地上以提高整体采矿能力的建筑，也可以是采矿设备，比如你在使徒或土地上安装的钻机，以提高采矿生产率，或者是你的使徒用来逃跑的武器。
 
-Equipment is NFT \(non-fungible tokens\) from Evolution Land native token, or external third-party NFTs that Evolution Land whitelists and endow with specific functionalities.
+装备是进化星球的 NFT（Non-Fungible Tokens），也可以是进化星球列出白名单并赋予特定功能的外部第三方 NFT。
 
-Equipment can also be minted NFT through [Furnace](/getting-started/game-entities/advanced/furnace.md) gameplay with is a synthetic NFT.
+通过[熔炉](/getting-started/game-entities/advanced/furnace.md)玩法，NFT 装备也可以被铸造成新的合成 NFT。
 
-More information will be disclosed when Furnace's gameplay is released. Please stay tuned.
+更多的信息将在熔炉的游戏发布后公布。欢迎关注。
 
