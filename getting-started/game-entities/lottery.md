@@ -1,18 +1,18 @@
 ---
-description: Every penny you spend has a chance to win big.
+description: 你的每一笔消费都有机会帮你赢得大奖
 ---
 
-# Points & Lottery
+# 积分与抽奖
 
-10% of game revenue goes to the "[Trading Reward Pool](/advanced/evolution-land-dao/revenue-model.md#trading-reward-pool)", this money is used to reward those spenders. When a player spends some money \(in the form of RING token\), a portion of the net revenue goes to the pool. The player gets some Points according to the amount he spends on a 1:1 basis. Therefore, he contributes 10 RINGs to the system revenue; he gets 10 Points. Using these Points, he can participate in the Lottery.
+游戏收入的 10% 将注入到[交易奖励池](/advanced/evolution-land-dao/revenue-model.md#trading-reward-pool)，用于奖励在游戏内参与消费的玩家。当一个玩家进行消费（形式为 RING），游戏净收入的一部分会流向奖励池。玩家根据花费的 RING 数按 1:1 的比例获得相应的积分点数。也就是说，当一个玩家为系统收入贡献了 10 个 RING，便得到 10 个积分。玩家可以用积分进行抽奖。
 
-## Lottery Winning Probability
+## 抽奖中奖概率
 
-Participate in the lottery will reward you most of the time. Every time you can either bet 10 Points or 100 Points. Only betting 100 Points may award you the grand prize.
+参与抽奖，大部分情况下都能获得奖励。你可以选择消耗 10 积分或 100 积分参与抽奖。但只有下注 100 积分才有可能获得大奖。
 
-Check out the charts below for detailed paying odds.
+查看下图了解详细的中奖几率。
 
-![Lottery Winning Probability](../../.gitbook/assets/lottery-odds.png)
+![抽奖中奖概率](../../.gitbook/assets/lottery-cn.jpg)
 
-The lottery gameplay has a house edge to make it sustainable, which means each bet's expectation profit is negative. Treat it as gameplay for fun, and it's a kind of cash refund for your spending, with a variable refund amount.
+抽奖玩法的庄家上风性质让该玩法变得可持续，这意味着每一次抽奖的预期利润是负的。玩家可以把它当作一种娱乐方式，这使你的每次消费都伴随着一个定量的退款金额。
 
