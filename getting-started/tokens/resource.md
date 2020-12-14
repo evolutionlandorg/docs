@@ -1,6 +1,6 @@
 # 资源
 
-资源是标准的同质化通证。你可以在下面找到资源的智能合约规格。进一步了解[资源](../game-entities/resource/)的用途。
+资源是标准的同质化通证。你可以在下面找到资源的智能合约规格。进一步了解[资源](../game-entities/resource/)的用途
 
 ## ![金](../../.gitbook/assets/goldicon.png) 金
 
