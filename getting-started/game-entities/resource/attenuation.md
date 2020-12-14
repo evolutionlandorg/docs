@@ -1,35 +1,36 @@
-# 资源损耗
+# 资源衰减
 
-Resource generation rate `V(time)`: refers to the resource release rate of the current time of the Land.
+资源生成率 `V(time)`：指土地当前的资源释放率。
 
-The maximum resource generation rate is `V_max(time)`: refers to the upper limit of the Land's release rate.
+资源最大生成率 `V_max(time)`：指土地释放率的上限。
 
-The initial maximum rate of resource generation `V_init_max` refers to the maximum rate and the initial rate of resource generation with the continent's opening.
+初始资源最大生成速率 `V_init_max`：指大陆开放后的最大资源生成率，同时也是初始资源生成率。
 
-Resource attenuation rate `A_atten`: The maximum rate of resource generation `V_max` will decrease from The initial maximum rate of resource generation `V_init_max` according to the Resource attenuation rate `A_atten`. The resource decay rate will be taken at a prolonged rate, which is about 1/10,000 a day.
+资源衰减率 `A_atten`：资源最大生成率 `V_max` 会根据资源衰减率 `A_atten`， 从初始资源最大生成速率 `V_init_max` 开始递减，资源衰减率采取的是极慢的速率计算，约为 1/10000 每天。
 
 ![](../../../.gitbook/assets/att1.png)
 
-Resource recovery rate `A_recover`: The current resource generation rate `V` will be increased according to the resource recovery rate `A_recover` until the resource generation rate `V_max` is reached. The recovery is about 2/1,000 of a day.
+资源回收率 `A_recover`: 当前资源生成率V `V` 会根据资源回收率而增加，直到达到资源最大生成率 `V_max` 为止。回收率大概是2/1000 到 5/1000 每天。
 
-Resource destruction deceleration rate `A_destroy(time)`: The current resource generation rate `V` will be reduced according to the current resource destruction deceleration rate `A_destory` until it reaches zero. Resource destruction deceleration rate `A_destroy(time)` is linearly related to the player's industrial activity index. The constant `Const_destroy`. is about 2/1,000 to 5/1,000 per day.
+资源销毁减速率 `A_destroy(time)`：根据当前的资源破坏减速率 `A_destroy(time)`，降低当前资源生成率 `V`，直至达到零。资源销毁减速率 `A_destroy(time)` 与玩家的生产活动指数有关。这个常数 `Const_destroy` 大约是 2/1000 到 5/1000 每天。
 
-Player industry activity index `Index_industry (time)`: refers to the player's current industry activities such as stacking resources, mining, element generation, construction, and other industrial activities, and cumulative production of indicators, will directly affect the resource damage negative acceleration rate `A_destroy ( Time)`. Mining workers excavating resources from Land, mining, resource accumulation, construction, and construction placement will affect the rate of resource generation, which can be epitomized by the general indicators of industrial and agricultural activity.
+
+玩家生产活动指数 `Index_industry (time)`：指玩家当前的生产活动，如囤积资源、采矿、元素生成、建造等，并且指标累计产量将直接影响资源破坏的负加速率 `A_destroy ( Time)`。矿工从土地采矿，囤积资源、参与建设或建设布局等方面的一系列生产活动，都会影响到资源的生成率，可以看作是工农业活动的标志。
 
 ![](../../../.gitbook/assets/att2.png)
 
-Resource generation rate `V(time)` calculation formula:
+资源生成率 `V(time)` 计算公式：
 
 ![](../../../.gitbook/assets/att3.png)
 
-Mining rate of miners `V_mining(time)`: refers to the speed of resource exploitation of all miners on this Land. More miners or adding props to miners can increase the mining rate, which is capped at the resource generation rate.
+矿工开采率 `V_mining(time)`：指所有在某个地块上的矿工的资源开采速率。更多的矿工或为矿工装备道具可以提高开采率，开采率以资源产生率为上限。
 
-Although there are random factors designed according to topographical geography and other factors, in the sense of probability and statistics, the universal release model of each continent and each Land follows the following laws:
+虽然大陆和地块都是按照地形地理学及一些其他要素随机组合生成的，但每个大陆和地块的通用发布模型遵循以下规则：
 
-* A. The total value of the significant continents' essential resources is almost the same, although the distribution of resources between the significant continents is different. For each continent, the initial rate of total resource generation is the same, and the subsequent rate of resource generation is significantly different from the degree of development. The resource generation rate varies from continent to continent. \(The principle of fair competition between the big continents\) 
-* B. On different Lands with the same attributes, the elements' release rate should be the same \(although in the latter application, the user may use the props to give their Land attribute enhancement\). The number of essential resources on the different Lands and the rate of release and disappearance may or may not be the same. 
-* C. Over time, the resource release attribute will be weakened at a prolonged rate, manifested by the attenuation of the resource release rate. 
-* D. After placing a building on the Land, it will destroy the natural state and attributes of the Land to a certain extent, which affects the release rate of the essential resources.
+* 尽管大陆之间的资源分布不同，但大陆的基本资源总值几乎相同。对于每一个大陆来说，初始的总资源生成率是相同的，而随后，资源生成率会根据开发程度的不同出现显著差异。各大洲的资源生成率各不相同。（各大洲之间公平竞争的原则）
+* 在具有相同属性的不同土地上，元素释放率相同（尽管在未来的功能里，用户可以使用道具来增强其土地属性）。不同土地上基本资源的数量以及释放和消失的速度可能相同，也可能不同。
+* 随着时间的推移，资源释放属性将以一种缓慢的速度减弱，表现为资源释放率的衰减。
+* 在土地上安置建筑物后，会在一定程度上破坏土地的自然状态和属性，从而影响必要资源的释放率。
 
-Unlike the token RING, the release of resources will be attenuated, but the supply is not fixed. On the one hand, it is affected by the natural state of the Evolution Land Lands, and on the other, the demand for resources in the open market will also affect its release or destruction. This market-based token model will form a market economy and improve the playability of the game.
+与 RING 不同，资源的释放会减弱，但供应并不固定。它一方面受土地演化的自然状态的影响，另一方面，公开市场对资源的需求也会影响其释放或销毁。这种市场化的通证模式将形成市场经济，提高游戏的可玩性。
 
