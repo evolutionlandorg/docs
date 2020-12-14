@@ -12,11 +12,11 @@ RING 是进化星球中的系统通证，游戏内的主要计价单位，充当
 
 ## RING 背景介绍
 
-RING 是达尔文网络的原生代币。进化星球作为旗舰级 DApp，在游戏内将 RING 作为游戏货币。RING 以不同的通证规格部署在不同的区块链网络中。在以太坊网络上，RING 遵循 ERC20 的规范；在波场网络上，RING 遵循 TRX20 的规范；在达尔文网络上，RING 作为原生代币。RING 的初始供应量为 20 亿（各区块链网络上所有 RING 的总和）。由于达尔文网络的本质是一个跨链转接桥链，RING 和其他代币可以分散的方式在区块链之间移动。在达尔文网络的文档站点上查看 [doc](https://docs.darwinia.network/docs/en/wiki-us-tokens) 以获取有关 RING 的更多信息。
+RING 是达尔文网络的原生代币。进化星球作为旗舰级 DApp，将 RING 作为游戏内货币。RING 以不同的通证规格部署在不同的区块链网络中。在以太坊网络上，RING 遵循 ERC20 的规范；在波场网络上，RING 遵循 TRX20 的规范；在达尔文网络上，RING 作为原生代币。RING 的初始供应量为 20 亿（各区块链网络上所有 RING 的总和）。由于达尔文网络的本质是一个跨链枢纽，RING 和其他代币可以分散的方式在区块链之间移动。在达尔文网络的文档站点上查看 [doc](https://docs.darwinia.network/docs/en/wiki-us-tokens) 以获取有关 RING 的更多信息。
 
 RING 被达尔文网络设定为以大约 5% 的速率膨胀，以支付验证人和提名人验证和生成区块的费用。按照目前的速度，RING 将在 50 年内达到 100 亿的硬上限。
 
-## ![KTON](../../.gitbook/assets/ringIcon.png) RING 规格
+## ![RING](../../.gitbook/assets/ringIcon.png) RING 规格
 
 * 以太坊（亚特兰蒂斯大陆）
   * 规格：`ERC20`
@@ -64,7 +64,7 @@ RING 被达尔文网络设定为以大约 5% 的速率膨胀，以支付验证�
 
 点击右侧领取，即可发送交易领取相应数量的 RING。 
 
-![Claim RING](../../.gitbook/assets/unclaimed-ring-cn.png)
+![可领取的 RING](../../.gitbook/assets/unclaimed-ring-cn.png)
 
 
 
