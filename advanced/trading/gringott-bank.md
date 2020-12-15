@@ -1,19 +1,19 @@
 ---
-description: Built-in token swap service and external exchanges
+description: 游戏内外代币兑换
 ---
 
-# Gringott Bank
+# 古灵阁银行
 
-## Token Swap Services
+## 代币兑换服务
 
-Gringott Bank is the in-game banking service for users to exchange tokens, such as buy RING or resources tokens with ETH or sell KTON for TRON. The token swap service Gringott Bank provides is powered by liquidity providers on the continent's underlying network, such as Uniswap on the Atlantis continent \(Ethereum\) and Justswap on the Byzantine continent \(Tron\).
+古灵阁是游戏内的银行服务，供用户交换代币，例如用 ETH 购买 RING 或资源，或出售 KTON 以获得 TRON 。古灵阁银行提供的代币交换服务由大陆底层网络上的流动性提供商提供支持，例如亚特兰蒂斯大陆（Ethereum）的 Uniswap 和拜占庭大陆（Tron）的 Justswap。
 
-* ![Gringott](../../.gitbook/assets/gringott.png)[Gringott Bank on the Atlantis Continent \(Ethereum\)](https://www.evolution.land/land/1/bank/buy-ring)
-* ![Gringott](../../.gitbook/assets/gringott.png)[Gringott Bank on the Byzantine Continent \(Tron\)](https://www.evolution.land/land/2/bank/buy-ring)
+* ![古灵阁](../../.gitbook/assets/gringott.png)[亚特兰蒂斯大陆上的古灵阁（以太坊）](https://www.evolution.land/land/1/bank/buy-ring)
+* ![古灵阁](../../.gitbook/assets/gringott.png)[拜占庭大陆上的古灵阁（波场）](https://www.evolution.land/land/2/bank/buy-ring)
 
-![Buy and Sell RING](../../.gitbook/assets/buy-sell-ring.png)
+![购买或出售 RING](../../.gitbook/assets/buy-sell-ring.png)
 
-The tokens supported for swap are:
+支持交换的通证有：
 
 * [RING](/getting-started/tokens/ring.md) \(online\)
 * [KTON](/advanced/trading/getting-started/tokens/kton.md) \(online\)
@@ -23,25 +23,25 @@ The tokens supported for swap are:
 * [FIRE](/advanced/trading/getting-started/tokens/resource/README.md#fire)
 * [SIOO](/advanced/trading/getting-started/tokens/resource/README.md#sioo)
 
-Resource liquidity pools will be online soon.
+资源的流动池也即将上线，敬请期待。
 
-## KTON Minting Service
+## KTON 铸造服务
 
-Gringott Bank used to provide an interface for users to stake RING to mint commitment token KTON. With the launch of the mainnet of Darwinia Network, this minting capability has been moved there. Gringott Bank no longer provides this service anymore.
+古灵阁曾为用户提供一个接口，为用户提供质押 RING 来获得 KTON 的服务。随着达尔文主网上线，这种铸造能力已经转移到那里。古灵阁银行不再提供这种服务。
 
-When Darwinia continent is launched on the Darwinia Network, Gringott Bank on that continent might provide this service.
+未来当达尔文大陆部署到达尔文网络上时，该大陆上的古灵阁银行可能会提供这项服务。
 
-## External Exchanges
+## 对外交换
 
-You can also trade tokens at external decentralized or centralized exchanges or liquidity providers. All the above tokens are tradeable at decentralized liquidity providers such as:
+你也可以在去中心化或中心化流动性供应商处进行代币交易。上述所有代币均可在去中心化流动性提供商处交易，例如：
 
 * [Uniswap](https://info.uniswap.org/token/0x9469d013805bffb7d3debe5e7839237e535ec483) on Ethereum
 * [Justswap](https://justswap.io/#/scan/detail/trx/TL175uyihLqQD656aFx3uhHYe1tyGkmXaW) on Tron 
-* and many more
+* 其他
 
-You can just viist their websites to swap the tokens against any other popular tokens.
+只需访问他们的网站，就可以与其他热门代币互换。
 
-RING is also traded at some centralized exchanges with decent liquidity. Find out the [list](/getting-started/tokens/ring/README.md#dex) here.
+在一些流动性良好的中心化交易所，也可以交易 RING。查看[列表](/getting-started/tokens/ring/README.md#dex)
 
-KTON is also traded at some centralized exchanges with decent liquidity. Find out the [list](/getting-started/tokens/kton/README.md#dex) here.
+在一些流动性良好的中心化交易所，也可以交易 KTON。查看列表[列表](/getting-started/tokens/kton/README.md#dex)
 
