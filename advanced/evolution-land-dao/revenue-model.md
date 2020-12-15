@@ -8,19 +8,19 @@ description: 自融资机制
 
 ## 系统收入来源
 
-1. **创世拍卖收入**：拍卖创世地块、创世使徒的部分收入。（创世拍卖分配模型：图1-1）
+1. **创世拍卖收入**：拍卖创世地块、创世使徒的部分收入。（创世拍卖分配模型：图 1-1）
 2. **资产交易手续费**：游戏内用户间资产交易时收取的手续费。比如分成模型中地块交易时收取的手续费，后期人物形象、道具等资产的交易也会产生相应的手续费。这些手续费在扣除推荐奖励之后，剩余部分均会流向系统收入。
 3. **使徒生育费**：使徒生育时，将会收取一个小的生育费。
-4. **神奇药水销售**：：神奇药水的销售也将进入收入池。
+4. **神奇药水销售**：神奇药水的销售也将进入收入池。
 5. **跨大陆进出口税**：当道具、资源或者使徒进行跨大陆迁移时，跨大陆进出口税，类似国际间进出口税收。
 6. **营业税**： 其他商业活动的税收
-7. **其他收入**。
+7. **其他收入**
 
-【注：税收和其他收入不断完善中，后期补充说明】
+注：税收和其他收入不断完善中，后期补充说明
 
-![](../../.gitbook/assets/auction-revenue.png)
+![1-1](../../.gitbook/assets/auction-revenue.png)
 
-The Parliament determines all the tax rates and fees listed above through the Governance process. Altogether, they build up the revenue to be distributed.
+议会通过治理程序决定上述所有税率和费用。总的来说，议会建立起了要分配的收入。
 
 ## 系统收入分配
 
@@ -30,7 +30,7 @@ The Parliament determines all the tax rates and fees listed above through the Go
 
 2. 交易奖励池（占10%）：进化星球 - 交易抽奖：[https://forum.evolution.land/posts/27](https://forum.evolution.land/posts/27)
 
-3. 内容贡献激励（占30%）：向游戏内经济贡献前x名发放，暂时锁在合约内，待游戏上线后有内容贡献后进行分账。
+3. 内容贡献激励（占30%）：向游戏内经济贡献前 x 名发放，暂时锁在合约内，待游戏上线后有内容贡献后进行分账。
 
 4. 氪石治理者（占30%）：向氪石治理者发放。
 
@@ -43,27 +43,27 @@ The Parliament determines all the tax rates and fees listed above through the Go
 
 ### 交易奖励池
 
-This is also called the lottery pool. When players spent some money in the game, they are rewarded with Points that act as lottery tickets. Players can use them in the "Happy Lottery" gameplay to win a grand prize. The prize pool is filled up by this lottery tax from each spending transaction.
+也叫抽奖池。当玩家在游戏中消费，他们会得到积分，就像彩票一样。玩家可以在「开心大乐透」使用积分来赢得大奖。每一笔消费交易的彩票税都会填满抽奖池。
 
-Check out [Point and Lottery](/getting-started/game-entities/lottery.md) for more information.
+查看[积分与抽奖](/getting-started/game-entities/lottery.md)获取更多相关信息
 
 {% page-ref page="/getting-started/game-entities/lottery.md" %}
 
-### Content Contribution Incentive Pool
+### 内容贡献激励池
 
-This pool's purpose is to incentivize users that contribute to the prosperity of the game eco-system, either by designing buildings, attracting more users to the game, other any constructive ways to help the community grow. This pool can also serve as the funding for per-case grant applicants.
+这个奖金池的目的是激励那些通过设计建筑，吸引更多的用户加入游戏，或者通过其他任何有建设性的方式来帮助社区发展，为游戏生态系统的繁荣做出贡献的用户。这个资金池也可以作为每个具体奖金申请者的资金来源。
 
-Because of the subjective nature of this pool's purpose, no money has been spent yet. With the Governance module coming online, users can submit a proposal to apply for funding or tips.
+由于这个资金池的目的是主观的，目前还没有相应花销。随着治理模块的上线，用户可以提交一份提案来申请奖金或小费。
 
-### Governor Pool
+### 治理者奖金池
 
-Governor is a paying job. Any player can become a governor to participate in the governance process as long as they have staked interest in the game. This pool incentivizes governors' sacrificed liquidity.
+治理者是个有报酬的职业。任何玩家只要对游戏感兴趣，都可以成为管理者，参与治理过程。这一奖金池的设立补偿了治理者牺牲的流动性。
 
-Check out [Governance](governance.md) for more information.
+查看[治理](governance.md)以了解更多信息
 
 {% page-ref page="governance.md" %}
 
-### Operations & Dev Pool
+### 运营与开发人才奖金池
 
-This pool is reserved for the bootstrapping dev team to subside human resources and operation costs.
+这个奖金池是为维系开发团队保留的，以减少人力资源和运营成本。
 
