@@ -1,75 +1,75 @@
 ---
-description: 游戏内置NFT交易市场及拍卖系统
+description: 游戏内置 NFT 交易市场及拍卖系统
 ---
 
 # NFT 市场
 
-NFT market is where you trade NFT assets. Each NFT asset is unique. Each trade differs as well. You can trade your NFT in Evolution Land built-in NFT market or any external NFT market as you prefer.
+NFT 市场是你交易 NFT 资产的地方。每个 NFT 资产都是独一无二的。每一种贸易也各不相同。你可以在进化星球内置 NFT 市场或任何外部 NFT 市场中交易你的NFT。
 
-## Evolution Land NFT Market
+## 进化星球 NFT 市场
 
-Evolution Land in-game NFT market provides Auction System, give you flexibility to sell your asset at a fixed price or use Dutch Auction or Reversed Dutch Auction. You can trade your NFT assets without leaving the system. Evolution Land provide a all-in-one experience.
+进化星球游戏内 NFT 市场提供拍卖系统，玩家有足够的灵活性，可以以固定价格出售资产，使用荷兰式拍卖，或者反向荷兰式拍卖。你可以在不离开系统的情况下交易你的 NFT 资产。进化星球提供了一个全方位的体验。
 
-### Land NFT Market
+### 地块 NFT 市场
 
-In the Land market, you can browse, search and filter for your desired Lands. View Land detail and find out their price as well as resource reserves. You can purchase the Land using RING token.
+在地块市场中，你可以浏览、搜索和筛选您想要的地块，查看地块详情，了解其价格以及资源储量。你可以使用 RING 购买地块。
 
-![Land NFT Market](../../.gitbook/assets/land-nft-market.png)
+![地块市场](../../.gitbook/assets/land-nft-market.png)
 
-### Apostle NFT Market
+### 使徒 NFT 市场
 
-In the Apostle market, you can browse, search and filter for your desired Apostles. View Apostle detail and find out their price as well as apperance and talents. You can purchase the Apostle using RING token.
+在使徒市场，你可以浏览，搜索和筛选你想要的使徒，查看使徒的细节，价格，以及外观和才能。你可以用 RING 购买使徒。
 
-![Apostle NFT Market](../../.gitbook/assets/apostle-nft-market.png)
+![使徒市场](../../.gitbook/assets/apostle-nft-market.png)
 
-### Apostle Job Market
+### 使徒打工市场
 
-Apostle owners can put his Apostles on the Job Market to mine for others for a specific period with a daily wages, if hirer accepts the offer. These job listingd can be found at the Apostle NFT Market.
+玩家可以把他的使徒放到打工市场出租，只要雇主接受报价，使徒就可以在限定的期限内以日薪的方式为雇主挖矿。这些列表可以在使徒 NFT 市场找到。
 
-### Apostle Dating Market
+### 使徒相亲市场
 
-Apostle owners can put his Apostles on the Dating Market to find partners to breed for a auctioned fee. If winning bidder will breed with the Apostle and receive the child.
+玩家可以把使徒放在相亲市场上，以拍卖的方式寻找伴侣繁殖。成功拍卖的玩家将让自己的使徒与拍卖下来的使徒繁殖，并接收使徒的孩子。
 
-### Auction System
+### 拍卖系统
 
-#### Optimized Dutch Auction
+#### 优化荷兰式拍卖
 
-A Dutch auction is a public offering auction structure in which investors place a bid for the amount they are willing to buy in terms of quantity and price. The auction price on an item is lowered until it gets a bid. The first bid made is the winning bid and results in a sale. This is in contrast to typical options, where the price rises as bidders compete.
+荷兰式拍卖是一种公开发售的拍卖结构，在这种结构中，投资者以他们愿意购买的数量和价格出价。一件物品的拍卖价格会降低，直到有人出价。The first bid made is the winning bid and results in a sale. 这与典型方案形成了鲜明对比，即随着竞买人的竞争，价格会上涨。
 
-In Evolution Land, the seller can set a pair of starting price and ending price and the price change duration. According to the price change period, the auction price will change from the starting price to the ending price linearly. Therefore you can use these parameters to create various auction types:
+在进化星球中，卖方可以设定一对起始价格和结束价格，以及价格变动持续时间。根据价格变化周期，拍卖价格从起始价格到结束价格呈线性变化。因此，您可以使用这些参数创建各种拍卖类型：
 
-1. Fixed price sale: Set starting price equal to ending price, price change period set to anything other than 0.
-2. Classic Auction \(price rise over time\): Set ending price higher than starting price for a limited period.
-3. Dutch Auction \(price lowers over time\): Set ending price lower than starting price for a limited period.
+1. 固定价格销售：设置相同的起始价格和结束价格，价格变化期设置为 0 以外的任何值。
+2. 经典拍卖（价格随时间上涨）：在有限的时间内，设定结束价格高于起始价格。
+3. 荷兰式拍卖（价格随着时间的推移而降低）：在限定的时间内，将结束价格设置为低于起始价格。
 
-![Auction Setting](../../.gitbook/assets/auction-sample.png)
+![拍卖设置(../../.gitbook/assets/auction-sample.png)
 
 #### Initial Land Offering Auction
 
-When Lands are first created by [Eve](../../), an Initial Offering Auction event is held. First 10 Lands are auctioned through a revised Dutch auction with an arbitrary starting price with ending price 1/10. After those 10 lands are sold, new Lands are auctioned one by one with starting price of average sale price of the previous 10 Lands.
+在 [Eve](../../) 首次创造土地时，举行了创世地块拍卖活动。前 10 块土地通过修改后的荷兰拍卖会进行拍卖，起始价任意，终止价为1/10。（First 10 Lands are auctioned through a revised Dutch auction with an arbitrary starting price with ending price 1/10.）10 块土地拍卖完成后，将以前 10 块土地的平均售价为起拍价，逐笔拍卖新的土地。
 
-This revised Dutch auction lowers its price over time just like a typical one, but it does not end when receiving a bid. Instead it enters reverse Dutch auction mode. The bidder wins the Land only when no one else bids at a fixed increase \(10%\) within 30 minutes. Each time someone bids higher, the previous bidder will receive full refund and the 10% premium will be shared among these parties:
+修改后的荷兰式拍卖会和典型的荷兰式拍卖一样，随着时间的推移价格降低，但它不会在收到出价时结束。相反，它进入反向荷兰式拍卖模式。只有在 30 分钟内没有其他人以固定价格（10%）出价的情况下，投标人才能赢得土地。每次有人出价更高，先前的出价者将获得全额退款，10% 的溢价将由这些当事人分摊：
 
-1. 4% of the premium will be charged as handling fee.
-2. The remainder will be divided equally between the landlord and the previous bidder.
-3. In the absence of a referee, the handling fee flows directly to the system revenue.
-4. If there is a referee, the referrer's reward is 20% of the handling fee, and the remaining 80% flows to the system revenue.
+1. 溢价的 4% 将被作为手续费
+2. 剩余部分将在地主和前一投标人之间平均分配。
+3. 在没有引荐人的情况下，手续费直接流入系统收入。
+4. 如果有引荐人，引荐人的奖励是手续费的 20%，剩下的 80% 流入系统收入。
 
-![Initial Land Offering Auction](../../.gitbook/assets/auction-revenue.png)
+![创世地块拍卖](../../.gitbook/assets/auction-revenue.png)
 
-## External NFT Market
+## 外部 NFT 交易市场
 
-NFT assets are stored directly in your cryptocurrency wallet. You can trade them at external NFT market freely. These markets divided into decentralized and centralized markets.
+NFT 资产直接存储在你的加密货币钱包中。你可以在外部 NFT 市场自由交易。这些市场分为去中心化交易市场和中心化交易市场。
 
-#### Decentralized NFT Market \(external\)
+#### 去中心化 NFT 交易市场（外部）
 
-Your NFT assets goes to auction smart contracts developed by these markets. They are truestless. These are the markets we would recommend:
+你的 NFT 资产用于拍卖这些市场开发的智能合约。它们是去信任的。以下是我们推荐的市场：
 
 * [OpenSea](https://opensea.io/collection/evolutionland)
 * [Rarible](https://app.rarible.com/collection/0x14a4123da9ad21b2215dc0ab6984ec1e89842c6d/collectibles)
 * [Enjin](https://enjinx.io/eth/marketplace)
 
-#### Centralized NFT Market \(external\)
+#### 中心化 NFT 交易市场（外部）
 
-You interact with these markets just like any other centralized crypto exchanges. You send your assets to their wallets secured by the entity who operates the market. You are exposed to centralized risks. When you have decentralized exchanges within Evolution Land or others, we wouldn't recommend any centralized NFT markets.
+你与这些市场的交易就像任何其他集中的加密交易一样。你把你的资产送到他们的钱包里，由市场运作的实体担保。你面临着中心化的风险。当你在进化星球或其他地方有去中心化的交易时，我们不建议任何中心化的 NFT 交易市场。
 
