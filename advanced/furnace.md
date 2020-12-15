@@ -1,15 +1,18 @@
+---
+description: 合成全新的挖矿道具
+---
 # 熔炉
 
-![Syythetic NFTs](../.gitbook/assets/synthetic-nft.png)
+![合成 NFT](../.gitbook/assets/synthetic-nft.png)
 
 熔炉（Furnace）是进化星球里的 **NFT 合成系统**。
 
 在熔炉系统中，用户可以根据图纸，选择将多种不同资产（包括 NFT 和 FT）合成新的 NFT 资产，合成挖矿道具。
 
-## 合成NFT资产的用途
+## 合成 NFT 资产的用途
 
-* NFT挖矿
-* 成为高阶合成NFT的「成分NFT」
+* NFT 挖矿
+* 成为高阶合成 NFT 的「成分NFT」
 * 其他外部应用中的功用
 
 合成NFT资产可以为使徒配备（绑定，提供挖矿效率加成），也可以与包括土地、建筑等实体进行绑定，提供各种工作、战斗效率加成。
