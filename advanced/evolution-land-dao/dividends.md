@@ -4,13 +4,13 @@ description: 游戏玩家分享游戏的成功
 
 # 分红
 
-To compensate governors who sacrifice their [KTON](../../getting-started/tokens/kton.md) liquidity and participation in the governance process. Revenues in the Governor Pool is paid to these governors based on their staked KTON proportionally against the overall pool.
+为了补偿和激励那些牺牲了 [KTON](../../getting-started/tokens/kton.md) 流动性来参与治理的治理者，进化星球将根据治理者在总资金池中的持股比例向治理者支付治理奖金。
 
-Dividends are paid through the state channel on a per transaction basis. That means every time a spending transaction takes place. Dividends are cleared and sent to the governor's credits in the state channel on-chain. Governors will need to actively send a claim transaction to the smart contract to collect their dividends \(RING\) to their wallet address.
+分红通过状态通道按每笔交易进行分发。这意味着消费发生，分红自动结算，并通过链上的状态通道发送到治理者的账户。治理者需要主动向智能合约发送交易请求，以便收取分红（RING）到钱包地址。
 
-The dividends are not distributed as regular transactions because each spending transaction might distribute to thousands of beneficiaries with micro amounts. The gas cost will be significant compared to the amount sent. However, using the state channel, dividends can be accumulated and collected once.
+分红并不是作为常规交易进行分配的，因为每一笔支出交易产生的分红都可能以小额金额分配给成千上万的受益人。与分红的金额相比，燃料费是庞大的。然而，利用状态通道，分红可以积累起来，一次性收取。
 
-From the DeFi perspective, this governance model looks like a DeFi yield farming pool. You stake your KTON in the pool. In return, you receive RING tokens as rewards. The difference is in a regular pool, the reward you mint is the project's base token released at speed set by a fixed algorithm, whose value is driven mostly by speculation; While here, the reward you receive is the revenue from the game. Your financial reward is actually linked with the success of the business.
+从 DeFi 的角度来看，这种治理模式看起来像一个 DeFi yield farming pool。你把你的 KTON 质押在池里，作为回报，你将获得 RING 作为奖励。不同的是，在一个常规池中，你获得的奖励是按固定算法设定速度释放的项目代币，其价值主要由投机决定；而在这里，你获得的奖励是游戏的收入。你的经济回报实际上与项目的成功有关。
 
 ## 拍地分成
 
