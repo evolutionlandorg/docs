@@ -4,17 +4,17 @@ description: 进化星球是一个去中心化自治社区
 
 # 进化星球 DAO
 
-Evolution Land is designed and developed to be a DAO \(Decentralized Autonomous Organization\) owned by the community. Dev team's role is to kick off the project and establish the technical foundation so that other users \(players, designers, developers, investors\) can contribute and influence the game's evolution path in their way.
+进化星球从一开始就被开发和设计为一个由社区治理的 DAO（去中心化自治组织）。Dev 团队的作用是启动项目并建立技术基础，以便其他用户（玩家、设计师、开发者、投资者）能够以自己的方式参与贡献，影响游戏的发展方向。
 
-Decentralization is achieved through these means:
+去中心化是通过以下方式实现的：
 
-* **Technology** \([details](/overview/developer.md)\)
-  * Game logic exists on the blockchain, transparent and auditable. Open-source smart contracts
-  * Open source front-end UI skeleton, anyone can clone and develop their UI
-* **Revenue** \([details](renenue-model.md)\)
-  * Game revenue is distributed to players and contributors, enforced by smart contracts
-  * Built-in referral program
-* **Governance** \([details](governance.md)\)
-  * Distinguish casual players from the serious governors
-  * Staked users have the power to vote for off-chain and on-chain proposals
+* **技术**（[细节](/overview/developer.md)）
+  * 游戏逻辑部署于于区块链上，透明且可查证。开源智能合约
+  * 开源的前端 UI 框架，任何人都可以克隆和开发他们的 UI
+* **收入**（[明细](renenue-model.md)）
+  * 游戏收入通过智能合约分配给玩家和贡献者
+  * 内置引荐机制
+* **治理**（[细节](governance.md)）
+  * 区分休闲玩家和严肃的管理者
+  * 参与质押的用户有权投票支持链外和链上提案
 
