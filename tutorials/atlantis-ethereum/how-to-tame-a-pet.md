@@ -1,39 +1,40 @@
 # 如何驯服一只谜恋猫作为宠物
 
 {% hint style="info" %}
-This guide covers the v1 UI interface. In v2 \(latest\) UI interface, the guide should work too with a slight change.
+本指南适用于 游戏 V1.0 的 UI 界面。游戏 V2.0（最新）的 UI 界面操作与 V1.0 稍有不同，但基本一致。
 {% endhint %}
 
-Below are simple screenshots of how to using the "Pet" system.
+以下是如何绑定宠物的教程：
 
-![Pet Menu](../../.gitbook/assets/pet1.png)
+![我的宠物](../../.gitbook/assets/pet1-cn.png)
 
-Select "My Pets" from the menu to access
+点击进入「我的宠物」
 
-![Select a CryptoKitty](../../.gitbook/assets/pet2.png)
+![选择一只谜恋猫](../../.gitbook/assets/pet2-cn.png)
 
-Select Pet Source and Kitty. Only kitties owned by the player's signed-in address will be shown. Click on the kitty to tame.
+选择想要驯化的宠物。（只有当前登陆地址所拥有的谜恋猫会在此处显示）点击「驯化」。
 
-![Choose the Apostle to bind with](../../.gitbook/assets/pet3.png)
+![选择要绑定的使徒](../../.gitbook/assets/pet3.png)
 
-Select an Apostle Master to bound the selected Kitty.
+选择一个使徒与谜恋猫绑定
 
-![Tx waiting](../../.gitbook/assets/pet4.png)
+![等待交易确认](../../.gitbook/assets/pet4.png)
 
-Waiting for the transaction to be confirmed
+等待交易确认
 
-![Tx confirmed](../../.gitbook/assets/pet5.png)
+![交易确认](../../.gitbook/assets/pet5.png)
 
-Kitty Tamed! Kitty's status is updated.
+成功绑定！谜恋猫的状态已经更新
 
-![They are together now](../../.gitbook/assets/pet6.png)
+![已绑定](../../.gitbook/assets/pet6.png)
 
-Apostle with Pet in list view.
+列表预览中的使徒和谜恋猫
 
-![Apostle&apos;s View](../../.gitbook/assets/pet7.png)
+![使徒详情页一览](../../.gitbook/assets/pet7.png)
 
-Apostle with Pet in detail view.
+细节预览中的使徒和谜恋猫
 
-![Mining Enhanced](../../.gitbook/assets/pet8.png)
+![挖矿能力增强](../../.gitbook/assets/pet8.png)
 
-[Mining Ability Enhanced](../../getting-started/game-entities/apostle/skills.md#productivity). Apostle with a pet has better minging output than without.
+[挖矿能力增强](../../getting-started/game-entities/apostle/skills.md#productivity)。使徒绑定宠物后，其挖矿能力将比没绑定之前有所增强。
+
