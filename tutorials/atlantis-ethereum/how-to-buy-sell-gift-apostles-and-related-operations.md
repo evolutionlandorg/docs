@@ -1,34 +1,37 @@
+---
+description: 如何获得使徒
+---
 # 购买/出售使徒以及使徒的相关操作
 
 ## 如何购买使徒？
 
-1. 登录进化星球点击「大陆」&gt;&gt;「亚特兰蒂斯大陆」&gt;&gt;「使徒」，玩家将看到亚特兰蒂斯大陆的全部创世使徒。
+1. 登录进化星球点击「大陆」>>「亚特兰蒂斯大陆」>>「使徒」，玩家将看到亚特兰蒂斯大陆的全部创世使徒。
 
- \(目前亚特兰蒂斯大陆第一批创世使徒已经全部告罄，如有需要可在后述使徒市场中购买其他玩家正在出售的使徒\)  
-
-点击使徒首页下方「更多」，将看到使徒市场：包括「所有」、「出售中」、「待相亲」以及「待招募」。
-
-![](https://lh4.googleusercontent.com/JeUtANbgL6jbkNzYSI9rlvGAM0HmWvZYV4SEhqdkpvsBQGDrWbWh4VGmeLcWlA7-jSG3Mu8NUxCA4S-StEyV2RGZhngln7H2zp1b6nz5Ceo_3XVpYf-ou3gPNAoZTHLc4ok0WHW6)
-
-* **出售中**：其他玩家正在出售的使徒，可以直接购买；
-* **待相亲**：其他玩家挂出可以与其繁殖下一代的使徒，您可以选择自己的使徒与其繁殖，繁殖后的使徒归您所有；
-* **待招募**：其他玩家挂出可以雇佣其打工的使徒，您可以雇佣该使徒在自己的地块上进行挖矿。
-
-![](https://lh4.googleusercontent.com/dsWVrse6U1FswEIovIgehasCqN1C8p2GtJyM4W4Cbh4KU2-PCfxrGYIWzi64RQz8Ot-JjJ6xK9PxAs9Ii8VZldTyjIxMnPztT-rvLXAtKKUAzQv5QIyOp0iVApJ5DnFweBa74oz6)
+ （目前亚特兰蒂斯大陆第一批创世使徒已经全部告罄，如有需要可在后述使徒市场中购买其他玩家正在出售的使徒） 
+ 
+ 点击使徒首页下方「更多」，将看到使徒市场：包括「所有」、「出售中」、「待相亲」以及「待招募」。
+ 
+ ![](../../.gitbook/assets/apostle1-cn.png)
+ 
+ * **出售中**：其他玩家正在出售的使徒，可以直接购买；
+ * **待相亲**：其他玩家挂出可以与其繁殖下一代的使徒，您可以选择自己的使徒与其繁殖，繁殖后的使徒归您所有；
+ * **待招募**：其他玩家挂出可以雇佣其打工的使徒，您可以雇佣该使徒在自己的地块上进行挖矿。
+  
+  ![](../../.gitbook/assets/apostle2-cn.png)
 
 2. 点击您想要购买的使徒，右侧弹窗下拉会显示该使徒的详细信息（包括价格、天赋、介绍、属性、父母儿女等，其中使徒的寿命是以“周”为单位）。确认信息后，玩家可以点击弹窗中的「拍卖出价」，在新的弹窗中确认订单后再次点击「拍卖出价」。
 
- ![](https://lh6.googleusercontent.com/8jZxFkJygRGRSsHT-tsPIylf6idmf02tQnXpSREYPDiPlZRwfcCBjpDekCBxmtxNmoz54tr8uMoCk1WFniGP5fbWGmD1IxjdSn4xw98Peo5YFwOu5MqM6arijxcUQJvEbem8iT8S)![](https://lh6.googleusercontent.com/QquZ9KjSRRlCxb9ziruYe-NGT8_uCFlyi4vL_SmgIgYmohxhoHZ1ltmc2B-5W9WBRDFrwx440XC2m6ouvthzxehxAeszy_63m8GWQe9WEsoBkzI91zwW9h72jxrremAaR6Mkq09g)![](https://lh4.googleusercontent.com/ExHXd_KFW8NFN3cp7LMTlfT_LCh2bxAiJRES_MaqnqxYpCE6ANLYBIkneYHtxhUI16fuZm42VFnkmNLIHoYPBQ28ORpR_v54UwpaVhFK_SVPDsUCaj687mw-4ikKIRrGUqW26PAO)
+ ![](../../.gitbook/assets/apostle3-cn.png)![](../../.gitbook/assets/apostle4-cn.png)![](../../.gitbook/assets/apostle5-cn.png)
 
-3. 此时玩家拍到的使徒将显示在「已出价」中，若10分钟内没有其他玩家以更高的价格拍下该使徒，则使徒成交，成交后的使徒会显示在“未领取”中。
-
-![](https://lh5.googleusercontent.com/7OIaJ6NRq8Tum65cW9zjZHzlNbjm-QuUPHlkPbifNAj4RsMbnb9XK3jSgGv9UW5WN6Pmte5eJhCQHYz-TqhCeY8WnvwVPe3cDrVf_iufd1Nw1FUvtRFkDzVWtAwjVQ4HJujs4pcg)
+3. 此时玩家拍到的使徒将显示在「已出价」中，若 10 分钟内没有其他玩家以更高的价格拍下该使徒，则使徒成交，成交后的使徒会显示在「未领取」中。
+   
+ ![](../../.gitbook/assets/apostle6-cn.png)
 
 ## 我拍到的使徒去哪里查看？
 
 1. 玩家初次拍到的使徒将显示在「已出价」中；
 
-2. 若10分钟内没有其他玩家以更高的价格拍下该使徒，则使徒成交，此时使徒将显示在「未领取」中；
+2. 若 10 分钟内没有其他玩家以更高的价格拍下该使徒，则使徒成交，此时使徒将显示在「未领取」中；
 
 3. 领取后的使徒将显示在「我的使徒」中。
 
@@ -42,9 +45,8 @@
 
 点击使徒，会看到使徒可以进行的活动，如图所示：
 
-![](https://lh5.googleusercontent.com/iNmyeJiS8V_RMNNUfzIWXVgkzJPBy86R9GUbmencLV-eAmUL3Ae68XTbFfwkd0M2wClHlP-DS5zwvNolA9fVwBnkHLFfFch1_v-4e0I_6MAucBjl3jegF2_nHiyDF5Fr9eL-HHIU)
+![](../../.gitbook/assets/apostle7-cn.png)
 
-####  
 
 **【工作】将使徒放置在自有地块上挖矿**
 
@@ -56,11 +58,11 @@
 
 **【出租】将使徒挂在打工市场上供他人租用以获取收入**
 
-点击出租，填写出租的单价，即XXXXRING/天，点击「确认」等待交易确认。
+点击出租，填写出租的单价，即 XXXX RING / 天，点击「确认」等待交易确认。
 
 **【出租】取消出租**
 
-如果使徒挂在待招募市场还未成功出租，可以在「使徒市场」&gt;&gt;「待招募」或「我的使徒」&gt;&gt;「待招募」中找到并选择该使徒，点击「取消」并等待交易确认。
+如果使徒挂在待招募市场还未成功出租，可以在「使徒市场」>>「待招募」或「我的使徒」>>「待招募」中找到并选择该使徒，点击「取消」并等待交易确认。
 
 如果挂在待招募市场已成功出租，您不能取消出租，需等待使徒出租到期。
 
@@ -88,7 +90,7 @@
 
 **【出售】将使徒挂在出售市场上供他人选购**
 
-显示在我的使徒中并且没有正在进行其他活动的使徒是可以进行出售的，点击「出售」，输入期望的起始价、结束价以及期限时间后点击「出售」，当签名成功后，该使徒的状态将变为待出售，此时玩家可以在「使徒市场」&gt;&gt;「待出售」或「我的使徒」&gt;&gt;「待出售」查看该使徒。
+显示在我的使徒中并且没有正在进行其他活动的使徒是可以进行出售的，点击「出售」，输入期望的起始价、结束价以及期限时间后点击「出售」，当签名成功后，该使徒的状态将变为待出售，此时玩家可以在「使徒市场」>>「待出售」或「我的使徒」>>「待出售」查看该使徒。
 
 **【转让】将使徒发送到其他地址**
 
