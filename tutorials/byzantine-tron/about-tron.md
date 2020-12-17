@@ -4,40 +4,39 @@ description: 进化星球是一款基于区块链的游戏，第二块大陆（�
 
 # 波场相关知识
 
-## **什么是波场？**
+## 什么是波场？
 
-波场（TRON）致力于为去中心化互联网搭建基础设施，其TRON协议是基于区块链的去中心化内容协议，为协议上的去中心化应用运行提供高吞吐，高扩展，高可靠性的底层公链支持。
+波场（TRON）致力于为去中心化互联网搭建基础设施，其 TRON 协议是基于区块链的去中心化内容协议，为协议上的去中心化应用运行提供高吞吐，高扩展，高可靠性的底层公链支持。
 
-## **什么是波场币？**
+## 什么是波场币？
 
 波场币（TRX）是波场区块链上的数字资产。波长币可以从波场网络上的一个地址发送到另一个地址，也可以用于支付执行智能合约所需的费用。
 
-## **什么是Tronscan？**
+## 什么是 Tronscan？
 
-Tronscan（[https://tronscan.org/](https://tronscan.org/)）是一个波场网络上的查询工具。它可以告诉玩家在区块链上发生的一切，也可以帮助玩家验证交易成功，并追踪其他关于交易和地址的有用细节。
+[Tronscan](https://tronscan.org/) 是一个波场网络上的查询工具。它可以告诉玩家在区块链上发生的一切，也可以帮助玩家验证交易成功，并追踪其他关于交易和地址的有用细节。
 
-## **给我详细说说 「手续费」吧!**
+## 给我详细说说 「手续费」吧!
 
 和以太坊等网络一样，波场网络上进行交易或执行合约也需要花费一定的手续费。
 
 **手续费有两种支付方式：**
 
-1. 消耗TRX
-2. 消耗Bandwidth Point 和 Energy
+1. 消耗 TRX
+2. 消耗 Bandwidth Point 和 Energy
 
-波场网络引入了Bandwidth point 和 Energy 两种资源。 其中带宽消耗的是Bandwidth Point，而CPU消耗的是Energy。
+波场网络引入了 Bandwidth point 和 Energy 两种资源。 其中带宽消耗的是 Bandwidth Point，而 CPU 消耗的是 Energy。
 
-* 获取Bandwidth Point：每个账户会有固定免费额度为5000；您也可以通过冻结TRX获得，这部分是按照所有用户按冻结的TRX平分固定额度的Bandwidth Points。
-* 获取Energy：Energy只能通过冻结TRX获取，数量是按照所有用户按冻结的TRX平分固定额度的Energy。
+* 获取 Bandwidth Point：每个账户会有固定免费额度为 5000；您也可以通过冻结 TRX 获得，这部分是按照所有用户按冻结的 TRX 平分固定额度的 Bandwidth Points。
+* 获取 Energy：Energy 只能通过冻结 TRX 获取，数量是按照所有用户按冻结的 TRX 平分固定额度的 Energy。
 
 注：
+* 由于网络中总冻结量以及账户的冻结量随时可能发生变化，因此账户拥有的 CPU 资源不是固定值；
+* 冻结资金不可同时获得 Bandwidth Points 与 Energy，即如果指定冻结 TRX 获得 bandwidth，Energy 不会变化；
+* 普通交易仅消耗 Bandwidth points；
+* 智能合约的操作不仅要消耗 Bandwidth points，还会消耗 Energy。
 
-* 由于网络中总冻结量以及账户的冻结量随时可能发生变化，因此账户拥有的CPU资源不是固定值；
-* 冻结资金不可同时获得Bandwidth Points 与Energy，即如果指定冻结TRX获得bandwidth，Energy不会变化；
-* 普通交易仅消耗Bandwidth points；
-* 智能合约的操作不仅要消耗Bandwidth points，还会消耗Energy。
-
-## **如果我无法访问我的钱包，你们能恢复我的进化星球资产吗？**
+## 如果我无法访问我的钱包，你们能恢复我的进化星球资产吗？
 
 很遗憾，不可以。
 
