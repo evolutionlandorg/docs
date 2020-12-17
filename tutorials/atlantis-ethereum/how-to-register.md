@@ -82,9 +82,11 @@
 ![](../../.gitbook/assets/image%20%2839%29.png)
 
 1. 下载 TestFlight 并打开，点击「继续」，页面会出现安装 MathWallet Pro 的提示。请按顺序安装并打开 MathWallet Pro。
+  
    ![](../../.gitbook/assets/mathwallet3-cn.png)![](../../.gitbook/assets/mathwallet4-cn.png)![](../../.gitbook/assets/mathwallet5-cn.png)
 
 2. 打开「MathWallet Pro」之后，点击「Ethereum」>>「创建钱包」，按步骤输入钱包名称、密码，然后点击「创建钱包」并确认。
+  
    ![](../../.gitbook/assets/mathwallet6-cn.png)![](../../.gitbook/assets/mathwallet7-cn.png)![](../../.gitbook/assets/mathwallet8-cn.png)
 
 3. 系统会帮你自动生成 12 个助记词，备份下来并按顺序点击您的助记词。按顺序点击完您的助记词后，钱包就会生成。
@@ -93,8 +95,10 @@
   ![](../../.gitbook/assets/mathwallet9-cn.png)![](../../.gitbook/assets/mathwallet10-cn.png)![](../../.gitbook/assets/mathwallet11-cn.png)
 
 4. 在麦子钱包的主界面，点击屏幕下方「应用」，然后在搜索栏搜索「进化星球」或输入网址 [www.evolution.land](www.evolution.land)，选择「进入游戏 v2.0」，选择「亚特兰蒂斯大陆」。
+  
    ![](../../.gitbook/assets/mathwallet12-cn.png)![](../../.gitbook/assets/mathwallet13-cn.png)![](../../.gitbook/assets/mathwallet14-cn.png)![](../../.gitbook/assets/mathwallet15-cn.png)
 
-5. 点击左上角的「登录」进行注册，按照提示输入您的昵称。之后输入您的钱包密码，点击「确认」，即注册成功
+5. 点击左上角的「登录」进行注册，按照提示输入您的昵称。之后输入您的钱包密码，点击「确认」，即注册成功。
+   
    ![](../../.gitbook/assets/mathwallet16-cn.png)![](../../.gitbook/assets/mathwallet17-cn.png)
 
