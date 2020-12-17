@@ -31,7 +31,7 @@
 
 **说明：**
 
-如果该钱包地址之前已经注册过进化星球，将直接登录到该钱包地址对应的进化星球账号
+如果该钱包地址之前已经注册过进化星球，将直接登录到该钱包地址对应的进化星球账号；
 
 如果该钱包地址还未注册过进化星球，将使用 Itering ID 的昵称与邮箱快速注册并登录；
 
@@ -55,7 +55,8 @@
 
 2. **用 MetaMask 登录希望注册进化星球的地址，在进化星球首页点击注册，选择 MetaMask，在 MetaMask 中进行签名。**（MetaMask 正常会弹出确认弹窗，若未自动弹出，请注意小狐狸头像上是否出现数字，若出现数字请点击查看）。
 
-3. **完成授权签名后即注册成功。**此时玩家需要向注册的地址中打入一定的以太币（ETH）就可以正式踏入进化星球的土地，开始神奇旅程。参与游戏中的土地拍卖、积分抽奖等交易均需要授权与签名，在 MetaMask 弹窗中授权签名即可（链上交易将花费少量 ETH 作为 Gas）。
+3. **完成授权签名后即注册成功。**
+   此时玩家需要向注册的地址中打入一定的以太币（ETH）就可以正式踏入进化星球的土地，开始神奇旅程。参与游戏中的土地拍卖、积分抽奖等交易均需要授权与签名，在 MetaMask 弹窗中授权签名即可（链上交易将花费少量 ETH 作为 Gas）。
 
 ## 手机端
 
@@ -65,7 +66,7 @@
    * imToken 2.0 钱包下载地址：[https://token.im/](https://token.im/)
    * imToken 2.0 钱包注册教程：[https://zhuanlan.zhihu.com/p/42128796](https://zhuanlan.zhihu.com/p/42128796)
   
-2. 在 imToken 2.0 钱包内注册进化星球
+2. 在 imToken 2.0 钱包内注册进化星球步骤，如下图所示：
 
 ![](../../.gitbook/assets/image%20%285%29.png)
 
@@ -73,32 +74,27 @@
 
 ### 方法二：使用麦子钱包进行注册
 
-1. 麦子钱包下载地址：[http://www.mathwallet.org/cn/](http://www.mathwallet.org/cn/)
+* 麦子钱包下载地址：[http://www.mathwallet.org/cn/](http://www.mathwallet.org/cn/)
 
-* Android 用户点击「Android App」直接下载安装包安装。
-* ios 用户点击「iPhone APP」>>「公测版下载」，然后点击「下载 TestFlight」。下载完成后，打开 TestFlight，点击「继续」，页面会出现安装 MathWallet Pro 的提示。请按顺序安装并打开 MathWallet Pro。
+  * Android 用户点击「Android App」直接下载安装包安装。
+  * ios 用户点击「iPhone APP」>>「公测版下载」，然后点击「下载 TestFlight」。
 
 ![](../../.gitbook/assets/image%20%2839%29.png)
 
-2. 打开 TestFlight 后，点击「继续」，页面会出现安装 MathWallet Pro 的提示。请按顺序安装并打开 MathWallet Pro。
+1. 下载 TestFlight 并打开，点击「继续」，页面会出现安装 MathWallet Pro 的提示。请按顺序安装并打开 MathWallet Pro。
+   ![](../../.gitbook/assets/mathwallet3-cn.png)![](../../.gitbook/assets/mathwallet4-cn.png)![](../../.gitbook/assets/mathwallet5-cn.png)
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+2. 打开「MathWallet Pro」之后，点击「Ethereum」>>「创建钱包」，按步骤输入钱包名称、密码，然后点击「创建钱包」并确认。
+   ![](../../.gitbook/assets/mathwallet6-cn.png)![](../../.gitbook/assets/mathwallet7-cn.png)![](../../.gitbook/assets/mathwallet8-cn.png)
 
-3. 打开「MathWallet Pro」之后，点击「Ethereum」>>「创建钱包」，按步骤输入钱包名称、密码，然后点击「创建钱包」并确认。
+3. 系统会帮你自动生成 12 个助记词，备份下来并按顺序点击您的助记词。按顺序点击完您的助记词后，钱包就会生成。
+   * **注意：请备份并妥善保管您的助记词。**
 
-![](../../.gitbook/assets/image%20%282%29.png)
+  ![](../../.gitbook/assets/mathwallet9-cn.png)![](../../.gitbook/assets/mathwallet10-cn.png)![](../../.gitbook/assets/mathwallet11-cn.png)
 
-4. 系统会帮你自动生成 12 个助记词，备份下来并按顺序点击您的助记词。按顺序点击完您的助记词后，钱包就会生成。
+4. 在麦子钱包的主界面，点击屏幕下方「应用」，然后在搜索栏搜索「进化星球」或输入网址 [www.evolution.land](www.evolution.land)，选择「进入游戏 v2.0」，选择「亚特兰蒂斯大陆」。
+   ![](../../.gitbook/assets/mathwallet12-cn.png)![](../../.gitbook/assets/mathwallet13-cn.png)![](../../.gitbook/assets/mathwallet14-cn.png)![](../../.gitbook/assets/mathwallet15-cn.png)
 
-* **注意：请备份并妥善保管您的助记词。**
-
-![](../../.gitbook/assets/image%20%2822%29.png)
-
-5. 在麦子钱包的主界面，点击屏幕下方「应用」，然后在搜索栏搜索「进化星球」，打开游戏后，点击图标注册。
-
-![](../../.gitbook/assets/image%20%2831%29.png)
-
-6. 按照提示输入您的昵称，之后输入您的钱包密码，点击「确认」，即注册成功
-
-![](../../.gitbook/assets/image%20%2813%29.png)
+5. 点击左上角的「登录」进行注册，按照提示输入您的昵称。之后输入您的钱包密码，点击「确认」，即注册成功
+   ![](../../.gitbook/assets/mathwallet16-cn.png)![](../../.gitbook/assets/mathwallet17-cn.png)
 
