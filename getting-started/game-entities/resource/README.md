@@ -1,5 +1,5 @@
 ---
-description: 资源，又叫「元素」
+description: 资源，也叫「元素」
 ---
 
 # 资源

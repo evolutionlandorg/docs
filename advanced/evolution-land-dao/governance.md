@@ -16,7 +16,7 @@ description: 大陆议会
 | :--------------------------------------------------------- | :-------------------- |
 | [土地](../../getting-started/game-entities/land.md)持有者  | 每块土地 = 100 VP     |
 | [使徒](../../getting-started/game-entities/apostle/)持有者 | 每个使徒 = 1 VP       |
-| [KTON](../../getting-started/tokens/kton.md)持有者         | 每个质押 KTON = 10 VP |
+| [KTON](../../getting-started/tokens/kton.md) 质押者        | 每个质押 KTON = 10 VP |
 
 [KTON](../../getting-started/tokens/kton.md) 质押者指的是那些将 KTON 质押于治理锁定合同中的人。投票权来自那些锁定的 KTON。一旦锁定，用户需要等待 14 天才能取回这些 KTON。每次用户进行新的存款，都会延长锁定时间。
 
@@ -24,7 +24,7 @@ description: 大陆议会
 
 ## 治理站点
 
-请访问 [https://gov.evolution.land](https://gov.evolution.land) （即将上线）参与治理。你可以质押/解冻你的 KTON，查看你通过拥有土地和使徒，质押 KTON 累积获得的投票权。更重要的是，你将可以查看或提出建议，并行使你的权力来表达你的意见。
+请访问 [https://gov.evolution.land](https://gov.evolution.land) （即将上线）参与治理。你可以质押/解冻你的 KTON，查看你通过持有土地和使徒或质押 KTON 累积获得的投票权。更重要的是，你将可以查看或提出建议，并行使你的权力来表达你的意见。
 
 
 
