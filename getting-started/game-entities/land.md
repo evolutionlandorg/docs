@@ -1,22 +1,22 @@
 ---
-description: 土地又叫「地块」
+description: 土地，也叫「地块」
 ---
 
 # 土地
 
 [![Land \#A1345](../../.gitbook/assets/land-1.png)](https://www.evolution.land/land/1?gx=26&gy=42) [![Land \#A311](../../.gitbook/assets/land-2.png)](https://www.evolution.land/land/1?gx=50&gy=10) [![Land \#A1969](../../.gitbook/assets/land-3.png)](https://www.evolution.land/land/1?gx=11&gy=37) [![Land \#A1302](../../.gitbook/assets/land-4.png)](https://www.evolution.land/land/1?gx=11&gy=13) [![Land \#B538](../../.gitbook/assets/land-5.png)](https://www.evolution.land/land/2?gx=5&gy=33) [![Land \#B351](../../.gitbook/assets/land-6.png)](https://www.evolution.land/land/2?gx=44&gy=37)
 
-每个地块的大小为 100m x 100m，高度没有限制（假设也是100m）。那么每个陆地都是一个三维的欧几里德空间。玩家可以在地块上建造建筑。建筑是由若干个 1m x 1m 的基本单元「方块」组成。每个地块上只能放下不超过其尺寸的建筑。Multiple buildings can be placed on the top of the block, 只要任意两个建筑之间没有重叠并且可以通过平移来分隔。
+每个地块的大小为 100m x 100m，高度没有限制（假设也是100m）。那么每个陆地都是一个三维的欧几里德空间。玩家可以在地块上建造建筑。建筑是由若干个 1m x 1m 的基本单元「方块」组成。每个地块上只能放下不超过其尺寸的建筑。地块上可以放多个建筑, 只要任意两个建筑之间没有重叠，并且可以通过平移来分隔开。
 
 地块下有 5 种可开采的[资源](resource/)，可开采量用最大资源衰减率（MRAR）表示。这意味着在全速状态下，每天可以开采的资源量达到最大。这种资源每天以大约 1/10000 的速度自然衰减。
 
-![Land Resource Reserves](../../.gitbook/assets/land-resource.png)
+![土地资源储备](../../.gitbook/assets/land-resource.png)
 
 在上示的地块详情页中, `90,-7` 是这个地块的坐标， `B769` 代表 B 大陆（拜占庭）, `地块 id` 是 `769`。在右侧，列出了五个资源 MRAR，分别是[金](resource/)、[木](resource/)、[水](resource/)、[火](resource/)、[土](resource/)。储量越高，越容易开采，可挖上限也就越高。
 
 ## 所有权
 
-地块其实相当于一个 NFT（Non-Fungible Token，ERC721）。当你购买地块时，地块 NFT 将从市场转到你的钱包地址中（比如智能合约拍卖）。交易完成后，你是这片土地的唯一拥有者。你可以把地块给其他玩家，作为礼物，或作为第三方交换。所有这些操作都需要在你的许可下在钱包进行操作。
+地块其实相当于一个 NFT（非同质化通证，ERC721）。当你购买地块时，地块 NFT 将从市场转到你的钱包地址中（比如智能合约拍卖）。交易完成后，你是这片土地的唯一拥有者。你可以把地块给其他玩家，作为礼物，或作为第三方交换。所有这些操作都需要在你的许可下在钱包进行操作。
 
 ## 挖矿工具
 
@@ -32,7 +32,7 @@ description: 土地又叫「地块」
 
 ## 地块有什么用？
 
-矿藏资源埋藏在地块之下，你需要地块来进行开采。v1 版本目前你还可以在地块上上传图片来做点广告。大陆边缘的大陆将来还将承担港口职能。
+矿藏资源埋藏在地块之下，你需要地块来进行开采。目前 v1 版本你还可以在地块上上传图片来做点广告。大陆边缘的地块将来还将承担港口职能。
 
 ## 地块上的矿藏是无限的么？
 
