@@ -18,19 +18,18 @@
 
 在去中心化交易所，你将直接从钱包中进行交易，而无需进行资产托管。
 
-亚特兰蒂斯大陆（以太坊网络):
+**亚特兰蒂斯大陆（以太坊网络）**：
 
 * Uniswap \(v2\): [RING/ETH](https://info.uniswap.org/token/0x9469d013805bffb7d3debe5e7839237e535ec483)
 * 1inch Exchange: [RING/ETH](https://1inch.exchange/#/RING/ETH)
 
-拜占庭大陆（波场网络):
-
+**拜占庭大陆（波场网络）**：
 
 * Justswap: [RING/TRX](https://justswap.io/#/scan/detail/trx/TL175uyihLqQD656aFx3uhHYe1tyGkmXaW)
 
 ## 中心化交易所
 
-在中心化交易所，流动性一般比较充裕，但需要进行代币的充值后进行交易。这里列出了一些，你可以查询[coinmarketcap](https://coinmarketcap.com/currencies/darwinia-network/markets/) 了解更多支持 RING 的交易所。
+在中心化交易所，流动性一般比较充裕，但需要进行代币的充值后进行交易。这里列出了一些，你可以查询 [coinmarketcap](https://coinmarketcap.com/currencies/darwinia-network/markets/) 了解更多支持 RING 的交易所。
 
 * [Huobi Global](https://www.hbg.com/en-us/exchange/ring_usdt)
 * [BKEX](https://www.bkex.com/trade/RING_USDT)
