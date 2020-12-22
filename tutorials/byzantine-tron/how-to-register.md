@@ -95,12 +95,15 @@
 ![](../../.gitbook/assets/image%20%2839%29.png)
 
 1. 下载 TestFlight 并打开，点击「继续」，页面会出现安装 MathWallet Pro 的提示。请按顺序安装并打开 MathWallet Pro。
+ 
    ![](../../.gitbook/assets/image%20%2830%29.png)
 
 2. 打开「MathWallet Pro」之后，点击「TRX 钱包」>>「创建钱包」，按步骤输入钱包名称、密码，然后点击「创建钱包」并确认。
    * 注册波场钱包或导入，私钥一定保存好，一旦丢失无法找回。
+ 
   ![](https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/622d44fd-76e6-433a-bc10-fb9598abc53e.jpg?x-oss-process=image/resize,w_1920)
 
 3. 在「应用」中找到「进化星球」点击完成注册。
+  
    ![](https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/d28bf57f-5bdb-49f9-85f5-41d521cd3d00.jpg?x-oss-process=image/resize,w_1920)
 
