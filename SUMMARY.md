@@ -5,6 +5,7 @@
 ## 概览 <a id="overview"></a>
 
 * [进化星球是什么？](overview/what-is-evolution-land.md)
+  * [重大事件](overview/what-is-evolution-land/milestones.md)
 * [最新动态](overview/whats-new/README.md)
   * [宝箱空投狂欢！免费赢取「限量掘金钻头」！](overview/whats-new/treasure-box-airdrop-event.md)
   * [进化星球宣布由去中心化预言机 Chainlink VRF 支持的新使徒繁育和游戏奖励机制](overview/whats-new/partnership-with-chainlink-for-random-number-generator.md)
@@ -75,6 +76,7 @@
 * [拜占庭大陆 - 波场](tutorials/byzantine-tron/README.md)
   * [波场相关知识](tutorials/byzantine-tron/about-tron.md)
   * [怎样注册进化星球？](tutorials/byzantine-tron/how-to-register.md)
+  * [如何购买/出售RING？](tutorials/byzantine-tron/how-to-buy-sell-ring.md)
   * [购买/出售/赠送地块以及地块的相关操作](tutorials/byzantine-tron/how-to-buy-sell-gift-lands-and-related-operations.md)
   * [购买/出售使徒以及使徒的相关操作](tutorials/byzantine-tron/how-to-buy-sell-gift-apostles-and-related-operations.md)
 
