@@ -18,5 +18,5 @@
 
 2019-01-03: B大陆（拜占庭大陆）创世地块开拍
 
-2019-01-05: B大陆（拜占庭大陆）0 代使徒开拍 https://imgland.l2me.com/files/evolutionland/whitepaper_cn.pdf?t=20181008)
+2019-01-05: B大陆（拜占庭大陆）0 代使徒开拍
 
