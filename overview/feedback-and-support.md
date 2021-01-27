@@ -7,5 +7,5 @@
   * [亚特兰蒂斯大陆专区-以太坊](../tutorials/atlantis-ethereum/)
   * [拜占庭大陆专区-波场](../tutorials/byzantine-tron/)
 * [**常见问题**](faq/)｜此处汇集了许多常见问题的解决方法
-* [**提交反馈**]｜游戏过程中遇到任何错误，请联系我们：hello@evolution.land
+* **提交反馈**｜游戏过程中遇到任何错误，请联系我们：hello@evolution.land
 
