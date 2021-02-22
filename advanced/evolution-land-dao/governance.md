@@ -16,11 +16,11 @@ We will discuss with the Evolution Land residents to build a public management m
 
 Anyone who has a stake in the game has a say in the governance process. They have various influence levels normalized as Voting Power.
 
-| Demographic | Voting Power \(VP\) |
-| :--- | :--- |
-| [Land](../../getting-started/game-entities/land.md) Owners | Each Land = 100 VP |
-| [Apostle](../../getting-started/game-entities/apostle/) Owners | Each Apostle = 1 VP |
-| [KTON](../../getting-started/tokens/kton.md) stakers | Each staked KTON = 10 VP |
+| Demographic                                                    | Voting Power \(VP\)      |
+| :------------------------------------------------------------- | :----------------------- |
+| [Land](../../getting-started/game-entities/land.md) Owners     | Each Land = 100 VP       |
+| [Apostle](../../getting-started/game-entities/apostle/) Owners | Each Apostle = 1 VP      |
+| [KTON](../../getting-started/tokens/kton.md) stakers           | Each staked KTON = 10 VP |
 
 [KTON](../../getting-started/tokens/kton.md) stakers refers to those who stake KTON into governance locking contract. Voting Power generates from those locked KTON. Once staked, the user needs to wait 14 days before he can withdraw these KTONs. Every time a user makes a new deposit, it will extend its lock time.
 
@@ -28,5 +28,5 @@ As Voting Power originated from tokens, they have natural blockchain network con
 
 ## Governor Portal
 
-Please visit [https://gov.evolution.land](https://gov.evolution.land) \(online soon\) to participate in the governance process. You can stake/un-stake your KTON, view your accumulated Voting Power via possessing Lands, Apostles, and staked KTONs. More importantly, you will view or initiate proposals and use your power to express your opinions.
+Please visit [https://gov.evolution.land](https://gov.evolution.land) to participate in the governance process. You can stake/un-stake your KTON, view your accumulated Voting Power via possessing Lands, Apostles, and staked KTONs. More importantly, you will view or initiate proposals and use your power to express your opinions.
 
