@@ -24,7 +24,7 @@ description: 大陆议会
 
 ## 治理站点
 
-请访问 [https://gov.evolution.land](https://gov.evolution.land) （即将上线）参与治理。你可以质押/解冻你的 KTON，查看你通过持有土地和使徒或质押 KTON 累积获得的投票权。更重要的是，你将可以查看或提出建议，并行使你的权力来表达你的意见。
+请访问 [https://gov.evolution.land](https://gov.evolution.land) 参与治理。你可以质押/解冻你的 KTON，查看你通过持有土地和使徒或质押 KTON 累积获得的投票权。更重要的是，你将可以查看或提出建议，并行使你的权力来表达你的意见。
 
 ## 质押奖励
 
