@@ -3,7 +3,7 @@ description: Power-up and Synthesize brand new mining props!
 ---
 # The Furnace
 
-**The Furnace is an NFT minting system that can be used to synthesize a variety of NFTs and FTs into new ones, in order to create new GameFi opportunies and enhance the ingame tokenonics.**
+**The Furnace is an NFT minting system that can be used to synthesize a variety of NFTs and FTs into new ones, in order to create new GameFi opportunities and enhance the ingame tokenonics.**
 
 ![furnace](../.gitbook/assets/advanced-furnace-1-en.jpg)
 
@@ -55,9 +55,9 @@ The Evolution Land Furnace will also work with NFTs from our partners or other e
 
 ### Prop replacement rules
   
-A props: new, props to be deployed
+Prop A: New, props to be deployed
 
-B props: props that have been deployed on the equipment bar
+Prop B: Props that have been deployed on the equipment bar
   
 * **The replacement of prop A/prop B can happen under any of the following conditions**(if prop B is not within the protection period):
   * Class of prop A is higher than class of prop B
@@ -73,18 +73,18 @@ Drills are obtained through chests (blind box gameplay), and chests are obtained
 
 ### Treasure Chest
 
-Treasure Chests are seperated into Gold and Silver categories, with pricing that reflects higher or lower probabilities of obtaining premium items and rewards.
+Treasure Chests are separated into Gold and Silver categories, with pricing that reflects higher or lower probabilities of obtaining premium items and rewards.
 
-|              | Initial Price | Final Price | Probability                                        | RING Drop Probability                        |
-| :----------- | :------------ | :---------- | :------------------------------------------------- | :------------------------------------------- |
-| Gold Chest   | 1000 RING     | 10000 RING  | Steel drill 90% / Diamond drill 10%                | 50% probability to obtain half of payed RING |
-| Silver Chest | 100 RING      | 1000 RING   | Iron drill 90% / Steel drill 9% / Diamond drill 1% | 0%                                           |
+|              | Initial Price | Final Price | Probability                                        | RING Drop Probability                       |
+| :----------- | :------------ | :---------- | :------------------------------------------------- | :------------------------------------------ |
+| Gold Chest   | 1000 RING     | 10000 RING  | Steel drill 90% / Diamond drill 10%                | 50% probability to obtain half of paid RING |
+| Silver Chest | 100 RING      | 1000 RING   | Iron drill 90% / Steel drill 9% / Diamond drill 1% | 0%                                          |
 
-Purchasing Treasure Chests directly offers a higher probability of receiving premium Drills. During the airdrop event the Treasure Chests will be sold starting at a fixed intial price, but after that, the cost will increase by 2.6% every day. After 30 days, the ceiling price will be reached and will then remain fixed.
+Purchasing Treasure Chests directly offers a higher probability of receiving premium Drills. During the airdrop event the Treasure Chests will be sold starting at a fixed initial price, but after that, the cost will increase by 2.6% every day. After 30 days, the ceiling price will be reached and will then remain fixed.
 
 ### How do I use the Mining Drills?
 
-A Drill can be set on the prop slot of a piece of land and used for mining of a single resource. Unlike Apostles, Drills cannot obtain resources by themselves; they rely on Apostles who then obtain a bonus income. In additional to allowing placement of Drills on a player's own land, they can also be placed on others land (5% profit will be paied to land's owner, percentage could be decided by DAO).
+A Drill can be set on the prop slot of a piece of land and used for mining a single resource. Unlike Apostles, Drills cannot obtain resources by themselves; they rely on Apostles who then obtain a bonus income. In additional to allowing placement of Drills on a player's own land, they can also be placed on others land (5% profit will be paid to land's owner, percentage could be decided by DAO).
 
 
 
@@ -94,7 +94,7 @@ Drill levels are fixed at 1, 2, and 3; and low-level drills cannot be Synthesize
 
 Drill classes can be 0, 1, 2, and 3 (to be developed later), and higher-class drills can be Synthesized with the Furnace, significantly enhancing their efficiency.
 
-The efficency and formulas for different drills are as follows:
+The efficiency and formulas for different drills are as follows:
 
 | Drill       | Base Efficiency | Variable Efficiency | Formula                               | Protection Days |
 | :---------- | :-------------- | :------------------ | :------------------------------------ | :-------------- |
@@ -120,8 +120,8 @@ The efficency and formulas for different drills are as follows:
 
 The base efficiency bonus is the sum of the resources excavated by all the apostles on the land where the drill is placed. For example, if there are 5 apostles working on the land, 3 apostles produce 5 FIRE per day, and 2 apostles produce 2 HHO per day, setting a FIRE enhanced class 2 level 3 drill will bring you 5*(60+60)%=6 FIRE per day.
 
-When a Drill(higher than class 0) is deployed to inventory, it enjoys a certain period of protection; during which, the item replacement rule is suppressed. This grace period is a globally manageable variable, and at some point in the future the Drill owner will be able to consume a certain potion to extend it.
+When a Drill(higher than class 0) is deployed to inventory, it enjoys a certain period of protection; during which, the item replacement rule is suppressed. This grace period is a globally manageable variable, and at some point in the future, the Drill owner will be able to consume a certain potion to extend it.
 
 ### Total Drill Supply
 
-The Drill supply does not have a hard cap and will be issued according to airdrop events and sales status. The probability of receiving a higher level Drill is determined by the category of chest.
+The Drill supply does not have a hard cap and will be issued according to airdrop events and sales status. The probability of receiving a higher level Drill is determined by the category of the chest.
