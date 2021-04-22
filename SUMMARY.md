@@ -63,6 +63,7 @@
   * [收入模型](advanced/evolution-land-dao/revenue-model.md)
   * [治理](advanced/evolution-land-dao/governance.md)
   * [分红](advanced/evolution-land-dao/dividends.md)
+* [淘金热](advanced/gold-rush.md)
 
 ## 教程  <a id="tutorials"></a>
 
