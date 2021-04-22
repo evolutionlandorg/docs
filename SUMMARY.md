@@ -61,7 +61,7 @@
   * [Revenue Model](advanced/evolution-land-dao/revenue-model.md)
   * [Governance](advanced/evolution-land-dao/governance.md)
   * [Dividends](advanced/evolution-land-dao/dividends.md)
-
+* [Gold Rush](advanced/gold-rush.md)
 ## Tutorials
 
 * [Atlantis - Ethereum](tutorials/atlantis-ethereum/README.md)
