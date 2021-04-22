@@ -36,7 +36,7 @@ Prior to official launch of the New Continent, players who own land on the Origi
   
 * 24 hours before the deadline for registration, you can add/delete land, adjust fees, and modify the address receiving the land on the new continent. 
   
-* The lands on the New Continent will be sorted from high to low according to the total amount of resources, according to the value of (total resources of plots * 0.6 + investment RING * 0.4), and awarded in descending order.
+* The lands on the New Continent will be sorted from high to low according to the total amount of resources, according to the value of (total resources of plots x 0.6 + investment RING x 0.4), and awarded in descending order.
 
 * Results will be announced when the lottery ends; and afterward, players will be able to view the details on the event announcement page. Players will also be able to check the continent the event was held on to view the historical details.
 
