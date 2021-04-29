@@ -9,25 +9,25 @@ description: 如何获得使徒？如何让使徒工作？请看这里
 
 （目前亚特兰蒂斯大陆第一批创世使徒已经全部告罄，如有需要可在后述使徒市场中购买其他玩家正在出售的使徒）
 
-1. 点击使徒首页下方「更多」，将看到使徒市场：包括「所有」、「出售中」、「待相亲」以及「待招募」。
+点击使徒首页下方「更多」，将看到使徒市场：包括「所有」、「出售中」、「待相亲」以及「待招募」。
    
-   ![](../../.gitbook/assets/tutorials-atlantis-ethereum-how-to-buy-sell-gift-apostle-cn-1.png)
+![](../../.gitbook/assets/tutorials-atlantis-ethereum-how-to-buy-sell-gift-apostle-cn-1.png)
 
-   * **出售中**：其他玩家正在出售的使徒，可以直接购买。
-   * **待相亲**：其他玩家挂出可以与其繁殖下一代的使徒，您可以选择自己的使徒与其繁殖，繁殖后的使徒归您所有。
-   * **待招募**：其他玩家挂出可以雇佣其打工的使徒，您可以雇佣该使徒在自己的地块上进行挖矿。
+* **出售中**：其他玩家正在出售的使徒，可以直接购买。
+* **待相亲**：其他玩家挂出可以与其繁殖下一代的使徒，您可以选择自己的使徒与其繁殖，繁殖后的使徒归您所有。
+* **待招募**：其他玩家挂出可以雇佣其打工的使徒，您可以雇佣该使徒在自己的地块上进行挖矿。
    
-   ![](../../.gitbook/assets/tutorials-atlantis-ethereum-how-to-buy-sell-gift-apostle-cn-1.png)
+![](../../.gitbook/assets/tutorials-atlantis-ethereum-how-to-buy-sell-gift-apostle-cn-2.png)
 
 
-2. 点击您想要购买的使徒，右侧弹窗下拉会显示该使徒的详细信息（包括价格、天赋、介绍、属性、父母儿女等，其中使徒的寿命是以“周”为单位）。确认信息后，玩家可以点击弹窗中的「拍卖出价」，在新的弹窗中确认订单后再次点击「拍卖出价」。
+点击您想要购买的使徒，右侧弹窗下拉会显示该使徒的详细信息（包括价格、天赋、介绍、属性、父母儿女等，其中使徒的寿命是以“周”为单位）。确认信息后，玩家可以点击弹窗中的「拍卖出价」，在新的弹窗中确认订单后再次点击「拍卖出价」。
     
-	![](../../.gitbook/assets/tutorials-atlantis-ethereum-how-to-buy-sell-gift-apostle-cn-3.jpg)
+![](../../.gitbook/assets/tutorials-atlantis-ethereum-how-to-buy-sell-gift-apostle-cn-3.jpg)
 
 
-3. 此时玩家拍到的使徒将显示在「已出价」中，若 10 分钟内没有其他玩家以更高的价格拍下该使徒，则使徒成交，成交后的使徒会显示在「未领取」中。
+此时玩家拍到的使徒将显示在「已出价」中，若 10 分钟内没有其他玩家以更高的价格拍下该使徒，则使徒成交，成交后的使徒会显示在「未领取」中。
    
-   ![](../../.gitbook/assets/tutorials-atlantis-ethereum-how-to-buy-sell-gift-apostle-cn-4.jpg)
+![](../../.gitbook/assets/tutorials-atlantis-ethereum-how-to-buy-sell-gift-apostle-cn-4.jpg)
 
 ## 我拍到的使徒去哪里查看？
 
