@@ -18,7 +18,7 @@ description: 自融资机制
 
 *注：税收和其他收入不断完善中，后期补充说明*
 
-![1-1](../../.gitbook/assets/advanced-trading-nft-market-auction-revenue-cn.png)
+![1-1](../../.gitbook/assets/advanced-evolution-land-dao-revenue-cn-1.png)
 
 议会通过治理程序决定上述所有税率和费用。总的来说，议会建立起了要分配的收入。
 
@@ -39,7 +39,7 @@ description: 自融资机制
 
 ## 系统收入来源与分配模型图
 
-![](../../.gitbook/assets/advanced-evolution-land-dao-revenue-distribution-cn.jpg)
+![](../../.gitbook/assets/advanced-evolution-land-dao-revenue-cn-2.jpg)
 
 ### 交易奖励池
 

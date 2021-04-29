@@ -12,7 +12,7 @@
 
 ![选择一只谜恋猫](../../.gitbook/assets/tutorials-atlantis-ethereum-how-to-tame-a-pet-cn-2.png)
 
-选择一个使徒与谜恋猫绑定 how-to-tame-a-pet
+选择一个使徒与谜恋猫绑定
 
 ![选择要绑定的使徒](../../.gitbook/assets/tutorials-atlantis-ethereum-how-to-tame-a-pet-cn-3.png)
 

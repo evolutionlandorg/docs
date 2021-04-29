@@ -10,7 +10,7 @@ description: 大陆议会
 
 ## 治理权与投票权重
 
-![投票权来源](../../.gitbook/assets/voting-power-cn.png)
+![投票权来源](../../.gitbook/assets/advanced-evolution-land-dao-governance-cn-1.png)
 
 任何与游戏有利害关系的人在治理过程中都有发言权。他们有不同程度的影响力，标准化为投票权。
 

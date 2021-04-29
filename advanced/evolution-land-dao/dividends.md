@@ -50,11 +50,11 @@ description: 游戏玩家分享游戏的成功
 6. 在没有推荐人的情况下，手续费直接流向系统收入。
 
 
-![](https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/78fdda1d-c8e1-4f91-baba-08a01c061485.jpg?x-oss-process=image/resize,w_1920)
+![](../../.gitbook/assets/advanced-evolution-land-dao-dividends-cn-1.jpg)
 
-![](https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/493cf263-dcb2-4791-a974-9f0fbd3800c3.jpg?x-oss-process=image/resize,w_1920)
+![](../../.gitbook/assets/advanced-evolution-land-dao-dividends-cn-2.jpg)
 
 ## 举例说明
 
-![](../../.gitbook/assets/auction-revenue.png)
+![](../../.gitbook/assets/advanced-evolution-land-dao-dividends-cn-3.png)
 

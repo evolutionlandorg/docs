@@ -8,10 +8,10 @@ description: 游戏内外代币兑换
 
 古灵阁是游戏内的银行服务，供用户交换代币，例如用 ETH 购买 RING 或资源，或出售 KTON 以获得 TRON 。古灵阁银行提供的代币交换服务由大陆底层网络上的流动性提供商提供支持，例如亚特兰蒂斯大陆（Ethereum）的 Uniswap 和拜占庭大陆（Tron）的 Justswap。
 
-* ![古灵阁](../../.gitbook/assets/gringott.png)[亚特兰蒂斯大陆上的古灵阁（以太坊）](https://www.evolution.land/land/1/bank/buy-ring)
-* ![古灵阁](../../.gitbook/assets/gringott.png)[拜占庭大陆上的古灵阁（波场）](https://www.evolution.land/land/2/bank/buy-ring)
+* ![古灵阁](../../.gitbook/assets/advanced-trading-gringott-bank-cn-1.png)[亚特兰蒂斯大陆上的古灵阁（以太坊）](https://www.evolution.land/land/1/bank/buy-ring)
+* ![古灵阁](../../.gitbook/assets/advanced-trading-gringott-bank-cn-1.png)[拜占庭大陆上的古灵阁（波场）](https://www.evolution.land/land/2/bank/buy-ring)
 
-![购买或出售 RING](./../.gitbook/assets/advanced-trading-gringott-bank-cn.jpg)
+![购买或出售 RING](./../.gitbook/assets/advanced-trading-gringott-bank-cn-2.jpg)
 
 支持交换的通证有：
 
