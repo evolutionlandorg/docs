@@ -13,7 +13,7 @@
 * ![古灵阁](../../.gitbook/assets/gringott.png)[亚特兰蒂斯大陆上的古灵阁（以太坊）](https://www.evolution.land/land/1/bank/buy-ring)
 * ![古灵阁](../../.gitbook/assets/gringott.png)[拜占庭大陆上的古灵阁（波场）](https://www.evolution.land/land/2/bank/buy-ring)
 
-![购买和出售RING](../../.gitbook/assets/image%20%284%29.png)
+![购买和出售RING](../../.gitbook/assets/advanced-trading-gringott-bank-cn.jpg)
 
 ## 去中心化交易所
 

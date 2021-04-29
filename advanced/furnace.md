@@ -5,7 +5,7 @@ description: 合成全新的挖矿道具
 
 **熔炉是一个通用的 NFT 合成系统，可以将多种 NFT 和 FT 合成成为一种新的 NFT，创建 GameFi 游戏规则及经济体系，将其与外部 DeFi 体系、进化星球以及星际资产标准整合，捕获价值回哺 RING/KTON/元素及进化星球游戏。**
 
-![furnace](../.gitbook/assets/advanced-furnace-1-cn.jpg)
+![furnace](overview-whatsnew-the-furnace-gamefi-cn-2.jpg)
 
 ## 术语
 

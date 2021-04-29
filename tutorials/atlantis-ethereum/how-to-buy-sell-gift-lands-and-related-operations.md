@@ -7,17 +7,10 @@ description: 如何购买地块？地块可以进行哪些操作？请看这里
 
 1. 目前亚特兰蒂斯大陆地块已经开放售卖。登录进化星球，点击大陆，选择「亚特兰蒂斯大陆」，玩家将看到亚特兰蒂斯大陆的全部地块。目前亚特兰蒂斯大陆创世地块的释放速度是每 4 小时释放一块。
 
-
 2. 点击想要购买的地块后，右侧会弹出该地块的详细信息（包括价格、资源情况、出售者等，其中金木水火土资源量为该地块该资源每日最大可挖掘量）。确认信息后（地块状态为拍卖中，即绿色地块为可购买地块），玩家可以点击弹窗中的「使用 RING 购买」并等待交易确认。
-   ![](../../.gitbook/assets/wechatimg286.png)
-
+   ![](../../.gitbook/assets/tutorials-atlantis-ethereum-how-to-buy-sell-gift-land-cn-1.png)
 
 3. 此时玩家拍到的地块将显示在「已出价」中，若 30 分钟内没有其他玩家以更高的价格拍下该地块，则地块成交，成交后的地块会显示在「未领取」中。
-
-
-* PS：v1 版本的地块是可以旋转的哦。
-  * Mac 系统电脑按住 command，同时用鼠标拖动地块，可以旋转地块，进行视角的调整；
-  * Windows 系统电脑按住 control，同时用鼠标拖动地块，可以旋转地块，进行视角的调整。
 
 ## 我拍到的地块去哪里查看？
 
@@ -34,19 +27,19 @@ description: 如何购买地块？地块可以进行哪些操作？请看这里
 
 点击地块，会看到可以对地块进行的操作，如图所示：
 
-![](../../.gitbook/assets/wechatimg288.png)
+![](../../.gitbook/assets/tutorials-atlantis-ethereum-how-to-buy-sell-gift-land-cn-2.png)
 
 ### 出售
 
 显示在「我的地块」中的地块是可以进行出售的。点击「**管理**」>>「**出售**」，输入期望的起始价、结束价及期限时间后，点击「发布」。当玩家在 Metamask / IteringID / imToken 签名成功后，该地块的状态将变为拍卖中，此时玩家可以在「我的地块」>>「售卖」中查看该地块。
 
-![](../../.gitbook/assets/land-sell1-cn.png)![](../../.gitbook/assets/land-sell2-cn.png)
+![](../../.gitbook/assets/tutorials-atlantis-ethereum-how-to-buy-sell-gift-land-cn-3.jpg)
 
 ### 赠送
 
 您的地块是 ERC-721 资产，是可以赠送给朋友的。您可以点击「**我的地块**」>>「**管理**」，点击「**赠送**」，填写想要转到的以太坊地址，点击「**转账**」并等待交易确认。
 
-![](../../.gitbook/assets/land-gift-cn.png)
+![](../../.gitbook/assets/tutorials-atlantis-ethereum-how-to-buy-sell-gift-land-cn-4.png)
 
 ### 上传图片
 
@@ -58,5 +51,5 @@ description: 如何购买地块？地块可以进行哪些操作？请看这里
 
 如需添加地块描述/地块链接，点击「编辑」填写相关内容即可（地块链接需以【 http:// 】或【 https:// 】开头）。
 
-![](../../.gitbook/assets/wechatimg291.png)
+![](../../.gitbook/assets/tutorials-atlantis-ethereum-how-to-buy-sell-gift-land-cn-5.png)
 
