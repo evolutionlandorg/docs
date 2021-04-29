@@ -12,8 +12,9 @@ description: 欢迎加入我们的社区
 * Telegram：[https://t.me/evolutionland9](https://t.me/evolutionland9)
 * 讨论组： [https://talk.darwinia.network](https://talk.darwinia.network)
 * Twitter：[https://twitter.com/DarwiniaNetwork](https://twitter.com/DarwiniaNetwork)
+* Github：[https://github.com/evolutionlandorg](https://github.com/evolutionlandorg)
 
 开发者可以参与贡献并帮助进化星球的发展。请点击[开发者](developers.md)。
 
-* Github：[https://github.com/evolutionlandorg](https://github.com/evolutionlandorg)
+
 

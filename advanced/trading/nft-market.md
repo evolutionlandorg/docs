@@ -14,13 +14,13 @@ NFT 市场是你交易 NFT 资产的地方。每个 NFT 资产都是独一无二
 
 在地块市场中，你可以浏览、搜索和筛选你想要的地块，查看地块详情，了解其价格以及资源储量。你可以使用 RING 购买地块。
 
-![地块市场](../../.gitbook/assets/land-nft-market.png)
+![地块市场](../../.gitbook/assets/advanced-trading-nft-market-land-market-cn.jpg)
 
 ### 使徒 NFT 市场
 
 在使徒市场，你可以浏览，搜索和筛选你想要的使徒，查看使徒的细节，价格，以及外观和才能。你可以用 RING 购买使徒。
 
-![使徒市场](../../.gitbook/assets/apostle-nft-market.png)
+![使徒市场](../../.gitbook/assets/advanced-trading-nft-market-apostle-market-cn.jpg)
 
 ### 使徒打工市场
 
@@ -34,7 +34,7 @@ NFT 市场是你交易 NFT 资产的地方。每个 NFT 资产都是独一无二
 
 #### 优化荷兰式拍卖
 
-荷兰式拍卖是一种公开发售的拍卖结构，在这种结构中，投资者以他们愿意购买的数量和价格出价。一件物品的拍卖价格会一直降低，直到有人出价。The first bid made is the winning bid and results in a sale. 这与典型方案形成了鲜明对比，即随着竞买人的竞争，价格会上涨。
+荷兰式拍卖是一种公开发售的拍卖结构，在这种结构中，投资者以他们愿意购买的数量和价格出价。一件物品的拍卖价格会一直降低，直到有人出价。首个竞拍者将会获得赢得这次拍卖。这与典型方案形成了鲜明对比，即随着竞买人的竞争，价格会上涨。
 
 在进化星球中，卖方可以设定一对起始价格和结束价格，以及价格变动持续时间。根据价格变化周期，拍卖价格从起始价格到结束价格呈线性变化。因此，您可以使用这些参数创建各种拍卖类型：
 
@@ -42,7 +42,7 @@ NFT 市场是你交易 NFT 资产的地方。每个 NFT 资产都是独一无二
 2. 经典拍卖（价格随时间上涨）：在有限的时间内，设定结束价格高于起始价格。
 3. 荷兰式拍卖（价格随着时间的推移而降低）：在限定的时间内，将结束价格设置为低于起始价格。
 
-![拍卖设置](../../.gitbook/assets/auction-sample.png)
+![拍卖设置](../../.gitbook/assets/advanced-trading-nft-market-auction-sample-cn.jpg)
 
 #### 创世地块拍卖
 
@@ -55,7 +55,7 @@ NFT 市场是你交易 NFT 资产的地方。每个 NFT 资产都是独一无二
 3. 在没有引荐人的情况下，手续费直接流入系统收入。
 4. 如果有引荐人，引荐人的奖励是手续费的 20%，剩下的 80% 流入系统收入。
 
-![创世地块拍卖](../../.gitbook/assets/auction-revenue.png)
+![创世地块拍卖](../../.gitbook/assets/advanced-trading-nft-market-auction-revenue-cn.png)
 
 ## 外部 NFT 交易市场
 

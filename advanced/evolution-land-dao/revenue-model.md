@@ -16,15 +16,15 @@ description: 自融资机制
 6. **营业税**： 其他商业活动的税收
 7. **其他收入**
 
-注：税收和其他收入不断完善中，后期补充说明
+*注：税收和其他收入不断完善中，后期补充说明*
 
-![1-1](../../.gitbook/assets/auction-revenue.png)
+![1-1](../../.gitbook/assets/advanced-trading-nft-market-auction-revenue-cn.png)
 
 议会通过治理程序决定上述所有税率和费用。总的来说，议会建立起了要分配的收入。
 
 ## 系统收入分配
 
-【注：系统收入先扣除推荐奖励，余额将进入系统收入池，并按照比例进行分配】
+*注：系统收入先扣除推荐奖励，余额将进入系统收入池，并按照比例进行分配*
 
 1. 推荐奖励（已扣除，列举只为完整性）：每一个星球用户在不同资产的交易中都有自己的推荐链接，其他星球用户通过该推荐链接进入系统，在完成有手续费的交易后，系统会进行相应的推荐奖励。
 
@@ -39,7 +39,7 @@ description: 自融资机制
 
 ## 系统收入来源与分配模型图
 
-![](../../.gitbook/assets/revenue-distribution.jpg)
+![](../../.gitbook/assets/advanced-evolution-land-dao-revenue-distribution-cn.jpg)
 
 ### 交易奖励池
 

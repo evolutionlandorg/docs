@@ -6,13 +6,17 @@ description: 治理代币，享有治理权和分红权
 
 ## 使用价值
 
-在进化星球中，KTON 作为一种**治理代币**存在。玩家自愿将 KTON 锁入治理合约（14 天的锁定期）来获得投票权。这些投票权可以用来对大陆上影响游戏进化的治理提案进行投票。作为回报，这些「治理者」将获得**分红权**，游戏中 30% 的游戏收入将向治理者派发，根据治理者所有的投票权重按比例分配。
+在进化星球中，KTON 作为一种**治理代币**存在。
+
+玩家自愿将 KTON 锁入治理合约（14 天的锁定期）来获得投票权。这些投票权可以用来对大陆上影响游戏进化的治理提案进行投票。作为回报，这些「治理者」将获得**分红权**，游戏中 30% 的游戏收入将向治理者派发，根据治理者所有的投票权重按比例分配。
 
 同时，KTON 可用于购买创世高价值地块、重要道具(部分地块及道具等仅支持使用氪石购买）。
 
 ## KTON 背景介绍
 
-KTON 是在达尔文网络上引入的一个承诺通证，一个通证化的承诺，来自达尔文网络的 Staking 系统。它鼓励 RING 持有人将 RING 锁定较长的时间，以换取 KTON 来参与质押。Staking 奖励分为两个相同的奖励池，一半分给 RING 的质押，另一半分给 KTON 质押。查看[此文](https://darwinianetwork.medium.com/darwinia-commitment-token-kton-861e2df1b4cb)了解更多关于 KTON 的设计原理
+KTON 是在达尔文网络上引入的一个承诺通证，一个通证化的承诺，来自达尔文网络的 Staking 系统。
+
+它鼓励 RING 持有人将 RING 锁定较长的时间，以换取 KTON 来参与质押。Staking 奖励分为两个相同的奖励池，一半分给 RING 的质押，另一半分给 KTON 质押。查看[此文](https://darwinianetwork.medium.com/darwinia-commitment-token-kton-861e2df1b4cb)了解更多关于 KTON 的设计原理
 
 由于 KTON 持有人的性质是长期投资者或是愿意支付溢价来承诺的人，因此该类玩家适合作为进化星球治理参与者的候选人。
 
@@ -35,20 +39,17 @@ KTON 是在达尔文网络上引入的一个承诺通证，一个通证化的承
 
 ### 我该如何获取 KTON？
 
-* 玩家可以在达尔文主网锁定 RING 来获取 KTON，根据锁定 RING 的数量与锁定时间计算获得的 KTON 的数量。KTON 将于存入的同时，通过合约一次性完成发放。
-* 不想锁定自己的 RING 又想获得 KTON？可以通过交易所直接购买其他用户生成并出售的 KTON。
+玩家可以在达尔文主网锁定 RING 来获取 KTON，根据锁定 RING 的数量与锁定时间计算获得的 KTON 的数量。KTON 将于存入的同时，通过合约一次性完成发放。
+
+不想锁定自己的 RING 又想获得 KTON？可以通过交易所直接购买其他用户生成并出售的 KTON。
 
 #### DEX
 
 在去中心化交易所，你将直接从钱包中进行交易，而无需进行资产托管。
 
-亚特兰蒂斯大陆（以太坊网络）:
+亚特兰蒂斯大陆（以太坊网络）：Uniswap\(v2\): [KTON/ETH](https://app.uniswap.org/#/swap?outputCurrency=0x9f284e1337a815fe77d2ff4ae46544645b20c5ff)
 
-* Uniswap\(v2\): [KTON/ETH](https://app.uniswap.org/#/swap?outputCurrency=0x9f284e1337a815fe77d2ff4ae46544645b20c5ff)
-
-拜占庭大陆（波场网络):
-
-* Justswap: [KTON/TRX](https://justswap.io/#/scan/detail/trx/TW3kTpVtYYQ5Ka1awZvLb9Yy6ZTDEC93dC)
+拜占庭大陆（波场网络）：Justswap: [KTON/TRX](https://justswap.io/#/scan/detail/trx/TW3kTpVtYYQ5Ka1awZvLb9Yy6ZTDEC93dC)
 
 #### CEX
 

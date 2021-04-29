@@ -1,6 +1,6 @@
 # 引荐计划
 
-![](../.gitbook/assets/referral-program-1.jpg)
+![](../.gitbook/assets/overview-referral-program-cn-1.jpg)
 
 进化星球是由玩家主导的区块链游戏。奖励机制部署于智能合约，不受开发团队的控制。游戏内的交易收入将按一定比例，在分配给其他收入池之前，支付给引荐人。
 
@@ -8,7 +8,7 @@
 
 每个玩家在登陆之后都会有一个自己的拍地专属推荐链接。
 
-![\_\_\_1.png](../.gitbook/assets/referral-program-2.png)![\_\_\_2.png](../.gitbook/assets/referral-program-3.png)
+![](../.gitbook/assets/overview-referral-program-cn-2.jpg)
 
 * 如果有玩家通过你的链接进入拍地，并竞价成功，你都能得到一定的奖励。
   
@@ -22,7 +22,7 @@
 
 3. 玩家B 出价成功之后我们来看下 TxHash 中 Tokens Transfered 的信息：
 
-![](../.gitbook/assets/referral-program-4.png)
+![](../.gitbook/assets/overview-referral-program-cn-3.png)
 
 Tokens Transfered 中共有 5 笔交易，由上至下依次是：
 
@@ -36,7 +36,7 @@ Tokens Transfered 中共有 5 笔交易，由上至下依次是：
 
 * 交易5、合约 to 玩家C：0.8 RING
 
-![](../.gitbook/assets/referral-program-5.jpg)
+![](../.gitbook/assets/overview-referral-program-cn-4.jpg)
 
 关于交易1、交易2 两笔交易的解释：
 

@@ -7,6 +7,7 @@
 * [进化星球是什么？](overview/what-is-evolution-land.md)
   * [重大事件](overview/what-is-evolution-land/milestones.md)
 * [最新动态](overview/whats-new/README.md)
+  * [进化星球游戏熔炉开启！元素初始流动性池已构建!](overview/whats-new/the-furnace-gamefi.md)
   * [宝箱空投狂欢！免费赢取「限量掘金钻头」！](overview/whats-new/treasure-box-airdrop-event.md)
   * [进化星球宣布由去中心化预言机 Chainlink VRF 支持的新使徒繁育和游戏奖励机制](overview/whats-new/partnership-with-chainlink-for-random-number-generator.md)
 * [社区](overview/community.md)

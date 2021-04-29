@@ -8,13 +8,15 @@ description: 进化星球是一个去中心化自治社区
 
 去中心化是通过以下方式实现的：
 
-* **技术**（[细节](../../overview/developers.md)）
-  * 游戏逻辑部署于于区块链上，透明且可查证。开源智能合约
-  * 开源的前端 UI 框架，任何人都可以克隆和开发他们的 UI
-* **收入**（[明细](../../advanced/evolution-land-dao/revenue-model.md)）
-  * 游戏收入通过智能合约分配给玩家和贡献者
-  * 内置引荐机制
-* **治理**（[细节](../../advanced/evolution-land-dao/governance.md)）
-  * 区分休闲玩家和严肃的管理者
-  * 参与质押的用户有权投票支持链外和链上提案
+**技术**（[细节](../../overview/developers.md)）
+* 游戏逻辑部署于于区块链上，透明且可查证。开源智能合约
+* 开源的前端 UI 框架，任何人都可以克隆和开发他们的 UI
+  
+**收入**（[明细](../../advanced/evolution-land-dao/revenue-model.md)）
+* 游戏收入通过智能合约分配给玩家和贡献者
+* 内置引荐机制
+
+**治理**（[细节](../../advanced/evolution-land-dao/governance.md)）
+* 区分休闲玩家和严肃的管理者
+* 参与质押的用户有权投票支持链外和链上提案
 
