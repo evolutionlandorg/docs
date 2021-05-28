@@ -12,7 +12,7 @@ Gringott Bank is the in-game bank that allows you to buy or sell RING using the 
 
 * ![Gringott](../../.gitbook/assets/gringott.png)[Gringott Bank on the Atlantis Continent \(Ethereum\)](https://www.evolution.land/land/1/bank/buy-ring)
 
-![Buy and Sell RING](../../.gitbook/assets/image (40).png)
+* ![Gringott](../../.gitbook/assets/gringott.png)[Gringott Bank on the Byzantine Continent \(Tron\)](https://www.evolution.land/land/2/bank/buy-ring)
 
 ## DEX
 
