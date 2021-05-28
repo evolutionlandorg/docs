@@ -11,7 +11,7 @@ description: 游戏内外代币兑换
 * ![古灵阁](../../.gitbook/assets/advanced-trading-gringott-bank-cn-1.png)[亚特兰蒂斯大陆上的古灵阁（以太坊）](https://www.evolution.land/land/1/bank/buy-ring)
 * ![古灵阁](../../.gitbook/assets/advanced-trading-gringott-bank-cn-1.png)[拜占庭大陆上的古灵阁（波场）](https://www.evolution.land/land/2/bank/buy-ring)
 
-![购买或出售 RING](./../.gitbook/assets/advanced-trading-gringott-bank-cn-2.jpg)
+![购买或出售 RING](../../.gitbook/assets/advanced-trading-gringott-bank-cn-2.jpg)
 
 支持交换的通证有：
 
