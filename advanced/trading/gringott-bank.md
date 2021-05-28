@@ -41,7 +41,7 @@ You can also trade tokens at external decentralized or centralized exchanges or 
 
 You can just viist their websites to swap the tokens against any other popular tokens.
 
-RING is also traded at some centralized exchanges with decent liquidity. Find out the [list](https://github.com/evolutionlandorg/docs/tree/d2e7f922cd713a9a4eb0f511d26569ec99613c1d/getting-started/tokens/ring/README.md#dex) here.
+RING is also traded at some centralized exchanges with decent liquidity. Find out the [list](https://docs.evolution.land/tutorials/atlantis-ethereum/how-to-buy-sell-ring#cex) here.
 
-KTON is also traded at some centralized exchanges with decent liquidity. Find out the [list](https://github.com/evolutionlandorg/docs/tree/d2e7f922cd713a9a4eb0f511d26569ec99613c1d/getting-started/tokens/kton/README.md#dex) here.
+KTON is also traded at some centralized exchanges with decent liquidity. Find out the [list](https://docs.evolution.land/getting-started/tokens/kton#cex) here.
 

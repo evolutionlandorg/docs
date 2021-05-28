@@ -45,8 +45,8 @@ You can buy or sell RING through these channels:
 
 Continents have different means to buy/sell RING:
 
-- Atlantis Continent (Ethereum): [如何购买/出售RING](/tutorials/atlantis-ethereum/how-to-buy-sell-ring.md)
-- Byzantine Continent (Tron): [如何购买/出售RING](/tutorials/byzantine-tron/how-to-buy-sell-ring.md)
+- Atlantis Continent (Ethereum): [How to buy/sell RING](/tutorials/atlantis-ethereum/how-to-buy-sell-ring.md)
+- Byzantine Continent (Tron): [How to buy/sell RING](/tutorials/byzantine-tron/how-to-buy-sell-ring.md)
 
 ### What is the unclaimed RING?
 
