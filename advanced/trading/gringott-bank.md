@@ -41,7 +41,7 @@ description: 游戏内外代币兑换
 
 只需访问他们的网站，就可以与其他热门代币互换。
 
-在一些流动性良好的中心化交易所，也可以交易 RING。查看[列表]([/getting-started/tokens/ring/README.md#dex](https://docs.evolution.land/v/simplified-chinese/tutorials/atlantis-ethereum/how-to-buy-sell-ring#zhong-xin-hua-jiao-yi-suo))
+在一些流动性良好的中心化交易所，也可以交易 RING。查看[列表](https://docs.evolution.land/v/simplified-chinese/tutorials/atlantis-ethereum/how-to-buy-sell-ring#zhong-xin-hua-jiao-yi-suo))
 
-在一些流动性良好的中心化交易所，也可以交易 KTON。查看列表[列表]([/getting-started/tokens/kton/README.md#dex](https://docs.evolution.land/v/simplified-chinese/getting-started/tokens/kton#cex))
+在一些流动性良好的中心化交易所，也可以交易 KTON。查看列表[列表](https://docs.evolution.land/v/simplified-chinese/getting-started/tokens/kton#cex))
 
