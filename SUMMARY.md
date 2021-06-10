@@ -86,3 +86,4 @@
   * [怎样注册进化星球？](tutorials/dawning-heco/how-to-register.md)
   * [如何购买/出售RING？](tutorials/dawning-heco/how-to-buy-sell-ring.md)
   * [购买/出售/赠送地块以及地块的相关操作](tutorials/dawning-heco/how-to-buy-sell-gift-lands-and-related-operations.md)
+  * [购买/出售使徒以及使徒的相关操作](tutorials/dawning-heco/how-to-buy-sell-gift-apostles-and-related-operations.md)
