@@ -8,25 +8,12 @@ At present, the land on DAWNING has been opened for sale. Log in and click on "S
    
     After confirming the information (the land must be in the auction, that is, the color of the land is green), you can click “Bid with RING” in the pop-up window and wait for the transaction confirmation.
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/tutorials-dawning-heco-how-to-buy-sell-lands-and-related-operations-en-1.jpg)
 
-![](../../.gitbook/assets/image%20%2819%29.png)
 
-1. After you click on the land you want to purchase, the detailed information of the land will be popped up on the right side \(including price, resource status, seller, etc., where the amount of GOLD/WOOD/HHO/FIRE/SIOO resources is the maximum for digging every day\). After confirming the information \(the land must be in the auction, that is, the color of the land is green\), you can click “Bid with RING” or “Bid with ETH” in the pop-up window and wait for the transaction confirmation.
+2. At this moment, the land bidden by you will be displayed in “Bid”. If no other player bid the land at a higher price within 30 minutes, the land will be yours. Then the land will be displayed “Unclaimed”.
 
-![](https://lh4.googleusercontent.com/pmJ0ygiOnxIACg10Wgzxl_JzyTZunaWUQbiHwPgTyp0mwlINjnqRhCm6JgqJmEKIn9AmJmpPt81DyLhFC4DWuY5gHv_ftl0aZDjofAYVs9nthvANoUSx5lgRry3PTAJupAd7ysy1)![](https://lh4.googleusercontent.com/chjsjpI9vM0b-fxO6rV7DkyD768hK5IkoIJ4BcTlO4RZOMgasWU3YrBiC5-Wmff69-TTnDeU0v8Z89i64lqgHGKVCNpTBqXEQYSO8EPtyCg2o3GbLJe2yni2S92leb5YQs7FRWf9)
-
-3. At this moment, the land bidden by you will be displayed in “Bid”. If no other player bid the land at a higher price within 30 minutes, the land will be yours. Then the land will be displayed “unclaimed”.
-
-![](../../.gitbook/assets/image%20%2847%29.png)
-
-PS. The land is rotatable.
-
-On the Mac system, you can hold down the "command" and drag the land with the mouse to rotate the land to adjust the angle of view.
-
-On windows system, you can hold down "control" and drag the land with the mouse to rotate the land to adjust the angle of view.
-
-## **Where is my land?**
+## Where is my land?
 
 1. The land bidden by the player for the first time will be displayed in the “Bid”;
 
@@ -34,17 +21,17 @@ On windows system, you can hold down "control" and drag the land with the mouse 
 
 3. The land bought and claimed successfully will be displayed in “Mine”.
 
-Corresponding webpage: [https://www.evolution.land/land/1/list](https://www.evolution.land/land/1/list)
+Corresponding webpage: [https://www.evolution.land/land/1/list](https://www.evolution.land/land/4/list)
 
-## **Why do I have to claim the land?**
+## Why do I have to claim the land?
 
 If you bid the land and no other player bid at a higher price within 30 minutes, the land will be displayed in “unclaimed”, and you need to click on the "claim" to claim it.
 
-## **The operations about land**
+## The operations about land
 
 Click on "Mange" of the land you have and you will see what you can do with the land.
 
-![](../../.gitbook/assets/image%20%2837%29.png)
+![](../../.gitbook/assets/tutorials-dawning-heco-how-to-buy-sell-lands-and-related-operations-en-2.jpg)
 
 **【 Sell 】**
 
