@@ -18,7 +18,7 @@
 
 > ![](../../.gitbook/assets/tutorials-dawning-heco-how-to-buy-sell-apostles-and-related-operations-en-2.jpg)
 
- 3. Click on the apostle, the pop-up window on the right will show the details of the apostle \(including price, talent, introduction, attributes, parents and children, etc., where the life of the apostle is "XXX week"\). After confirming the information, you can click on "Bid" and confirm the order in the new pop-up window by clicking "Bid" again.
+3. Click on the apostle, the pop-up window on the right will show the details of the apostle \(including price, talent, introduction, attributes, parents and children, etc., where the life of the apostle is "XXX week"\). After confirming the information, you can click on "Bid" and confirm the order in the new pop-up window by clicking "Bid" again.
    
    ![](../../.gitbook/assets/tutorials-dawning-heco-how-to-buy-sell-apostles-and-related-operations-en-3.jpg)
 
