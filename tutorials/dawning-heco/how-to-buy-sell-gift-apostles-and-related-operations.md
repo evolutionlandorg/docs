@@ -1,33 +1,33 @@
 # How to buy/sell/gift 【apostles】 and related operations
 
-## **How to buy apostle?**
+## How to buy apostle?
 
 1. Log in to the Evolution Land---DAWNING, click on the apostle and you will see all the official apostles on the DAWNING. 
    
    (After the first generation of apostles on Dawning has all sold out, players can buy apostles in the market that are being sold by other players)
+   
+   ![](../../.gitbook/assets/tutorials-dawning-heco-how-to-buy-sell-apostles-and-related-operations-en-1.jpg)
 
-![](../../.gitbook/assets/tutorials-dawning-heco-how-to-buy-sell-apostles-and-related-operations-en-1.jpg)
+2. Click on "More" to see the market: including "All", "On sale", "For Breed" and "For Recruit".
 
-Click on "More" to see the market: including "All", "On sale", "For Breed" and "For Recruit".
+> “On sale”: The apostles that other players are selling and you can purchase directly;
 
-“On sale”: The apostles that other players are selling and you can purchase directly;
+> “For Breed”: The apostles that other players hang out to breed to earn RING. You can choose one you like to breed with your apostle, and the new baby apostle they born will be owned by you;
 
-“For Breed”: The apostles that other players hang out to breed to earn RING. You can choose one you like to breed with your apostle, and the new baby apostle they born will be owned by you;
+> “For Recruit”: The apostles that other players hang out to work to earn RING, you can hire the apostle to work on your land.
 
-“For Recruit”: The apostles that other players hang out to work to earn RING, you can hire the apostle to work on your land.
+> ![](../../.gitbook/assets/tutorials-dawning-heco-how-to-buy-sell-apostles-and-related-operations-en-2.jpg)
 
-![](../../.gitbook/assets/tutorials-dawning-heco-how-to-buy-sell-apostles-and-related-operations-en-2.jpg)
-
-1. Click on the apostle, the pop-up window on the right will show the details of the apostle \(including price, talent, introduction, attributes, parents and children, etc., where the life of the apostle is "XXX week"\). After confirming the information, you can click on "Bid" and confirm the order in the new pop-up window by clicking "Bid" again.
-
-![](../../.gitbook/assets/tutorials-dawning-heco-how-to-buy-sell-apostles-and-related-operations-en-3.jpg)
+ 3. Click on the apostle, the pop-up window on the right will show the details of the apostle \(including price, talent, introduction, attributes, parents and children, etc., where the life of the apostle is "XXX week"\). After confirming the information, you can click on "Bid" and confirm the order in the new pop-up window by clicking "Bid" again.
+   
+   ![](../../.gitbook/assets/tutorials-dawning-heco-how-to-buy-sell-apostles-and-related-operations-en-3.jpg)
 
 
-1. At this moment, the apostle bidden by you will be displayed in “Bid”. If no other player bid the land at a higher price within 10 minutes, the apostle will be yours. Then the apostle will be displayed in “unclaimed”.
+4. At this moment, the apostle bidden by you will be displayed in “Bid”. If no other player bid the land at a higher price within 10 minutes, the apostle will be yours. Then the apostle will be displayed in “unclaimed”.
+   
+   ![](../../.gitbook/assets/tutorials-dawning-heco-how-to-buy-sell-apostles-and-related-operations-en-4.jpg)
 
-![](../../.gitbook/assets/tutorials-dawning-heco-how-to-buy-sell-apostles-and-related-operations-en-4.jpg)
-
-## **Where is my apostle?**
+## Where is my apostle?
 
 1. The apostle bidden by the player for the first time will be displayed in the “Bid”;
 2. If no other player bid the apostle at a higher price within 10 minutes, the apostle will be displayed in “unclaimed”;
@@ -35,11 +35,11 @@ Click on "More" to see the market: including "All", "On sale", "For Breed" and "
 
 Corresponding webpage: [https://www.evolution.land/land/2/apostle/my](https://www.evolution.land/land/2/apostle/my)
 
-## **Why do I have to claim the apostle?**
+## Why do I have to claim the apostle?
 
 If you bid the apostle and no other player bid at a higher price within 10 minutes, the apostle will be displayed in “unclaimed”, and you need to click on the "claim" to claim it.
 
-## **The operations about apostle**
+## The operations about apostle
 
 Click on the apostle you have and you will see what you can do with the apostle.
 
