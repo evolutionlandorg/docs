@@ -76,7 +76,7 @@
   * [How to buy/sell RING?](tutorials/byzantine-tron/how-to-buy-sell-ring.md)
   * [How to buy/sell/gift 【lands】 and related operations](tutorials/byzantine-tron/how-to-buy-sell-gift-lands-and-related-operations.md)
   * [How to buy/sell/gift 【apostles】 and related operations](tutorials/byzantine-tron/how-to-buy-sell-gift-apostles-and-related-operations.md)
-  * * [Dawning - Heco](tutorials/dawning-heco/README.md)
+* [Dawning - Heco](tutorials/dawning-heco/README.md)
   * [How to register?](tutorials/dawning-heco/how-to-register.md)
   * [How to buy/sell RING?](tutorials/dawning-heco/how-to-buy-sell-ring.md)
   * [How to buy/sell/gift 【lands】 and related operations](tutorials/dawning-heco/how-to-buy-sell-gift-lands-and-related-operations.md)
