@@ -4,14 +4,14 @@
 
 At present, the land on DAWNING has been opened for sale. Log in and click on "START GAME V2.0", then choose to enter DAWNING, you will see all the lands on DAWNING. 
 
-1. After you click on the land you want to purchase, the detailed information of the land will be popped up on the right side (including price, resource status, seller, etc., where the amount of GOLD/WOOD/HHO/FIRE/SIOO resources is the maximum for digging every day).
+After you click on the land you want to purchase, the detailed information of the land will be popped up on the right side (including price, resource status, seller, etc., where the amount of GOLD/WOOD/HHO/FIRE/SIOO resources is the maximum for digging every day).
    
-    After confirming the information (the land must be in the auction, that is, the color of the land is green), you can click “Bid with RING” in the pop-up window and wait for the transaction confirmation.
+After confirming the information (the land must be in the auction, that is, the color of the land is green), you can click “Bid with RING” in the pop-up window and wait for the transaction confirmation.
 
 ![](../../.gitbook/assets/tutorials-dawning-heco-how-to-buy-sell-lands-and-related-operations-en-1.jpg)
 
 
-2. At this moment, the land bidden by you will be displayed in “Bid”. If no other player bid the land at a higher price within 30 minutes, the land will be yours. Then the land will be displayed “Unclaimed”.
+At this moment, the land bidden by you will be displayed in “Bid”. If no other player bid the land at a higher price within 30 minutes, the land will be yours. Then the land will be displayed “Unclaimed”.
 
 ## Where is my land?
 

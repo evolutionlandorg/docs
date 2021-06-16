@@ -40,4 +40,4 @@ Download link： [http://www.mathwallet.org/en/](http://www.mathwallet.org/en/)
 * Register an ETH address or import one. The private key must be saved, and it cannot be recovered once it is lost.
 * Find "Evolution Land" in "Dapps" and click to register.
 
-![](../../.gitbook/assets/ttutorials-dawning-heco-how-to-register-en-2.jpg)
+![](../../.gitbook/assets/tutorials-dawning-heco-how-to-register-en-2.jpg)
