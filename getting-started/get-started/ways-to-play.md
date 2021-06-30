@@ -22,7 +22,6 @@
 
 商人在市场上叱咤风云，他们不断地买卖最抢手的土地、使徒、资源或任何其他可交易的物品，在一系列的出价、成交中，抢夺市场上最珍贵的猫科动物（？）snatching up the most prized felines on the marketplace.
 
-
 ## Definer
 
 DeFiner 来自 Defi 领域。他们知道如何为游戏通证提供流动性；反过来，他们的努力会得到回报。

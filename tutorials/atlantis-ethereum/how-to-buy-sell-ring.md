@@ -1,19 +1,19 @@
-# 如何购买/出售 RING？
+# 如何购买/出售RING？
 
 购买和出售 RING 的渠道很多，大致可以分为：
 
-- 游戏内置古灵阁银行
-- 去中心化交易所
-- 中心化交易所
+* 游戏内置古灵阁银行
+* 去中心化交易所
+* 中心化交易所
 
 ## 在进化星球古灵阁进行交易
 
 你可以在进化星球古灵阁通过 Uniswap 流动性池合约进行 RING 与 ETH 的双向兑换， RING 的当前价格由 Uniswap 最新的成交价格和玩家的订单金额决定，RING 的兑换将花费 ETH 作为燃料费用，进化星球不收取额外的手续费。
 
-* ![古灵阁](../../.gitbook/assets/gringott.png)[亚特兰蒂斯大陆上的古灵阁（以太坊）](https://www.evolution.land/land/1/bank/buy-ring)
-* ![古灵阁](../../.gitbook/assets/gringott.png)[拜占庭大陆上的古灵阁（波场）](https://www.evolution.land/land/2/bank/buy-ring)
+* ![&#x53E4;&#x7075;&#x9601;](../../.gitbook/assets/advanced-trading-gringott-bank-cn-1.png)[亚特兰蒂斯大陆上的古灵阁（以太坊）](https://www.evolution.land/land/1/bank/buy-ring)
+* ![&#x53E4;&#x7075;&#x9601;](../../.gitbook/assets/advanced-trading-gringott-bank-cn-1.png)[拜占庭大陆上的古灵阁（波场）](https://www.evolution.land/land/2/bank/buy-ring)
 
-![购买和出售RING](../../.gitbook/assets/advanced-trading-gringott-bank-cn.jpg)
+![&#x8D2D;&#x4E70;&#x548C;&#x51FA;&#x552E;RING](../../.gitbook/assets/advanced-trading-gringott-bank-cn-2.jpg)
 
 ## 去中心化交易所
 

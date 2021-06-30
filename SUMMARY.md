@@ -4,12 +4,14 @@
 
 ## 概览 <a id="overview"></a>
 
-* [进化星球是什么？](overview/what-is-evolution-land.md)
+* [进化星球是什么？](overview/what-is-evolution-land/README.md)
   * [重大事件](overview/what-is-evolution-land/milestones.md)
-* [最新动态](overview/whats-new/README.md)
-  * [进化星球游戏熔炉开启！元素初始流动性池已构建!](overview/whats-new/the-furnace-gamefi.md)
-  * [宝箱空投狂欢！免费赢取「限量掘金钻头」！](overview/whats-new/treasure-box-airdrop-event.md)
-  * [进化星球宣布由去中心化预言机 Chainlink VRF 支持的新使徒繁育和游戏奖励机制](overview/whats-new/partnership-with-chainlink-for-random-number-generator.md)
+* [最新动态](overview/zui-xin-dong-tai/README.md)
+  * [迎接新家园—淘金热即将开启！](overview/zui-xin-dong-tai/ying-jie-xin-jia-yuan-tao-jin-re-ji-jiang-kai-qi.md)
+  * [进化星球第四大陆——拂晓大陆上线！](overview/zui-xin-dong-tai/jin-hua-xing-qiu-di-si-da-lu-fu-xiao-da-lu-shang-xian.md)
+  * [进化星球游戏熔炉开启！元素初始流动性池已构建!](overview/zui-xin-dong-tai/the-furnace-gamefi.md)
+  * [宝箱空投狂欢！免费赢取「限量掘金钻头」！](overview/zui-xin-dong-tai/treasure-box-airdrop-event.md)
+  * [进化星球宣布由去中心化预言机 Chainlink VRF 支持的新使徒繁育和游戏奖励机制](overview/zui-xin-dong-tai/partnership-with-chainlink-for-random-number-generator.md)
 * [社区](overview/community.md)
 * [开发者](overview/developers.md)
 * [反馈与帮助](overview/feedback-and-support.md)
@@ -66,7 +68,7 @@
   * [分红](advanced/evolution-land-dao/dividends.md)
 * [淘金热](advanced/gold-rush.md)
 
-## 教程  <a id="tutorials"></a>
+## 教程 <a id="tutorials"></a>
 
 * [亚特兰蒂斯大陆 - 以太坊](tutorials/atlantis-ethereum/README.md)
   * [以太坊相关知识](tutorials/atlantis-ethereum/about-ethereum.md)
@@ -81,9 +83,10 @@
   * [如何购买/出售RING？](tutorials/byzantine-tron/how-to-buy-sell-ring.md)
   * [购买/出售/赠送地块以及地块的相关操作](tutorials/byzantine-tron/how-to-buy-sell-gift-lands-and-related-operations.md)
   * [购买/出售使徒以及使徒的相关操作](tutorials/byzantine-tron/how-to-buy-sell-gift-apostles-and-related-operations.md)
-* [拂晓大陆 - 火币生态链](tutorials/dawning-heco/README.md)
-  * [火币生态链相关知识](tutorials/dawning-heco/about-heco.md)
-  * [怎样注册进化星球？](tutorials/dawning-heco/how-to-register.md)
-  * [如何购买/出售RING？](tutorials/dawning-heco/how-to-buy-sell-ring.md)
-  * [购买/出售/赠送地块以及地块的相关操作](tutorials/dawning-heco/how-to-buy-sell-gift-lands-and-related-operations.md)
-  * [购买/出售使徒以及使徒的相关操作](tutorials/dawning-heco/how-to-buy-sell-gift-apostles-and-related-operations.md)
+* [拂晓大陆 - 火币生态链](tutorials/fu-xiao-da-lu-huo-bi-sheng-tai-lian/README.md)
+  * [火币生态链相关知识](tutorials/fu-xiao-da-lu-huo-bi-sheng-tai-lian/about-heco.md)
+  * [怎样注册进化星球？](tutorials/fu-xiao-da-lu-huo-bi-sheng-tai-lian/how-to-register.md)
+  * [如何购买/出售RING？](tutorials/fu-xiao-da-lu-huo-bi-sheng-tai-lian/how-to-buy-sell-ring.md)
+  * [购买/出售/赠送地块以及地块的相关操作](tutorials/fu-xiao-da-lu-huo-bi-sheng-tai-lian/how-to-buy-sell-gift-lands-and-related-operations.md)
+  * [购买/出售使徒以及使徒的相关操作](tutorials/fu-xiao-da-lu-huo-bi-sheng-tai-lian/how-to-buy-sell-gift-apostles-and-related-operations.md)
+

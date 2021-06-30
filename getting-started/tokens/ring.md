@@ -41,24 +41,22 @@ RING 被达尔文网络设定为以大约 5% 的速率膨胀，以支付验证�
 
 是的，各种区块链网络上的 RING 具有相同的价值，在达尔文主网均有对应的资产背书。使用达尔文桥（加密货币支持模型），原生 RING 可以跨链到其他区块链网络并返回。区块链之间的桥逐步释放，目前的情况如下：
 
-* 以太坊 -> 达尔文桥：[已开启](https://docs.darwinia.network/docs/zh-CN/wiki-tut-wormhole-e2d/)
-* 达尔文 -> 以太坊桥: [已开启](https://docs.darwinia.network/docs/zh-CN/wiki-tut-wormhole-d2e/)
-* 以太坊 <-> 波场双向桥：已开启（PoA 模型）
+* 以太坊 -&gt; 达尔文桥：[已开启](https://docs.darwinia.network/docs/zh-CN/wiki-tut-wormhole-e2d/)
+* 达尔文 -&gt; 以太坊桥: [已开启](https://docs.darwinia.network/docs/zh-CN/wiki-tut-wormhole-d2e/)
+* 以太坊 &lt;-&gt; 波场双向桥：已开启（PoA 模型）
 
-### 我该如何购买/出售 RING？ 
+### 我该如何购买/出售 RING？
 
 购买和出售 RING 的渠道很多，大致可以分为：
 
-- 游戏内置古灵阁银行
-- 去中心化交易所
-- 中心化交易所
+* 游戏内置古灵阁银行
+* 去中心化交易所
+* 中心化交易所
 
 不同大陆 RING 的购买/出售方式略有不同，具体请参考以下教程：
 
-- 亚特兰蒂斯大陆（以太坊网络）：[如何购买/出售 RING](/tutorials/atlantis-ethereum/how-to-buy-sell-ring.md)
-
-- 拜占庭大陆（波场网络）：[如何购买/出售 RING](/tutorials/byzantine-tron/how-to-buy-sell-ring.md)
-
+* 亚特兰蒂斯大陆（以太坊网络）：[如何购买/出售 RING](../../tutorials/atlantis-ethereum/how-to-buy-sell-ring.md)
+* 拜占庭大陆（波场网络）：[如何购买/出售 RING](../../tutorials/byzantine-tron/how-to-buy-sell-ring.md)
 
 ### 什么是可领取的 RING？
 
@@ -66,9 +64,7 @@ RING 被达尔文网络设定为以大约 5% 的速率膨胀，以支付验证�
 
 这里的 RING 代表系统发放给你的奖励，来源可能是氪石分成、空投、奖励等等，可在「通道记录」中查看详情。
 
-点击右侧领取，即可发送交易领取相应数量的 RING。 
+点击右侧领取，即可发送交易领取相应数量的 RING。
 
-![可领取的 RING](../../.gitbook/assets/unclaimed-ring-cn.png)
-
-
+![&#x53EF;&#x9886;&#x53D6;&#x7684; RING](../../.gitbook/assets/unclaimed-ring-cn.png)
 

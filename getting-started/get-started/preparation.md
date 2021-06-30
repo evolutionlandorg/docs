@@ -2,6 +2,8 @@
 description: 进化星球怎么玩？
 ---
 
+# 准备工作
+
 ## 进化星球怎么玩？
 
 进化星球由部署于不同区块链网络的大陆构成。**首先你要先选择在哪一块大陆上进行游戏**。不同大陆的软硬件要求可见下表：
@@ -10,7 +12,7 @@ description: 进化星球怎么玩？
   <thead>
     <tr>
       <th style="text-align:left"></th>
-      <th style="text-align:left"> <b>     &#x4E9A;&#x7279;&#x5170;&#x8482;&#x65AF;</b>
+      <th style="text-align:left"> <b>&#x4E9A;&#x7279;&#x5170;&#x8482;&#x65AF;</b>
       </th>
       <th style="text-align:left"> <b>&#x62DC;&#x5360;&#x5EAD;</b>
       </th>
@@ -59,7 +61,6 @@ description: 进化星球怎么玩？
     </tr>
   </tbody>
 </table>
-
 
 ## 桌面电脑
 

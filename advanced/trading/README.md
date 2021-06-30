@@ -8,5 +8,3 @@
 
 {% page-ref page="gringott-bank.md" %}
 
-
-

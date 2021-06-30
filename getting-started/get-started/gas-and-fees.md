@@ -1,10 +1,10 @@
-# 燃料费 Gas
+# 燃料费Gas
 
 当你想要出价购买土地、进行使徒繁育，或者想要创建一笔拍卖时，你发起的请求会被发送给区块链网络上进行计算和交易确认工作的矿工（感谢矿工的辛勤工作！）。
 
 发起交易请求的用户需要为矿工的服务支付手续费（请注意，所有的手续费都是支付给矿工的而非项目方）。这笔费用，有时候显示为「Tx fee」，其具体金额是由交易的「Gas Price」和执行操作消耗的「Gas Limit」这两个因素决定的。
 
-![Metamask Gas Price 和 Tx Fees](../../.gitbook/assets/metamask_gasprice.png)
+![Metamask Gas Price &#x548C; Tx Fees](../../.gitbook/assets/metamask_gasprice.png)
 
 **Gas Price**
 
@@ -15,7 +15,6 @@ Gas Price \(Gwei\) 是指为了让矿工打包该笔交易，用户愿意为每�
 **Gas Limit**
 
 Gas Limit 是指用户愿意为执行确认交易操作支付的最大 Gas 数量。基本上，Gas Limit 是为你在给定交易中花费多少 Gas 设定一个上限，以保证合理的手续费。
-
 
 ## 我应该付多少 Gas 费?
 
@@ -33,7 +32,7 @@ Gas Price 高低的设定取决于用户本人——氪金战士请随意。
 
 Gas Now 还能够显示在特定的 Gas Price 下，一笔交易确认大约需要花多长时间，让你可以根据自身的需求时间来调整 Gas Price。
 
-![Gas Now 小工具](../../.gitbook/assets/gasnow.png)
+![Gas Now &#x5C0F;&#x5DE5;&#x5177;](../../.gitbook/assets/gasnow.png)
 
 请注意，你实际支付的交易燃料费（即手续费）一般都会低于预测最高值，这很棒！一旦矿工打包你的交易，Gas Limit 中未被消耗的 ETH 将退还给你（不会被收取）。
 

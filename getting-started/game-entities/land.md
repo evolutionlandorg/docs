@@ -12,7 +12,7 @@ description: 土地，也叫「地块」
 
 地块下有 5 种可开采的[资源](resource/)，可开采量用最大资源衰减率（MRAR）表示。这意味着在全速状态下，每天可以开采的资源量达到最大。这种资源每天以大约 1/10000 的速度自然衰减。
 
-![土地资源储备](../../.gitbook/assets/land-resource.png)
+![&#x571F;&#x5730;&#x8D44;&#x6E90;&#x50A8;&#x5907;](../../.gitbook/assets/land-resource.png)
 
 在上示的地块详情页中, `90,-7` 是这个地块的坐标， `B769` 代表 B 大陆（拜占庭）, `地块 id` 是 `769`。
 
@@ -48,7 +48,7 @@ description: 土地，也叫「地块」
 
 ## 地块不同的颜色代表着什么？
 
-目前亚特兰蒂斯大陆地块有 7 个种类，以不同颜色表示： 
+目前亚特兰蒂斯大陆地块有 7 个种类，以不同颜色表示：
 
 **首次售卖**（浅绿色）：拍卖中的创世地块，由官方成功上架的地块，玩家可出价参与竞拍。
 
@@ -89,12 +89,10 @@ description: 土地，也叫「地块」
 4. 出价成功（30 分钟后无人继续竞拍）
 5. 购买成功
 
-注：购买成功后，可在「我的地块」>>「未领取」中查看并领取。
+注：购买成功后，可在「我的地块」&gt;&gt;「未领取」中查看并领取。
 
 **教程**
 
-* 亚特兰蒂斯大陆（以太坊网络）：[如何购买/出售/赠送地块](/tutorials/atlantis-ethereum/how-to-buy-sell-gift-lands-and-related-operations.md)
-
-* 拜占庭大陆（波场网络）：[如何购买/出售/赠送地块](/tutorials/byzantine-tron/how-to-buy-sell-gift-lands-and-related-operations.md)
-
+* 亚特兰蒂斯大陆（以太坊网络）：[如何购买/出售/赠送地块](../../tutorials/atlantis-ethereum/how-to-buy-sell-gift-lands-and-related-operations.md)
+* 拜占庭大陆（波场网络）：[如何购买/出售/赠送地块](../../tutorials/byzantine-tron/how-to-buy-sell-gift-lands-and-related-operations.md)
 

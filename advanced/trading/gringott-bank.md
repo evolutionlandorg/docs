@@ -2,26 +2,26 @@
 description: 游戏内外代币兑换
 ---
 
-# 古灵阁银行
+# 古灵阁
 
 ## 代币兑换服务
 
 古灵阁是游戏内的银行服务，供用户交换代币，例如用 ETH 购买 RING 或资源，或出售 KTON 以获得 TRON 。古灵阁银行提供的代币交换服务由大陆底层网络上的流动性提供商提供支持，例如亚特兰蒂斯大陆（Ethereum）的 Uniswap 和拜占庭大陆（Tron）的 Justswap。
 
-* ![古灵阁](../../.gitbook/assets/advanced-trading-gringott-bank-cn-1.png)[亚特兰蒂斯大陆上的古灵阁（以太坊）](https://www.evolution.land/land/1/bank/buy-ring)
-* ![古灵阁](../../.gitbook/assets/advanced-trading-gringott-bank-cn-1.png)[拜占庭大陆上的古灵阁（波场）](https://www.evolution.land/land/2/bank/buy-ring)
+* ![&#x53E4;&#x7075;&#x9601;](../../.gitbook/assets/advanced-trading-gringott-bank-cn-1.png)[亚特兰蒂斯大陆上的古灵阁（以太坊）](https://www.evolution.land/land/1/bank/buy-ring)
+* ![&#x53E4;&#x7075;&#x9601;](../../.gitbook/assets/advanced-trading-gringott-bank-cn-1.png)[拜占庭大陆上的古灵阁（波场）](https://www.evolution.land/land/2/bank/buy-ring)
 
-![购买或出售 RING](../../.gitbook/assets/advanced-trading-gringott-bank-cn-2.jpg)
+![&#x8D2D;&#x4E70;&#x6216;&#x51FA;&#x552E; RING](../../.gitbook/assets/advanced-trading-gringott-bank-cn-2.jpg)
 
 支持交换的通证有：
 
-* [RING](/getting-started/tokens/ring.md) \(online\)
-* [KTON](/advanced/trading/getting-started/tokens/kton.md) \(online\)
-* [GOLD](/advanced/trading/getting-started/tokens/resource/README.md#gold)
-* [WOOD](/advanced/trading/getting-started/tokens/resource/README.md#wood)
-* [HHO](/advanced/trading/getting-started/tokens/resource/README.md#hho)
-* [FIRE](/advanced/trading/getting-started/tokens/resource/README.md#fire)
-* [SIOO](/advanced/trading/getting-started/tokens/resource/README.md#sioo)
+* [RING](../../getting-started/tokens/ring.md) \(online\)
+* [KTON](https://github.com/evolutionlandorg/docs/tree/1854bb0eeddc78bdd38a34385a8e31ef15c866e1/advanced/trading/getting-started/tokens/kton.md) \(online\)
+* [GOLD](https://github.com/evolutionlandorg/docs/tree/1854bb0eeddc78bdd38a34385a8e31ef15c866e1/advanced/trading/getting-started/tokens/resource/README.md#gold)
+* [WOOD](https://github.com/evolutionlandorg/docs/tree/1854bb0eeddc78bdd38a34385a8e31ef15c866e1/advanced/trading/getting-started/tokens/resource/README.md#wood)
+* [HHO](https://github.com/evolutionlandorg/docs/tree/1854bb0eeddc78bdd38a34385a8e31ef15c866e1/advanced/trading/getting-started/tokens/resource/README.md#hho)
+* [FIRE](https://github.com/evolutionlandorg/docs/tree/1854bb0eeddc78bdd38a34385a8e31ef15c866e1/advanced/trading/getting-started/tokens/resource/README.md#fire)
+* [SIOO](https://github.com/evolutionlandorg/docs/tree/1854bb0eeddc78bdd38a34385a8e31ef15c866e1/advanced/trading/getting-started/tokens/resource/README.md#sioo)
 
 资源的流动池也即将上线，敬请期待。
 

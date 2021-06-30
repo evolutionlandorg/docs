@@ -16,7 +16,7 @@ description: 自融资机制
 6. **营业税**： 其他商业活动的税收
 7. **其他收入**
 
-*注：税收和其他收入不断完善中，后期补充说明*
+_注：税收和其他收入不断完善中，后期补充说明_
 
 ![1-1](../../.gitbook/assets/advanced-evolution-land-dao-revenue-cn-1.png)
 
@@ -24,18 +24,13 @@ description: 自融资机制
 
 ## 系统收入分配
 
-*注：系统收入先扣除推荐奖励，余额将进入系统收入池，并按照比例进行分配*
+_注：系统收入先扣除推荐奖励，余额将进入系统收入池，并按照比例进行分配_
 
 1. 推荐奖励（已扣除，列举只为完整性）：每一个星球用户在不同资产的交易中都有自己的推荐链接，其他星球用户通过该推荐链接进入系统，在完成有手续费的交易后，系统会进行相应的推荐奖励。
-
 2. 交易奖励池（占10%）：进化星球 - 交易抽奖：[https://forum.evolution.land/posts/27](https://forum.evolution.land/posts/27)
-
 3. 内容贡献激励（占30%）：向游戏内经济贡献前 x 名发放，暂时锁在合约内，待游戏上线后有内容贡献后进行分账。
-
 4. KTON 治理者（占30%）：向 KTON 治理者发放。
-
 5. 运营和开发（占30%）：其中部分进行团队激励，部分留存作为开发基金，由团队自行分配。
-
 
 ## 系统收入来源与分配模型图
 
@@ -45,9 +40,9 @@ description: 自融资机制
 
 也叫抽奖池。当玩家在游戏中消费，他们会得到积分，就像彩票一样。玩家可以在「开心大乐透」使用积分来赢得大奖。每一笔消费交易收取的彩票税都会填满抽奖池。
 
-查看[积分与抽奖](/getting-started/game-entities/lottery.md)获取更多相关信息
+查看[积分与抽奖](../../getting-started/game-entities/lottery.md)获取更多相关信息
 
-{% page-ref page="/getting-started/game-entities/lottery.md" %}
+{% page-ref page="../../getting-started/game-entities/lottery.md" %}
 
 ### 内容贡献激励池
 

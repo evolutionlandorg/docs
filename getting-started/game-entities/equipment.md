@@ -20,7 +20,7 @@
 
 装备是进化星球的 NFT（非同质化通证），也可以是进化星球列出白名单并赋予特定功能的外部第三方 NFT。
 
-通过[熔炉](/getting-started/game-entities/advanced/furnace.md)玩法，NFT 装备也可以被铸造成新的合成 NFT。
+通过[熔炉](https://github.com/evolutionlandorg/docs/tree/de13f53650d83a296ea2791862deb695b5c9f66e/getting-started/game-entities/advanced/furnace.md)玩法，NFT 装备也可以被铸造成新的合成 NFT。
 
 更多的信息将在熔炉的游戏发布后公布。欢迎关注。
 

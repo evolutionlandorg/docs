@@ -31,6 +31,7 @@ description: 进化星球是一款基于区块链的游戏，第二块大陆（�
 * 获取 Energy：Energy 只能通过冻结 TRX 获取，数量是按照所有用户按冻结的 TRX 平分固定额度的 Energy。
 
 注：
+
 * 由于网络中总冻结量以及账户的冻结量随时可能发生变化，因此账户拥有的 CPU 资源不是固定值；
 * 冻结资金不可同时获得 Bandwidth Points 与 Energy，即如果指定冻结 TRX 获得 bandwidth，Energy 不会变化；
 * 普通交易仅消耗 Bandwidth points；
