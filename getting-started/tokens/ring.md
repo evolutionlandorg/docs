@@ -21,9 +21,12 @@ RING is inflated at a rate of around 5% by the Darwinia Network to pay validator
   * Precision: `18`
   * Smart Contract Address \(Tron\): `TL175uyihLqQD656aFx3uhHYe1tyGkmXaW`
 * Darwinia Mainnet
+
   * Spec: Native
   * Precision: 9
   * Smart Contract Address: n/a
+
+* HHPrecisioSmart Contract Address: n/a
 
 ## FAQ
 
