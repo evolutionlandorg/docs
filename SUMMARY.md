@@ -7,7 +7,7 @@
 * [进化星球是什么？](overview/what-is-evolution-land/README.md)
   * [重大事件](overview/what-is-evolution-land/milestones.md)
 * [最新动态](overview/zui-xin-dong-tai/README.md)
-  * [迎接新家园—淘金热即将开启！](overview/zui-xin-dong-tai/ying-jie-xin-jia-yuan-tao-jin-re-ji-jiang-kai-qi.md)
+  * [迎接新家园—淘金热开启！](overview/zui-xin-dong-tai/ying-jie-xin-jia-yuan-tao-jin-re-ji-jiang-kai-qi.md)
   * [进化星球第四大陆——拂晓大陆上线！](overview/zui-xin-dong-tai/jin-hua-xing-qiu-di-si-da-lu-fu-xiao-da-lu-shang-xian.md)
   * [进化星球游戏熔炉开启！元素初始流动性池已构建!](overview/zui-xin-dong-tai/the-furnace-gamefi.md)
   * [宝箱空投狂欢！免费赢取「限量掘金钻头」！](overview/zui-xin-dong-tai/treasure-box-airdrop-event.md)
