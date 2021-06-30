@@ -10,17 +10,22 @@ The continents will be launched one by one. Two continents exist today, they are
 
 * **the** [**Atlantis**](https://www.evolution.land/land/1) \(Ethereum\) 
 * **the** [**Byzantine**](https://www.evolution.land/land/2) \(TRON\) 
+* **the** [**Dawning**](http://www.evolution.land/land/4) \(Heco\)
 
 ![Atlantis](../../.gitbook/assets/continent-atlantis.png)
 
 ![Byzantine](../../.gitbook/assets/continent-byzantine.png)
+
+![Dawning](../../.gitbook/assets/dawningcontinent-en.jpg)
 
 New continents are being planned. These are the candidate blockchains that we are evaluating according to their **user base**, **dapp prosperity**, **smart contract compatibility,** and **gas fee**.
 
 * Binance Smart Chain
 * Darwinia Crab Network
 * Darwinia Network
-* EOS
+* Polygon
+* Solana
+* Avalanche
 
 If you have an excellent public blockchain you think suitable to host another continent, let us know.
 
