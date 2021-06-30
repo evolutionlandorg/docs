@@ -8,13 +8,19 @@
 
 * 规格: `ERC20`
 * 精度: `18`
-* 智能合约地址（以太坊）：`0x358dba28848cca268ba8a76b65e5b3ef9ef92238`
+* 智能合约地址：`0x358dba28848cca268ba8a76b65e5b3ef9ef92238`
 
 **波场**（拜占庭大陆）
 
-* Spec: `TRC20`
+* 规格: `TRC20`
 * 精度: `18`
-* 智能合约地址（波场）：`TCA6c9DLYKX4QTPL5pfCBkJqrJJ9DdVM4S`
+* 智能合约地址：`TCA6c9DLYKX4QTPL5pfCBkJqrJJ9DdVM4S`
+
+**火币生态链**（拂晓大陆）
+
+* 规格: `HRC20`
+* 精度: `18`
+* 智能合约地址：`0xFB371c8B99ba0b239E66E0a66bB6296b00dCD09f`
 
 ## ![&#x6728;](../../.gitbook/assets/woodicon.png) 木
 
@@ -30,6 +36,12 @@
 * 精度: `18`
 * 智能合约地址（波场）：`TGuGnbnUAao1Rqp7W4SWJdbT25onnJ3oy2`
 
+**火币生态链**（拂晓大陆）
+
+* 规格: `HRC20`
+* 精度: `18`
+* 智能合约地址：`0xcA3749C8C3aF04278D596a3fBe461481B6aa1b01`
+
 ## ![&#x6C34;](../../.gitbook/assets/watericon.png) 水
 
 **以太坊**（亚特兰蒂斯大陆）
@@ -43,6 +55,12 @@
 * 规格: `TRC20`
 * 精度: `18`
 * 智能合约地址（波场）：`TNGkC4xUSAyWaiJu3tu7EmgqUtvR45jTFG`
+
+**火币生态链**（拂晓大陆）
+
+* 规格: `HRC20`
+* 精度: `18`
+* 智能合约地址：`0x56746a8099a7e6D962802A23e01FeDdc1282cDAe`
 
 ## ![&#x706B;](../../.gitbook/assets/fireicon.png) 火
 
@@ -58,6 +76,12 @@
 * 精度: `18`
 * 智能合约地址（波场）：`TSxvo3HsdfWpg1Z6KGrLa14Ap56aFKk1bz`
 
+**火币生态链**（拂晓大陆）
+
+* 规格: `HRC20`
+* 精度: `18`
+* 智能合约地址：`0xe97C7F83ec91E29569f1a08De95ad3Bb0e8B6B3A`
+
 ## ![&#x571F;](../../.gitbook/assets/soilicon.png) 土
 
 **以太坊**（亚特兰蒂斯大陆）
@@ -71,4 +95,10 @@
 * 规格: `TRC20`
 * 精度：`18`
 * 智能合约地址（波场）：`TQZDHQw6evUsACqT14pCVMvbTXMZbarFtt`
+
+**火币生态链**（拂晓大陆）
+
+* 规格: `HRC20`
+* 精度: `18`
+* 智能合约地址：`0x81989cD57271565DBFfe9807E917Afc098B30c9A`
 
