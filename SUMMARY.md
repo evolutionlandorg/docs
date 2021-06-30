@@ -6,6 +6,8 @@
 
 * [What is Evolution Land](overview/what-is-evolution-land.md)
 * [What's New](overview/whats-new/README.md)
+  * [Are you ready for 'The Gold Rush'?](overview/whats-new/are-you-ready-for-the-gold-rush.md)
+  * [The Dawning has arrived!](overview/whats-new/the-dawning-has-arrived.md)
   * [Treasure box lucky drop. Win free limited mining drill!](overview/whats-new/treasure-box-airdrop-event.md)
   * [Evolution Land Announces New Breeding And Reward Mechanics Powered By Chainlink VRF](overview/whats-new/partnership-with-chainlink-for-random-number-generator.md)
 * [Community](overview/community.md)
