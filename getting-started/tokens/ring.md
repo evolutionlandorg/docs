@@ -39,14 +39,14 @@ Yes, RING on various blockchain networks is of the same value. They are all back
 
 You can buy or sell RING through these channels:
 
-- In-game Grintgott Bank
-- Decentralized Exchange
-- Centralized Exchange
+* In-game Grintgott Bank
+* Decentralized Exchange
+* Centralized Exchange
 
 Continents have different means to buy/sell RING:
 
-- Atlantis Continent (Ethereum): [How to buy/sell RING](/tutorials/atlantis-ethereum/how-to-buy-sell-ring.md)
-- Byzantine Continent (Tron): [How to buy/sell RING](/tutorials/byzantine-tron/how-to-buy-sell-ring.md)
+* Atlantis Continent \(Ethereum\): [How to buy/sell RING](../../tutorials/atlantis-ethereum/how-to-buy-sell-ring.md)
+* Byzantine Continent \(Tron\): [How to buy/sell RING](../../tutorials/byzantine-tron/how-to-buy-sell-ring.md)
 
 ### What is the unclaimed RING?
 

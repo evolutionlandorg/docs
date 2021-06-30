@@ -35,7 +35,7 @@ Orange\(Mine\): The land that you successfully bought and has claimed.
 3. Light green\(First sale\): The land sold officially. You can participate in the auction. By buying these lands, you will get more points to join the lottery.
 4. Yellow\(Scenery\): Lands composed of roads, lakes, plants, buildings, etc. They cannot be bought or sold.
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/resource-legend.png)
 
 ### What's a land named Reserved/Mystical?
 

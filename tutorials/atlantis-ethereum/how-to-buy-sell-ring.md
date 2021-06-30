@@ -2,17 +2,16 @@
 
 You can buy or sell RING through these channels:
 
-- In-game Grintgott Bank
-- Decentralized Exchange
-- Centralized Exchange
+* In-game Grintgott Bank
+* Decentralized Exchange
+* Centralized Exchange
 
 ## Gringott Bank
 
 Gringott Bank is the in-game bank that allows you to buy or sell RING using the network's native token, such as ETH or TRX, according to the continent you are on, whether it's Atlantis \(ETH\) or Byzantine \(TRX\). Behind the scene, Gringott Bank links to a liquidity pool, Uniswap \(Atlantis\) and Justswap \(Byzantine\), to provide the liquidity.
 
-* ![Gringott](../../.gitbook/assets/gringott.png)[Gringott Bank on the Atlantis Continent \(Ethereum\)](https://www.evolution.land/land/1/bank/buy-ring)
-
-* ![Gringott](../../.gitbook/assets/gringott.png)[Gringott Bank on the Byzantine Continent \(Tron\)](https://www.evolution.land/land/2/bank/buy-ring)
+* ![Gringott](../../.gitbook/assets/advanced-trading-gringott-bank-cn-1.png)[Gringott Bank on the Atlantis Continent \(Ethereum\)](https://www.evolution.land/land/1/bank/buy-ring)
+* ![Gringott](../../.gitbook/assets/advanced-trading-gringott-bank-cn-1.png)[Gringott Bank on the Byzantine Continent \(Tron\)](https://www.evolution.land/land/2/bank/buy-ring)
 
 ## DEX
 

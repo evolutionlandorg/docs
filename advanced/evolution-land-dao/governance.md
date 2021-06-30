@@ -12,15 +12,15 @@ We will discuss with the Evolution Land residents to build a public management m
 
 ## Governor and Voting Power
 
-![Voting Power Source](../../.gitbook/assets/voting-power-en.png)
+![Voting Power Source](../../.gitbook/assets/voting-power_en.png)
 
 Anyone who has a stake in the game has a say in the governance process. They have various influence levels normalized as Voting Power.
 
-| Demographic                                                    | Voting Power \(VP\)      |
-| :------------------------------------------------------------- | :----------------------- |
-| [Land](../../getting-started/game-entities/land.md) Owners     | Each Land = 100 VP       |
-| [Apostle](../../getting-started/game-entities/apostle/) Owners | Each Apostle = 1 VP      |
-| [KTON](../../getting-started/tokens/kton.md) stakers           | Each staked KTON = 10 VP |
+| Demographic | Voting Power \(VP\) |
+| :--- | :--- |
+| [Land](../../getting-started/game-entities/land.md) Owners | Each Land = 100 VP |
+| [Apostle](../../getting-started/game-entities/apostle/) Owners | Each Apostle = 1 VP |
+| [KTON](../../getting-started/tokens/kton.md) stakers | Each staked KTON = 10 VP |
 
 [KTON](../../getting-started/tokens/kton.md) stakers refers to those who stake KTON into governance locking contract. Voting Power generates from those locked KTON. Once staked, the user needs to wait 14 days before he can withdraw these KTONs. Every time a user makes a new deposit, it will extend its lock time.
 

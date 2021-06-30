@@ -2,16 +2,15 @@
 
 You can buy or sell RING through these channels:
 
-- In-game Grintgott Bank
-- Decentralized Exchange
-- Centralized Exchange
+* In-game Grintgott Bank
+* Decentralized Exchange
+* Centralized Exchange
 
 ## Gringott Bank
 
 You can exchange RING and HT through Mdex in Gringott Bank. The current price of RING is determined by the latest transaction price of Mdex and the amount of player's order. RING's exchange will cost HT as gas fee, and Evolution Land will not charge an additional gas fee.
 
 ![Gringott](../../.gitbook/assets/tutorials-dawning-heco-how-to-buy-sell-ring-en-1.jpg)
-
 
 ## DEX
 
@@ -26,7 +25,8 @@ On the Byzantine Continent \(Tron\):
 
 * Justswap: [RING/TRX](https://justswap.io/#/scan/detail/trx/TL175uyihLqQD656aFx3uhHYe1tyGkmXaW)
 
-On the Dawning Continent (Heco):
+On the Dawning Continent \(Heco\):
+
 * Mdex：[MDEX.COM](https://ht.mdex.com/#/swap)
 
 ## CEX

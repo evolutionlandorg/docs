@@ -18,11 +18,11 @@ Select "My Pets" from the menu to access
 
 Select Pet Source and Kitty. Only kitties owned by the player's signed-in address will be shown. Click on the kitty to tame.
 
-![Choose the Apostle to bind with](../../.gitbook/assets/pet3.png)
+![Choose the Apostle to bind with](../../.gitbook/assets/tutorials-atlantis-ethereum-how-to-tame-a-pet-cn-3.png)
 
 Select an Apostle Master to bound the selected Kitty.
 
-![Tx waiting](../../.gitbook/assets/pet4.png)
+![Tx waiting](../../.gitbook/assets/tutorials-atlantis-ethereum-how-to-tame-a-pet-cn-4.png)
 
 Waiting for the transaction to be confirmed
 
@@ -30,15 +30,15 @@ Waiting for the transaction to be confirmed
 
 Kitty Tamed! Kitty's status is updated.
 
-![They are together now](../../.gitbook/assets/pet6.png)
+![They are together now](../../.gitbook/assets/tutorials-atlantis-ethereum-how-to-tame-a-pet-cn-5.png)
 
 Apostle with Pet in list view.
 
-![Apostle&apos;s View](../../.gitbook/assets/pet7.png)
+![Apostle&apos;s View](../../.gitbook/assets/tutorials-atlantis-ethereum-how-to-tame-a-pet-cn-6.png)
 
 Apostle with Pet in detail view.
 
-![Mining Enhanced](../../.gitbook/assets/pet8.png)
+![Mining Enhanced](../../.gitbook/assets/tutorials-atlantis-ethereum-how-to-tame-a-pet-cn-7.png)
 
 [Mining Ability Enhanced](../../getting-started/game-entities/apostle/skills.md#productivity). Apostle with a pet has better minging output than without.
 

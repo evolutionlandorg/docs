@@ -18,7 +18,7 @@ Evolution Land plans to release new gameplays of constructing buildings that pla
 
 ## SDK
 
-A client-side javascript SDK library is already open sourced on the github. 
+A client-side javascript SDK library is already open sourced on the github.
 
 ```javascript
 const evo = new Evolution();

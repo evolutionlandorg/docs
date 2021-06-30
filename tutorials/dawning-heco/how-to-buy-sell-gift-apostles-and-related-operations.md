@@ -2,29 +2,28 @@
 
 ## How to buy apostle?
 
-Log in to the Evolution Land---DAWNING, click on the apostle and you will see all the official apostles on the DAWNING. 
-   
-(After the first generation of apostles on Dawning has all sold out, players can buy apostles in the market that are being sold by other players)
-   
+Log in to the Evolution Land---DAWNING, click on the apostle and you will see all the official apostles on the DAWNING.
+
+\(After the first generation of apostles on Dawning has all sold out, players can buy apostles in the market that are being sold by other players\)
+
 ![](../../.gitbook/assets/tutorials-dawning-heco-how-to-buy-sell-apostles-and-related-operations-en-1.jpg)
 
 Click on "More" to see the market: including "All", "On sale", "For Breed" and "For Recruit".
 
 > “On sale”: The apostles that other players are selling and you can purchase directly;
-
+>
 > “For Breed”: The apostles that other players hang out to breed to earn RING. You can choose one you like to breed with your apostle, and the new baby apostle they born will be owned by you;
-
+>
 > “For Recruit”: The apostles that other players hang out to work to earn RING, you can hire the apostle to work on your land.
 
 ![](../../.gitbook/assets/tutorials-dawning-heco-how-to-buy-sell-apostles-and-related-operations-en-2.jpg)
 
 Click on the apostle, the pop-up window on the right will show the details of the apostle \(including price, talent, introduction, attributes, parents and children, etc., where the life of the apostle is "XXX week"\). After confirming the information, you can click on "Bid" and confirm the order in the new pop-up window by clicking "Bid" again.
-   
+
 ![](../../.gitbook/assets/tutorials-dawning-heco-how-to-buy-sell-apostles-and-related-operations-en-3.jpg)
 
-
 At this moment, the apostle bidden by you will be displayed in “Bid”. If no other player bid the land at a higher price within 10 minutes, the apostle will be yours. Then the apostle will be displayed in “unclaimed”.
-   
+
 ![](../../.gitbook/assets/tutorials-dawning-heco-how-to-buy-sell-apostles-and-related-operations-en-4.jpg)
 
 ## Where is my apostle?

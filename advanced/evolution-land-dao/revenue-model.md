@@ -44,9 +44,9 @@ The allocation percentage is subject to the governance process.
 
 This is also called the lottery pool. When players spent some money in the game, they are rewarded with Points that act as lottery tickets. Players can use them in the "Happy Lottery" gameplay to win a grand prize. The prize pool is filled up by this lottery tax from each spending transaction.
 
-Check out [Point and Lottery](/getting-started/game-entities/lottery.md) for more information.
+Check out [Point and Lottery](../../getting-started/game-entities/lottery.md) for more information.
 
-{% page-ref page="/getting-started/game-entities/lottery.md" %}
+{% page-ref page="../../getting-started/game-entities/lottery.md" %}
 
 ### Content Contribution Incentive Pool
 

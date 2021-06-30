@@ -2,7 +2,7 @@
 
 DAWNING Continent, the fourth Continent on the Evolution Land, is based on the Huobi ECO Chain. HT is the cryptocurrency used in the DAWNING, and its value fluctuates with the market.
 
-Players need to convert fiat money (US dollars, Canadian dollars, Pounds, etc.) into HT to pay for gas in the DAWNING - such as buying RING, buying land, etc.
+Players need to convert fiat money \(US dollars, Canadian dollars, Pounds, etc.\) into HT to pay for gas in the DAWNING - such as buying RING, buying land, etc.
 
 Players cannot use fiat money to purchase RING or other assets on the Evolution Land - the fiat money needs to be converted to HT first.
 
@@ -30,8 +30,6 @@ Download link：[https://token.im/?locale=en-us](https://token.im/?locale=en-us)
 
 ![](../../.gitbook/assets/tutorials-dawning-heco-how-to-register-en-1.jpg)
 
-
-
 ### 2. Use"Mathwallet"
 
 Download link： [http://www.mathwallet.org/en/](http://www.mathwallet.org/en/)
@@ -41,3 +39,4 @@ Download link： [http://www.mathwallet.org/en/](http://www.mathwallet.org/en/)
 * Find "Evolution Land" in "Dapps" and click to register.
 
 ![](../../.gitbook/assets/tutorials-dawning-heco-how-to-register-en-2.jpg)
+
