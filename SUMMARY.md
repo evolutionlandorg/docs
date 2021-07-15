@@ -67,6 +67,7 @@
   * [治理](advanced/evolution-land-dao/governance.md)
   * [分红](advanced/evolution-land-dao/dividends.md)
 * [淘金热](advanced/gold-rush.md)
+* [农场](advanced/nong-chang.md)
 
 ## 教程 <a id="tutorials"></a>
 
