@@ -26,7 +26,7 @@ LP Token could be used to upgrade drills in Furnance or mining in Farm.
 
 _Yield Farming_
 
-Players who provide liquidity for Evolution Land will be rewarded because it brings them some risks. Like other Defi app, you should generate LP Token and stake them in Farm. APY will show on the windows.
+Players who provide liquidity for Evolution Land will be rewarded because it brings them some risks. Like other Defi app, you should generate LP Token and stake them in Farm. APR will show on the windows.
 
 ![Farm in Gringotts](../.gitbook/assets/image%20%2821%29.png)
 

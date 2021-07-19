@@ -6,6 +6,12 @@ In Evolution Land, RING is used as currency to pay for service fees, trading tax
 
 {% page-ref page="../../getting-started/tokens/ring.md" %}
 
+## **What is Resource?**
+
+In Evolution Land, Resources are used as the most important functional token. Till now, it could be used to 1. Enhance the apostles' mining efficiency. 2. Upgrade props. 3. Earn rewards in Farm. It could be widely used in Crafting and combat systems.
+
+{% page-ref page="../../getting-started/tokens/resource.md" %}
+
 ## **What is KTON?**
 
 In Evolution Land, KTON is used as **a governance token**. Players can voluntarily lock their KTON into a governance contract \(minimum 14 days lock time\) to receive voting power. These voting power can vote for governance proposals within the continent to affect the evolution of the game. In return, these "governor" players will have the right to receive game **revenue dividends** \(30% of all revenue\), proportionally to their stake percentage of all locked KTONs.
