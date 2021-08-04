@@ -4,6 +4,14 @@
 
 At present, the land on DAWNING has been opened for sale. Log in and click on "START GAME V2.0", then choose to enter DAWNING, you will see all the lands on DAWNING.
 
+The fourth continent of Evolution Land, Dawning continent; based on the Huobi ECO Chain, will have a total of **2025** lands.
+
+Evolution Land will reserve **298** Lands. In addition to the core area resource lands, there are also gold mines 🏗 , forests 🌲 , lakes 🌊 , volcanoes 🌋 , hills⛰️, and other lands, which will be used for rewards distribution.
+
+**1000** Lands will be reserved for rewarding our supporters during the Crab and Darwinia Network Parachain Lease Offerings over the course of the lease time \(two years.\)
+
+The remaining **727** Lands will be sold by auction.
+
 After you click on the land you want to purchase, the detailed information of the land will be popped up on the right side \(including price, resource status, seller, etc., where the amount of GOLD/WOOD/HHO/FIRE/SIOO resources is the maximum for digging every day\).
 
 After confirming the information \(the land must be in the auction, that is, the color of the land is green\), you can click “Bid with RING” in the pop-up window and wait for the transaction confirmation.
