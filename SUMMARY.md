@@ -14,6 +14,7 @@
   * [进化星球宣布由去中心化预言机 Chainlink VRF 支持的新使徒繁育和游戏奖励机制](overview/zui-xin-dong-tai/partnership-with-chainlink-for-random-number-generator.md)
 * [社区](overview/community.md)
 * [开发者](overview/developers.md)
+* [Evo Tool](overview/evo-tool.md)
 * [反馈与帮助](overview/feedback-and-support.md)
 * [引荐计划](overview/referral-program.md)
 * [常见问题](overview/faq/README.md)
