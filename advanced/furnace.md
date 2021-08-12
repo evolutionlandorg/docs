@@ -58,14 +58,33 @@ The Evolution Land Furnace will also work with NFTs from our partners or other e
 
 ### Prop replacement rules
 
+1. Drills in the protection period could not be replaced by any other drills
+2. Landowners could grab **ANY** slots, not in the protection period on their lands. \(Also, if the landowner sets a low-class and low-level drill, others could grab back.\)
+3. 
+```text
 Prop A: New, props to be deployed
-
 Prop B: Props that have been deployed on the equipment bar
+    The replacement of prop A/prop B can happen under any of the following conditions(if prop B is not within the protection period):
+        The class of prop A is higher than the class of prop B
+        The class of prop A is equal to the class of prop B
+            The level of prop A is higher than the level of prop B
 
-* **The replacement of prop A/prop B can happen under any of the following conditions**\(if prop B is not within the protection period\):
-  * Class of prop A is higher than class of prop B
-  * Class of prop A is equal to class of prop B
-    * Level of prop A is higher than level of prop B
+Examples:
+
+Tips: 1-3 means Class 1 Level 3 
+
+Class: Could be upgraded by add resources token or resources - RING LP token
+
+Level: Couldn't be upgraded
+
+1. Could others use 1-1 drills out of protection period to grab the slot with landowners 1-3 drills? (No)
+2. Could others use 1-3 drills out of protection period to grab the slot with landowners 1-3 drill? (No)
+3. Could others use 2-1 drills out of protection period to grab the slot with landowners 1-3 drills? (Yes)
+4. Could others use 1-3 drills out of protection period to grab the slot with landowners 1-2 drill? (Yes)
+5. Could I use 1-3 drills to grab the slot with other's 2-3 drills out of protection period on my land? (Yes)
+6. Could others grab the slots with 1-3 drill with his 1-3 drill? (No)
+7. Could others grab the slots with 1-3 drill with his 2-1 drill? (Yes)
+```
 
 ## Drill NFT
 
@@ -121,6 +140,11 @@ The efficiency and formulas for different drills are as follows:
 The base efficiency bonus is the sum of the resources excavated by all the apostles on the land where the drill is placed. For example, if there are 5 apostles working on the land, 3 apostles produce 5 FIRE per day, and 2 apostles produce 2 HHO per day, setting a FIRE enhanced class 2 level 3 drill will bring you 5\*\(60+60\)%=6 FIRE per day.
 
 When a Drill\(higher than class 0\) is deployed to inventory, it enjoys a certain period of protection; during which, the item replacement rule is suppressed. This grace period is a globally manageable variable, and at some point in the future, the Drill owner will be able to consume a certain potion to extend it.
+
+### Protection Rule :
+
+1. Protection period WON'T re-calculate after withdrawing from land if it is in the protection period.
+2. Protection period COULD re-calculate after withdrawing from land after its protection period ends.
 
 ### Total Drill Supply
 
