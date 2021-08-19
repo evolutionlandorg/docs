@@ -14,7 +14,7 @@ EVO Tools 是用与 EVO 合约交互的一套命令行工具集. 它基于 `dapp
 
 ```text
 # user must be in sudoers
-curl -L <https://nixos.org/nix/install> | sh
+curl -L https://nixos.org/nix/install | sh
 
 # Run this or login again to use Nix
 . "$HOME/.nix-profile/etc/profile.d/nix.sh"
@@ -23,7 +23,7 @@ curl -L <https://nixos.org/nix/install> | sh
 1. 运行安装脚本
 
 ```text
-curl <https://gist.githubusercontent.com/hujw77/ce3d9ed102de1fa1c9eba7754459333a/raw/5ec0e1a2a249e77e87753f4317f642cdf75283be/install.sh> | sh
+curl https://gist.githubusercontent.com/hujw77/ce3d9ed102de1fa1c9eba7754459333a/raw/5ec0e1a2a249e77e87753f4317f642cdf75283be/install.sh | sh
 ```
 
 ## 配置
