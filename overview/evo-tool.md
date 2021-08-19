@@ -23,7 +23,7 @@ curl -L https://nixos.org/nix/install | sh
 1. 运行安装脚本
 
 ```text
-curl https://gist.githubusercontent.com/hujw77/ce3d9ed102de1fa1c9eba7754459333a/raw/5ec0e1a2a249e77e87753f4317f642cdf75283be/install.sh | sh
+curl https://gist.githubusercontent.com/hujw77/ce3d9ed102de1fa1c9eba7754459333a/raw/2a585cf05cbb123502abc6ce3291da311d4fbab2/install.sh | sh
 ```
 
 ## 配置
