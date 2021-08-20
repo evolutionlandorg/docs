@@ -36,6 +36,7 @@ evo.ethEvoland.buyRing(10000)
 
 * Read the [docs](https://evolutionland.js.org)
 * Visit the code [repo](https://github.com/evolutionlandorg/js-sdk)
+* Visit the [EVO-Tools](evo-tools.md)
 
 ## Smart-contract Interaction
 

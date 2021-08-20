@@ -12,6 +12,7 @@
   * [Evolution Land Announces New Breeding And Reward Mechanics Powered By Chainlink VRF](overview/whats-new/partnership-with-chainlink-for-random-number-generator.md)
 * [Community](overview/community.md)
 * [Developers](overview/developers.md)
+* [Evo Tools](overview/evo-tools.md)
 * [Feedback & Support](overview/feedback-and-support.md)
 * [Referral Program](overview/referral-program.md)
 * [FAQ](overview/faq/README.md)
