@@ -2,7 +2,7 @@
 description: Evo合约交互命令工具集
 ---
 
-# Evo Tool
+# Evo Tools
 
 ## 简介
 
