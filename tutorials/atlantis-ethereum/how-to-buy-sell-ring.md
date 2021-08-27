@@ -28,6 +28,10 @@
 
 * Justswap: [RING / TRX](https://justswap.io/#/scan/detail/trx/TL175uyihLqQD656aFx3uhHYe1tyGkmXaW)
 
+**拂晓大陆（火币生态链）：**
+
+* Mdex: [RING/HT](https://ht.mdex.co/#/swap)
+
 ## 中心化交易所
 
 在中心化交易所，流动性一般比较充裕，但需要进行代币的充值后进行交易。这里列出了一些，你可以查询 [coinmarketcap](https://coinmarketcap.com/currencies/darwinia-network/markets/) 了解更多支持 RING 的交易所。
