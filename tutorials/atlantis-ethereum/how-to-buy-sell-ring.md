@@ -26,6 +26,10 @@ On the Byzantine Continent \(Tron\):
 
 * Justswap: [RING/TRX](https://justswap.io/#/scan/detail/trx/TL175uyihLqQD656aFx3uhHYe1tyGkmXaW)
 
+On the Dawning Continent\(Heco\):
+
+* Mdex: [RING/HT](https://ht.mdex.co/#/swap)
+
 ## CEX
 
 CEX stands for Centralized Exchange. You can also buy or sell RING at many CEX. The following list shows a few. You can check out [coinmarketcap](https://coinmarketcap.com/currencies/darwinia-network/markets/) for more information.
