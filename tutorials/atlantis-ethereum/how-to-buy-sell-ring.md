@@ -21,7 +21,7 @@
 
 **亚特兰蒂斯大陆（以太坊网络）**:
 
-* Uniswap\(v2\): [RING / ETH](https://info.uniswap.org/token/0x9469d013805bffb7d3debe5e7839237e535ec483)
+* Uniswap\(v2\): [RING / ETH](https://v2.info.uniswap.org/pair/0xa32523371390b0cc4e11f6bb236ecf4c2cdea101)
 * 1inch Exchange: [RING / ETH](https://1inch.exchange/#/RING/ETH)
 
 **拜占庭大陆（波场网络）**:
