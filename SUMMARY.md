@@ -92,4 +92,7 @@
   * [如何购买/出售RING？](tutorials/fu-xiao-da-lu-huo-bi-sheng-tai-lian/how-to-buy-sell-ring.md)
   * [购买/出售/赠送地块以及地块的相关操作](tutorials/fu-xiao-da-lu-huo-bi-sheng-tai-lian/how-to-buy-sell-gift-lands-and-related-operations.md)
   * [购买/出售使徒以及使徒的相关操作](tutorials/fu-xiao-da-lu-huo-bi-sheng-tai-lian/how-to-buy-sell-gift-apostles-and-related-operations.md)
+* [伊甸大陆 - 马蹄链](tutorials/yi-dian-da-lu-ma-ti-lian/README.md)
+  * [马蹄链相关知识](tutorials/yi-dian-da-lu-ma-ti-lian/ma-ti-lian-xiang-guan-zhi-shi.md)
+  * [如何购买/出售RING](tutorials/yi-dian-da-lu-ma-ti-lian/ru-he-gou-mai-chu-shou-ring.md)
 
