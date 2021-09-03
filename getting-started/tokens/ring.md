@@ -28,6 +28,10 @@ RING is inflated at a rate of around 5% by the Darwinia Network to pay validator
   * Spec: `HRC20`
   * Precision: `18`
   * Smart Contract Address\(Heco\): `0x15e65456310ecb216B51EfBd8a1dBf753353DcF9`
+* Polygon \(the Eden Continent\)
+  * Spec: `ERC20`
+  * Precision: `18`
+  * Smart Contract Address\(Polygon\): `0x9C1C23E60B72Bc88a043bf64aFdb16A02540Ae8f`
 
 ## FAQ
 
