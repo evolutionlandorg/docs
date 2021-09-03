@@ -40,5 +40,5 @@ Apostle with Pet in detail view.
 
 ![Mining Enhanced](../../.gitbook/assets/tutorials-atlantis-ethereum-how-to-tame-a-pet-cn-7.png)
 
-[Mining Ability Enhanced](../../getting-started/game-entities/apostle/skills.md#productivity). Apostle with a pet has better minging output than without.
+[Mining Ability Enhanced](../game-entities/apostle/skills.md#productivity). Apostle with a pet has better minging output than without.
 
