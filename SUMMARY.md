@@ -6,6 +6,7 @@
 
 * [What is Evolution Land](overview/what-is-evolution-land.md)
 * [What's New](overview/whats-new/README.md)
+  * [Eden has arrived](overview/whats-new/eden-has-arrived.md)
   * [Presale of Eden Continent Pack Started!](overview/whats-new/presale-of-eden-continent-pack-started.md)
   * [Are you ready for 'The Gold Rush'?](overview/whats-new/are-you-ready-for-the-gold-rush.md)
   * [The Dawning has arrived!](overview/whats-new/the-dawning-has-arrived.md)
