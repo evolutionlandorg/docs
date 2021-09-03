@@ -46,6 +46,12 @@ RING 被达尔文网络设定为以大约 5% 的速率膨胀，以支付验证�
 * 精度：18
 * 智能合约地址：0x15e65456310ecb216B51EfBd8a1dBf753353DcF9
 
+马蹄链（伊甸大陆）
+
+* 规格：ERC20
+* 精度：18
+* 智能合约地址：0x9C1C23E60B72Bc88a043bf64aFdb16A02540Ae8f
+
 
 
 ## 常见问题
@@ -71,6 +77,7 @@ RING 被达尔文网络设定为以大约 5% 的速率膨胀，以支付验证�
 * 亚特兰蒂斯大陆（以太坊网络）：[如何购买/出售 RING](../../tutorials/atlantis-ethereum/how-to-buy-sell-ring.md)
 * 拜占庭大陆（波场网络）：[如何购买/出售 RING](../../tutorials/byzantine-tron/how-to-buy-sell-ring.md)
 * 拂晓大陆（火币生态链）：[如何购买/出售 RING](https://docs.evolution.land/v/simplified-chinese/tutorials/fu-xiao-da-lu-huo-bi-sheng-tai-lian/how-to-buy-sell-ring)
+* 伊甸大陆（马蹄链）：[如何购买/出售 RING](../../tutorials/yi-dian-da-lu-ma-ti-lian/ru-he-gou-mai-chu-shou-ring.md)
 
 ### 什么是可领取的 RING？
 

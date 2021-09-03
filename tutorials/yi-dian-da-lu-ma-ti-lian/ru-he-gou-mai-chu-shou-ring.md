@@ -1,4 +1,4 @@
-# 如何购买/出售RING
+# 如何购买/出售RING？
 
 
 
@@ -48,4 +48,10 @@
 * [CoinEX](https://www.coinex.com/trading?currency=usdt&dest=ring&tab=limit)
 * [Poloniex](https://poloniex.com/exchange#usdt_ring)
 * [Hoo](https://hoo.com/spot/ring-usdt)
+
+## 跨链桥
+
+通过Polygon官方的跨链桥，可以将以太坊大陆的RING跨链到Polygon链上。
+
+[https://wallet.matic.network/bridge/](https://wallet.matic.network/bridge/)
 
