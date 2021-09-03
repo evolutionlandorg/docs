@@ -86,4 +86,7 @@
   * [How to buy/sell RING?](tutorials/dawning-heco/how-to-buy-sell-ring.md)
   * [How to buy/sell/gift 【lands】 and related operations](tutorials/dawning-heco/how-to-buy-sell-gift-lands-and-related-operations.md)
   * [How to buy/sell/gift 【apostles】 and related operations](tutorials/dawning-heco/how-to-buy-sell-gift-apostles-and-related-operations.md)
+* [Eden - Polygon](tutorials/eden-polygon/README.md)
+  * [How to buy RING](tutorials/eden-polygon/how-to-buy-ring.md)
+  * [How to register](tutorials/eden-polygon/how-to-register.md)
 
