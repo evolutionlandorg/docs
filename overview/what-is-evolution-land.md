@@ -42,5 +42,5 @@ Players own NFT land where they can put on NFT mining tools “Drills” and min
 
 ## Evolution Land White Paper
 
-[Click to get Evolution Land whitepaper](https://imgland.l2me.com/files/evolutionland/whitepaper_en.pdf?t=20181008).
+[Click to get Evolution Land whitepaper](https://evolution.l2me.com/files/evolutionland/whitepaper_en.pdf?t=20210705).
 
