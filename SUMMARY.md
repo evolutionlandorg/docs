@@ -2,6 +2,10 @@
 
 * [进化星球移民局](README.md)
 
+## 多语言版本
+
+* [русский](duo-yu-yan-ban-ben/russkii.md)
+
 ## 概览 <a id="overview"></a>
 
 * [进化星球是什么？](overview/what-is-evolution-land/README.md)
