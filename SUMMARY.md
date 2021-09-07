@@ -2,6 +2,10 @@
 
 * [Immigration Office](README.md)
 
+## Multi-Language
+
+* [русский](multi-language/russkii.md)
+
 ## Overview
 
 * [What is Evolution Land](overview/what-is-evolution-land.md)
@@ -88,8 +92,4 @@
   * [Land allocation](tutorials/eden-polygon/land-allocation.md)
   * [How to buy RING](tutorials/eden-polygon/how-to-buy-ring.md)
   * [How to register](tutorials/eden-polygon/how-to-register.md)
-
-## Multi-Language
-
-* [русский](multi-language/russkii.md)
 
