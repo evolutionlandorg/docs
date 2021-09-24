@@ -75,6 +75,7 @@
   * [Dividends](advanced/evolution-land-dao/dividends.md)
 * [Gold Rush](advanced/gold-rush.md)
 * [Farm](advanced/farm.md)
+* [Aposlte Adventure](advanced/aposlte-adventure.md)
 
 ## Tutorials
 
