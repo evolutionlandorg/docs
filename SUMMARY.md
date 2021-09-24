@@ -78,6 +78,7 @@
   * [分红](advanced/evolution-land-dao/dividends.md)
 * [淘金热](advanced/gold-rush.md)
 * [农场](advanced/nong-chang.md)
+* [使徒探险](advanced/shi-tu-tan-xian.md)
 
 ## 教程 <a id="tutorials"></a>
 
