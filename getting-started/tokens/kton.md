@@ -26,6 +26,10 @@ Due to KTON holders' nature being the long-term investors or those who would pay
   * Spec: Native
   * Precision: 9
   * Smart Contract Address: n/a
+* Polygon \(the Eden Continent\)
+  * Spec: `ERC20`
+  * Precision: `18`
+  * Smart Contract Address \(Polygon\): `0xE21b9bDA4ECeF9e4652BC5C6863F731C2151Ef28`
 
 ## How to get KTON?
 
