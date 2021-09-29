@@ -28,5 +28,5 @@ The magic potion shop may choose to distribute part of the income from the sale 
 
 ## Haberge Tax Mode
 
-This model is inspired by the Harberger Xax model, which introduces two concepts for how property ownership works: Citizens evaluate their property and pay taxes based on that price—self-assessment tax; Anyone can purchase your property at a price calculated based on the tax you pay. This will encourage citizens only to keep valuable assets and pay honest tax based on their real value.
+This model is inspired by the Harberger Tax model, which introduces two concepts for how property ownership works: Citizens evaluate their property and pay taxes based on that price—self-assessment tax; Anyone can purchase your property at a price calculated based on the tax you pay. This will encourage citizens only to keep valuable assets and pay honest tax based on their real value.
 
