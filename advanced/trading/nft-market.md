@@ -55,7 +55,7 @@ This revised Dutch auction lowers its price over time just like a typical one, b
 3. In the absence of a referee, the handling fee flows directly to the system revenue.
 4. If there is a referee, the referrer's reward is 20% of the handling fee, and the remaining 80% flows to the system revenue.
 
-![Initial Land Offering Auction](../../.gitbook/assets/advanced-evolution-land-dao-revenue-cn-1.png)
+![Initial Land Offering Auction](../../.gitbook/assets/advanced-evolution-land-dao-revenue-cn-1%20%282%29.png)
 
 ## External NFT Market
 

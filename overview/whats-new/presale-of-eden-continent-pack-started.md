@@ -6,9 +6,9 @@ description: Get earlier start in Eden Continent!
 
 The Polygon Presale Pack has been launched on the Opensea Ethereum network on August 24, 2021.
 
-![King Pack](../../.gitbook/assets/image%20%2839%29.png)
+![King Pack](../../.gitbook/assets/image%20%2839%29%20%281%29.png)
 
-![Landlord Pack](../../.gitbook/assets/image%20%2838%29.png)
+![Landlord Pack](../../.gitbook/assets/image%20%2838%29%20%282%29.png)
 
 There are 5 King Packs, each King Pack is riced at 13,706 USDC \(equivalent to 70% of the average price of the contents\) and contains 10 plots \(2 of which are mysterious plots\), 20 first-generation apostles, and 20 gold chests.
 

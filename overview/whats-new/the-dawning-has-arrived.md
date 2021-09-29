@@ -4,7 +4,7 @@ description: The fourth continent on Evolution Land
 
 # The Dawning has arrived!
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
 Dawning is the name of the fourth [Evolution Land](https://www.evolution.land/) Continent based on the HECO Chain, and will be officially launched on June 9!
 

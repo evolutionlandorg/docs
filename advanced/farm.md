@@ -28,7 +28,7 @@ _Yield Farming_
 
 Players who provide liquidity for Evolution Land will be rewarded because it brings them some risks. Like other Defi app, you should generate LP Token and stake them in Farm. APR will show on the windows.
 
-![Farm in Gringotts](../.gitbook/assets/image%20%2821%29.png)
+![Farm in Gringotts](../.gitbook/assets/image%20%2832%29.png)
 
 ![Operation Page](../.gitbook/assets/image%20%2823%29.png)
 
