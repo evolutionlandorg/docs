@@ -18,7 +18,7 @@ description: 自融资机制
 
 _注：税收和其他收入不断完善中，后期补充说明_
 
-![1-1](../../.gitbook/assets/advanced-evolution-land-dao-revenue-cn-1.png)
+![1-1](../../.gitbook/assets/advanced-evolution-land-dao-revenue-cn-1%20%282%29.png)
 
 议会通过治理程序决定上述所有税率和费用。总的来说，议会建立起了要分配的收入。
 

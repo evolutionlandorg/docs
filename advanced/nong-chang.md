@@ -20,7 +20,7 @@ description: EVE的馈赠
 
 这些LP Token可以在熔炉系统中升阶钻头，也可以在农场中进行流动性挖矿。
 
-![&#x53E4;&#x7075;&#x9601;-&#x6D41;&#x52A8;&#x6027;&#x754C;&#x9762;](../.gitbook/assets/image%20%2826%29.png)
+![&#x53E4;&#x7075;&#x9601;-&#x6D41;&#x52A8;&#x6027;&#x754C;&#x9762;](../.gitbook/assets/image%20%2818%29%20%281%29.png)
 
 ### 农场
 
@@ -28,9 +28,9 @@ description: EVE的馈赠
 
 就像其他的Defi应用一样，您需要生成LP Token后将其在农场中进行质押，界面上将会实时显示APR。
 
-![&#x53E4;&#x7075;&#x9601;-&#x519C;&#x573A;&#x754C;&#x9762;](../.gitbook/assets/image%20%2832%29.png)
+![&#x53E4;&#x7075;&#x9601;-&#x519C;&#x573A;&#x754C;&#x9762;](../.gitbook/assets/image%20%2832%29%20%281%29.png)
 
-![&#x8D28;&#x62BC;&#x754C;&#x9762;](../.gitbook/assets/image%20%2833%29.png)
+![&#x8D28;&#x62BC;&#x754C;&#x9762;](../.gitbook/assets/image%20%2823%29%20%281%29.png)
 
 Stake: 将LP Token质押在农场中，以开始获取收益
 

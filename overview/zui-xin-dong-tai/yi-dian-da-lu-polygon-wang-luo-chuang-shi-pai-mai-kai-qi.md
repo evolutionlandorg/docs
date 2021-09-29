@@ -6,9 +6,9 @@ description: 超值礼包享不停！
 
 Polygon创世包已经于2021年8月24日上线Opensea以太坊网络。
 
-![King Pack](../../.gitbook/assets/image%20%2841%29.png)
+![King Pack](../../.gitbook/assets/image%20%2839%29%20%282%29.png)
 
-![Landlord Pack](../../.gitbook/assets/image%20%2836%29.png)
+![Landlord Pack](../../.gitbook/assets/image%20%2838%29%20%281%29.png)
 
 共有5个King Pack，每个King Pack售价为13,706 USDC（相当于内容物均价的70%），包含10个地块（其中有2个是神秘地块），初代使徒20个，金宝箱20个。
 

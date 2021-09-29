@@ -44,5 +44,5 @@ description: 游戏玩家分享游戏的成功
 
 ## 举例说明
 
-![](../../.gitbook/assets/advanced-evolution-land-dao-revenue-cn-1%20%281%29.png)
+![](../../.gitbook/assets/advanced-evolution-land-dao-revenue-cn-1%20%282%29%20%281%29.png)
 

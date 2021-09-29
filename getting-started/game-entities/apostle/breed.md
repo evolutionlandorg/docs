@@ -43,7 +43,7 @@ description: 使徒的生育由遗传算法决定基因的继承、变异
 
 使徒的初始强壮指数由其代数决定，如下表所述。
 
-![&#x5F3A;&#x58EE;&#x6307;&#x6570;](../../../.gitbook/assets/getting-started-game-entities-apostle-breed-cn-1.png)
+![&#x5F3A;&#x58EE;&#x6307;&#x6570;](../../../.gitbook/assets/getting-started-game-entities-apostle-breed-cn-1%20%282%29.png)
 
 ## 使徒的家谱
 

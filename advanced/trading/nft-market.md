@@ -55,7 +55,7 @@ NFT 市场是你交易 NFT 资产的地方。每个 NFT 资产都是独一无二
 3. 在没有引荐人的情况下，手续费直接流入系统收入。
 4. 如果有引荐人，引荐人的奖励是手续费的 20%，剩下的 80% 流入系统收入。
 
-![&#x521B;&#x4E16;&#x5730;&#x5757;&#x62CD;&#x5356;](../../.gitbook/assets/advanced-evolution-land-dao-revenue-cn-1%20%281%29.png)
+![&#x521B;&#x4E16;&#x5730;&#x5757;&#x62CD;&#x5356;](../../.gitbook/assets/advanced-evolution-land-dao-revenue-cn-1%20%282%29%20%281%29.png)
 
 ## 外部 NFT 交易市场
 
