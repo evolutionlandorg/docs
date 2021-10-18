@@ -14,7 +14,7 @@ description: 了解进行星球的背景设定、玩法特点
 
 进化星球整合多种游戏玩法：经营、收藏、养成、基因、对战、竞拍等等，并在不断进化中。
 
-进化星球第一大陆亚特兰蒂斯大陆已部署于以太坊网络，第二大陆拜占庭大陆已部署于波场网络，第三大陆哥伦布大陆已部署于达尔文先行网Crab网络，第四大陆拂晓大陆已部署于火币生态链，均已上线土地买卖、使徒买卖、打工、资源获取、繁育等功能。
+进化星球第一大陆亚特兰蒂斯大陆已部署于以太坊网络，第二大陆拜占庭大陆已部署于波场网络，第三大陆哥伦布大陆已部署于达尔文先行网Crab网络，第四大陆拂晓大陆已部署于火币生态链，第五大陆伊甸大陆已部署于Polygon网络，均已上线土地买卖、使徒买卖、打工、资源获取、繁育等功能。
 
 **Play to Earn**
 
@@ -44,7 +44,9 @@ description: 了解进行星球的背景设定、玩法特点
 
 **为玩家所有**｜玩家真正拥有游戏。 玩家可以参与 Staking 以获得投票权。拥有投票权可以让玩家通过参与治理过程来推动游戏的进化，并从游戏收入中获得的分红受益。[了解更多](../../advanced/evolution-land-dao/)
 
-{% page-ref page="../../getting-started/get-started/" %}
+{% content-ref url="../../getting-started/get-started/" %}
+[get-started](../../getting-started/get-started/)
+{% endcontent-ref %}
 
 ## 技术特性
 
@@ -59,4 +61,3 @@ description: 了解进行星球的背景设定、玩法特点
 ## 进化星球白皮书
 
 [点击获取进化星球白皮书](https://imgland.l2me.com/files/evolutionland/whitepaper_cn.pdf?t=20181008)
-
