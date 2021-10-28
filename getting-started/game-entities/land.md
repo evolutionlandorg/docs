@@ -4,7 +4,7 @@ description: 土地，也叫「地块」
 
 # 土地
 
-[![Land \#A1345](../../.gitbook/assets/land-1.png)](https://www.evolution.land/land/1?gx=26&gy=42) [![Land \#A311](../../.gitbook/assets/land-2.png)](https://www.evolution.land/land/1?gx=50&gy=10) [![Land \#A1969](../../.gitbook/assets/land-3.png)](https://www.evolution.land/land/1?gx=11&gy=37) [![Land \#A1302](../../.gitbook/assets/land-4.png)](https://www.evolution.land/land/1?gx=11&gy=13) [![Land \#B538](../../.gitbook/assets/land-5.png)](https://www.evolution.land/land/2?gx=5&gy=33) [![Land \#B351](../../.gitbook/assets/land-6.png)](https://www.evolution.land/land/2?gx=44&gy=37)
+[![Land #A1345](../../.gitbook/assets/land-1.png)](https://www.evolution.land/land/1?gx=26\&gy=42) [![Land #A311](../../.gitbook/assets/land-2.png)](https://www.evolution.land/land/1?gx=50\&gy=10) [![Land #A1969](../../.gitbook/assets/land-3.png)](https://www.evolution.land/land/1?gx=11\&gy=37) [![Land #A1302](../../.gitbook/assets/land-4.png)](https://www.evolution.land/land/1?gx=11\&gy=13) [![Land #B538](../../.gitbook/assets/land-5.png)](https://www.evolution.land/land/2?gx=5\&gy=33) [![Land #B351](../../.gitbook/assets/land-6.png)](https://www.evolution.land/land/2?gx=44\&gy=37)
 
 每个地块的大小为 100m x 100m，高度没有限制（假设也是100m）。那么每个陆地都是一个三维的欧几里德空间。玩家可以在地块上建造建筑。建筑是由若干个 1m x 1m 的基本单元「方块」组成。
 
@@ -12,7 +12,7 @@ description: 土地，也叫「地块」
 
 地块下有 5 种可开采的[资源](resource/)，可开采量用最大资源衰减率（MRAR）表示。这意味着在全速状态下，每天可以开采的资源量达到最大。这种资源每天以大约 1/10000 的速度自然衰减。
 
-![&#x571F;&#x5730;&#x8D44;&#x6E90;&#x50A8;&#x5907;](../../.gitbook/assets/land-resource.png)
+![土地资源储备](../../.gitbook/assets/land-resource.png)
 
 在上示的地块详情页中, `90,-7` 是这个地块的坐标， `B769` 代表 B 大陆（拜占庭）, `地块 id` 是 `769`。
 
@@ -89,10 +89,9 @@ description: 土地，也叫「地块」
 4. 出价成功（30 分钟后无人继续竞拍）
 5. 购买成功
 
-注：购买成功后，可在「我的地块」&gt;&gt;「未领取」中查看并领取。
+注：购买成功后，可在「我的地块」>>「未领取」中查看并领取。
 
 **教程**
 
-* 亚特兰蒂斯大陆（以太坊网络）：[如何购买/出售/赠送地块]()
-* 拜占庭大陆（波场网络）：[如何购买/出售/赠送地块]()
-
+* 亚特兰蒂斯大陆（以太坊网络）：[如何购买/出售/赠送地块](broken-reference)
+* 拜占庭大陆（波场网络）：[如何购买/出售/赠送地块](broken-reference)

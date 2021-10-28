@@ -6,7 +6,7 @@
 
 * [русский](duo-yu-yan-ban-ben/russkii.md)
 
-## 概览 <a id="overview"></a>
+## 概览 <a href="overview" id="overview"></a>
 
 * [进化星球是什么？](overview/what-is-evolution-land/README.md)
   * [重大事件](overview/what-is-evolution-land/milestones.md)
@@ -31,7 +31,7 @@
   * [关于「拍卖」](overview/faq/auction-related.md)
   * [其他常见问题](overview/faq/others.md)
 
-## 基础入门 <a id="getting-started"></a>
+## 基础入门 <a href="getting-started" id="getting-started"></a>
 
 * [新手上路](getting-started/get-started/README.md)
   * [准备工作](getting-started/get-started/preparation.md)
@@ -65,8 +65,10 @@
   * [资源通证](getting-started/tokens/resource.md)
   * [COO](getting-started/tokens/coo.md)
 
-## 进阶玩家 <a id="advanced"></a>
+## 进阶玩家 <a href="advanced" id="advanced"></a>
 
+* [🚩 洞穴探险](advanced/dong-xue-tan-xian.md)
+* [🚩 使徒AFK](advanced/shi-tu-tan-xian.md)
 * [交易](advanced/trading/README.md)
   * [NFT 市场](advanced/trading/nft-market.md)
   * [古灵阁](advanced/trading/gringott-bank.md)
@@ -78,9 +80,8 @@
   * [分红](advanced/evolution-land-dao/dividends.md)
 * [淘金热](advanced/gold-rush.md)
 * [农场](advanced/nong-chang.md)
-* [使徒探险](advanced/shi-tu-tan-xian.md)
 
-## 教程 <a id="tutorials"></a>
+## 教程 <a href="tutorials" id="tutorials"></a>
 
 * [亚特兰蒂斯大陆 - 以太坊](tutorials/atlantis-ethereum/README.md)
   * [以太坊相关知识](tutorials/atlantis-ethereum/about-ethereum.md)
@@ -95,4 +96,3 @@
 * [伊甸大陆 - 马蹄链](tutorials/yi-dian-da-lu-ma-ti-lian/README.md)
   * [马蹄链相关知识](tutorials/yi-dian-da-lu-ma-ti-lian/ma-ti-lian-xiang-guan-zhi-shi.md)
   * [如何购买/出售RING？](tutorials/yi-dian-da-lu-ma-ti-lian/ru-he-gou-mai-chu-shou-ring.md)
-

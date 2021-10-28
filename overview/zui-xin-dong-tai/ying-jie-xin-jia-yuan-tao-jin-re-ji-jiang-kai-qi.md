@@ -4,7 +4,7 @@ description: Metaverse地产商进化星球表示 1 RING即可以旧换新，率
 
 # 迎接新家园—淘金热开启！
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](<../../.gitbook/assets/image (16).png>)
 
 ### 淘金前言
 
@@ -16,7 +16,7 @@ description: Metaverse地产商进化星球表示 1 RING即可以旧换新，率
 
 第一次进化星球淘金热活动将于2021年6月28日正式开启，活动报名时间持续7天！在亚特兰蒂斯与拜占庭拥有地块的玩家都可以参加本次淘金热活动！
 
-  
+\
 我们在拂晓大陆上预留了20个地块用于迁移。
 
 
@@ -28,6 +28,4 @@ description: Metaverse地产商进化星球表示 1 RING即可以旧换新，率
 活动指南：[https://docs.evolution.land/v/simplified-chinese/advanced/gold-rush](https://docs.evolution.land/v/simplified-chinese/advanced/gold-rush)
 
 拂晓大陆传送门：[https://www.evolution.land/land/4](https://www.evolution.land/land/4)
-
-
 
