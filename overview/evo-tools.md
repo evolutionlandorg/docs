@@ -12,7 +12,7 @@ EVO Tools is a set to interact with EVO contracts. It is developed based on `dap
 
 1. Install `Nix`
 
-```text
+```
 # user must be in sudoers
 curl -L https://nixos.org/nix/install | sh
 
@@ -20,9 +20,9 @@ curl -L https://nixos.org/nix/install | sh
 . "$HOME/.nix-profile/etc/profile.d/nix.sh"
 ```
 
-   2. Run the script
+&#x20;  2\. Run the script
 
-```text
+```
 curl https://gist.githubusercontent.com/hujw77/ce3d9ed102de1fa1c9eba7754459333a/raw/5ec0e1a2a249e77e87753f4317f642cdf75283be/install.sh | sh
 ```
 
@@ -30,7 +30,7 @@ curl https://gist.githubusercontent.com/hujw77/ce3d9ed102de1fa1c9eba7754459333a/
 
 The default configuration file: `~/.sethrc`
 
-```text
+```
 #!/usr/bin/env bash
 export ETH_FROM=0x4Ffa8667Fe2db498DCb95A322b448eA688Ce430c  #你的evo账户地址
 export SETH_CHAIN=crab                                      #网络配置 
@@ -41,7 +41,7 @@ export ETH_RPC_URL="<https://crab-rpc.darwinia.network>"      #可选,自定义r
 
 ## Check all EVO-NFTs in your address
 
-```text
+```
 ~ evo obj ls
 Count 17
 Index Class      Level TokenId
@@ -68,7 +68,7 @@ Tips: Higher level means greater quality
 
 ## Check the land information
 
-```text
+```
 ~ evo sts lnd 0x2a04000104000101000000000000000400000000000000000000000000000109 --chain heco
 ########## Mask ##############
 is_reserved 0   
@@ -111,7 +111,7 @@ Wood        0.000000000000000000   0.000000000000000000   0
 
 ## Check the apostle information
 
-```text
+```
 ~ evo sts apo 0x2a0400010400010200000000000000040000000000000000000000000000003b
 ####### Talent ##########
 LIFE  54(0)   MOOD  49(0)
@@ -127,7 +127,7 @@ basic 1.533333333333333333  #使徒基础挖矿能力,越高越好, 与力量*�
 
 ## Help
 
-```text
+```
 ~ evo help
 EVO - EVO Command Line Interface
 
@@ -178,4 +178,3 @@ Commands:
 
 Report bugs to <https://github.com/evolutionlandorg/evo-tools/issues>.
 ```
-

@@ -65,6 +65,7 @@
 
 ## Advanced
 
+* [Cave Explore](advanced/cave-explore.md)
 * [Trading](advanced/trading/README.md)
   * [NFT Market](advanced/trading/nft-market.md)
   * [Gringott Bank](advanced/trading/gringott-bank.md)
@@ -75,7 +76,7 @@
   * [Dividends](advanced/evolution-land-dao/dividends.md)
 * [Gold Rush](advanced/gold-rush.md)
 * [Farm](advanced/farm.md)
-* [Apostle Adventure](advanced/aposlte-adventure.md)
+* [Apostle AFK](advanced/aposlte-adventure.md)
 
 ## Tutorials
 
@@ -93,4 +94,3 @@
   * [Land allocation](tutorials/eden-polygon/land-allocation.md)
   * [How to buy RING](tutorials/eden-polygon/how-to-buy-ring.md)
   * [How to register](tutorials/eden-polygon/how-to-register.md)
-
