@@ -65,7 +65,8 @@
 
 ## Advanced
 
-* [Cave Explore](advanced/cave-explore.md)
+* [🚩 Cave Explore](advanced/cave-explore.md)
+* [🚩 Apostle AFK](advanced/aposlte-adventure.md)
 * [Trading](advanced/trading/README.md)
   * [NFT Market](advanced/trading/nft-market.md)
   * [Gringott Bank](advanced/trading/gringott-bank.md)
@@ -76,7 +77,6 @@
   * [Dividends](advanced/evolution-land-dao/dividends.md)
 * [Gold Rush](advanced/gold-rush.md)
 * [Farm](advanced/farm.md)
-* [Apostle AFK](advanced/aposlte-adventure.md)
 
 ## Tutorials
 
