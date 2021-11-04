@@ -2,7 +2,7 @@
 description: Apostle
 ---
 
-# Cave Explore
+# 🚩 Cave Explore
 
 Adventurers could start Cave Explore after locking the apostle team. (**Once confirmed, the team will be locked for 24 hours**)&#x20;
 
@@ -12,7 +12,7 @@ There is not enough COO for the apostle team to survive in the cave, so apostles
 
 Once starting a new Cave Explore, the corresponding COO will be deducted from the user's account.
 
-If you try to explore for several times in one day, it will cost double COO than last time until the cost goes to 1600 COO.
+If you try to explore for several times in one day, it will cost double COO than last time.
 
 
 
