@@ -11,7 +11,7 @@ The continents will be launched one by one. Four continents exist today, they ar
 * **the** [**Atlantis**](https://www.evolution.land/land/1) (Ethereum)&#x20;
 * **the** [**Byzantine**](https://www.evolution.land/land/2) (TRON)&#x20;
 * **the** [**Dawning**](http://www.evolution.land/land/4) (Heco)
-* **the **[**Eden**](http://www.evolution.land/land/5)** **(Polygon)
+* **the** [**Eden**](http://www.evolution.land/land/5) **** (Polygon)
 
 ![Atlantis](../../.gitbook/assets/continent-atlantis.png)
 

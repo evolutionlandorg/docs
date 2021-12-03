@@ -41,10 +41,32 @@ The element attribute of monsters will be changed every week.
 * The HP will be recovered 100% after finishing the boss stage.
 * A critical hit will bring 200% ATK.
 * Damage is calculated by (My ATK/10 - opposite DEF/100)
+* Rogue-Like Gameplay: After each stage, there will be an enhancement that the apostle team could select.
+
+### Rogue-Like Gameplay
+
+![](<../.gitbook/assets/Twitter 2的副本.png>)
+
+#### Opening Options
+
+Once you start your gameplay, you could pick an opening option. These options will help you to choose your team type.
+
+#### Buff
+
+During the exploration process, you could also get buffs if you completed the stage.
+
+The buffs are divided into 3 levels: Rare, Epic, and Legendary.
+
+For normal stage: 67% for a rare buff, 28% for an epic buff, 5% for a legendary buff.
+
+For boss stage: 100% for legendary buff
+
+The legendary buff will significantly enhance your apostle team ability and will affect the way to build your apostle team.
+
+Now, even the poor team could have the chance to slay the dragon!
 
 ### What's the next?
 
-* Rogue-Like Gameplay: After each stage, there will be an enhancement that the apostle team could select.
 * Career System: The diversity of apostles means different apostles could have different usages. Choose a career for your apostles to maximize their advantages.
 * Equipment System: Using materials and resources tokens to forge new weapons. It will make apostles have stronger abilities.
 * Hard Mode: In the hard mode, the difficulty of the adventure will increase sharply, of course, this also means better rewards

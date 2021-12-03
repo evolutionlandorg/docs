@@ -2,7 +2,7 @@
 
 Evolution Land is a wonderland full of tokens. All properties are represented by tokens owned by players. They are categorized into two groups:
 
-* **FT **(fungible tokens aka. ERC20/TRC20)&#x20;
+* **FT** (fungible tokens aka. ERC20/TRC20)&#x20;
 * **NFT** (non-fungible tokens aka. ERC721/TRC721).
 
 ## FT (Fungible Tokens)

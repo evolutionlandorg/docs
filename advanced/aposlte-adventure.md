@@ -2,7 +2,7 @@
 description: AFKWarriors of the land, assemble!
 ---
 
-# Apostle AFK
+# 🚩 Apostle AFK
 
 There is another magical world beneath the surface of Evolution Land. In this world, there are creatures with fangs and claws that are nourished by the elements.
 
