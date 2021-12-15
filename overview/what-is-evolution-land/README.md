@@ -16,9 +16,7 @@ description: 了解进行星球的背景设定、玩法特点
 
 进化星球第一大陆亚特兰蒂斯大陆已部署于以太坊网络，第二大陆拜占庭大陆已部署于波场网络，第三大陆哥伦布大陆已部署于达尔文先行网Crab网络，第四大陆拂晓大陆已部署于火币生态链，第五大陆伊甸大陆已部署于Polygon网络，均已上线土地买卖、使徒买卖、打工、资源获取、繁育等功能。
 
-**Play to Earn**
-
-玩家们可以通过在地块上部署使徒、钻头等道具获取地块中的元素资源，元素资源具有很高的价值，可以用于使徒生育、道具升级以及Yield Farming。未来还会有PVE、建筑等玩法为元素资源提供多种使用和消耗渠道。
+****
 
 **Metaverse**
 
@@ -60,4 +58,4 @@ description: 了解进行星球的背景设定、玩法特点
 
 ## 进化星球白皮书
 
-[点击获取进化星球白皮书](https://imgland.l2me.com/files/evolutionland/whitepaper_cn.pdf?t=20181008)
+[点击获取进化星球白皮书](https://imgland.l2me.com/files/evolutionland/whitepaper\_cn.pdf?t=20181008)
