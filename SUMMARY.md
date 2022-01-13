@@ -65,6 +65,8 @@
 
 ## Advanced
 
+* [🏫 Profession](advanced/profession.md)
+* [⚔ Equipment](advanced/equipment.md)
 * [🚩 Cave Explore](advanced/cave-explore.md)
 * [🚩 Apostle AFK](advanced/aposlte-adventure.md)
 * [Trading](advanced/trading/README.md)
