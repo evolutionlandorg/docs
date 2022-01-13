@@ -6,7 +6,7 @@
 
 * [русский](duo-yu-yan-ban-ben/russkii.md)
 
-## 概览 <a href="overview" id="overview"></a>
+## 概览 <a href="#overview" id="overview"></a>
 
 * [进化星球是什么？](overview/what-is-evolution-land/README.md)
   * [重大事件](overview/what-is-evolution-land/milestones.md)
@@ -31,7 +31,7 @@
   * [关于「拍卖」](overview/faq/auction-related.md)
   * [其他常见问题](overview/faq/others.md)
 
-## 基础入门 <a href="getting-started" id="getting-started"></a>
+## 基础入门 <a href="#getting-started" id="getting-started"></a>
 
 * [新手上路](getting-started/get-started/README.md)
   * [准备工作](getting-started/get-started/preparation.md)
@@ -65,8 +65,10 @@
   * [资源通证](getting-started/tokens/resource.md)
   * [COO](getting-started/tokens/coo.md)
 
-## 进阶玩家 <a href="advanced" id="advanced"></a>
+## 进阶玩家 <a href="#advanced" id="advanced"></a>
 
+* [🏫 职业](advanced/zhi-ye.md)
+* [⚔ 装备](advanced/zhuang-bei.md)
 * [🚩 洞穴探险](advanced/dong-xue-tan-xian.md)
 * [🚩 使徒AFK](advanced/shi-tu-tan-xian.md)
 * [交易](advanced/trading/README.md)
@@ -81,7 +83,7 @@
 * [淘金热](advanced/gold-rush.md)
 * [农场](advanced/nong-chang.md)
 
-## 教程 <a href="tutorials" id="tutorials"></a>
+## 教程 <a href="#tutorials" id="tutorials"></a>
 
 * [亚特兰蒂斯大陆 - 以太坊](tutorials/atlantis-ethereum/README.md)
   * [以太坊相关知识](tutorials/atlantis-ethereum/about-ethereum.md)

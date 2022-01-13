@@ -26,7 +26,7 @@
 
 &#x20;怪物的元素属性每周都会改变。
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17) (1).png>)
 
 ### 特殊机制
 
