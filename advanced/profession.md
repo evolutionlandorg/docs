@@ -8,7 +8,7 @@ ATK +3%
 
 Could equip Sword
 
-For Suard:
+For Guard:
 
 DEF +3%
 
