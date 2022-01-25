@@ -1,6 +1,6 @@
 # What is Evolution Land
 
-Evolution Land is the first Defi+NFT cross-chain game with each continent built on different blockchain networks, such as the first Atlantis continent. The game will have up to 26 continents, each of which is deployed on a different public chain. Four continents have been built so far and have been deployed on Ethereum (Atlantis Continent), Tron (Byzantine), Columbus (Crab Network), Dawning (Heco), and Eden(Polygon).&#x20;
+Evolution Land is the first **Metaverse+Gamefi+cross-chain game** with each continent built on different blockchain networks, such as the first Atlantis continent. The game will have up to 26 continents, each of which is deployed on a different public chain. Four continents have been built so far and have been deployed on Ethereum (Atlantis Continent), Tron (Byzantine), Columbus (Crab Network), Dawning (Heco) and Eden(Polygon).
 
 Evolution Land integrates various gameplays, including management, collection, education, gene, battle, auction, and game, which will continuously be evolving.
 
