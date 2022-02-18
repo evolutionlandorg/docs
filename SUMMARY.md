@@ -30,6 +30,11 @@
   * [关于「使徒 」](overview/faq/apostle-related.md)
   * [关于「拍卖」](overview/faq/auction-related.md)
   * [其他常见问题](overview/faq/others.md)
+* [人才招聘](overview/ren-cai-zhao-pin/README.md)
+  * [主游戏引擎 COCOS / Unity3D 工程师](overview/ren-cai-zhao-pin/zhu-you-xi-yin-qing-cocos-unity3d-gong-cheng-shi.md)
+  * [WEB前端工程师](overview/ren-cai-zhao-pin/web-qian-duan-gong-cheng-shi.md)
+  * [游戏策划（数值/战斗）](overview/ren-cai-zhao-pin/you-xi-ce-hua-shu-zhi-zhan-dou.md)
+  * [增长黑客经理](overview/ren-cai-zhao-pin/zeng-chang-hei-ke-jing-li.md)
 
 ## 基础入门 <a href="#getting-started" id="getting-started"></a>
 
