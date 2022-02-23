@@ -38,6 +38,7 @@
 
 ## 基础入门 <a href="#getting-started" id="getting-started"></a>
 
+* [选择大陆](getting-started/xuan-ze-da-lu.md)
 * [新手上路](getting-started/get-started/README.md)
   * [准备工作](getting-started/get-started/preparation.md)
   * [理解钱包](getting-started/get-started/wallets.md)
