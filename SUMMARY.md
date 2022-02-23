@@ -35,7 +35,7 @@
 
 ## Getting Started
 
-* [Choose start continent](getting-started/choose-start-continent.md)
+* [Choose Start Continent](getting-started/choose-start-continent.md)
 * [Get Started](getting-started/get-started/README.md)
   * [Preparation](getting-started/get-started/preparation.md)
   * [Cryptocurrency Wallet?](getting-started/get-started/wallets.md)
