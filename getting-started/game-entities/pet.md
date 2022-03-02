@@ -12,7 +12,7 @@ description: 想要驯服一只谜恋猫作为使徒的宠物么
 
 目前，玩家首次绑定宠物时，其使徒的挖矿能力将增强（矿工是第一个也是目前仅有的职业）。在未来，使徒的战斗能力，治疗能力等也可以通过驯化携带宠物来增强。
 
-可爱萌宠迷恋猫将是第一个来到进化星球的宠物，之后进化星球将引入更多的 ERC721 资产以供玩家选择。玩家可以在进化星球首页 &gt;&gt; 左上角菜单 &gt;&gt; 「我的宠物」中查看自己的宠物。
+可爱萌宠迷恋猫将是第一个来到进化星球的宠物，之后进化星球将引入更多的 ERC721 资产以供玩家选择。玩家可以在进化星球首页 >> 左上角菜单 >> 「我的宠物」中查看自己的宠物。
 
 ![](../../.gitbook/assets/pet00.png)
 
@@ -32,5 +32,6 @@ description: 想要驯服一只谜恋猫作为使徒的宠物么
 
 查看以下教程了解如何在亚特兰蒂斯大陆上驯服谜恋猫。
 
-{% page-ref page="../../tutorials/atlantis-ethereum/how-to-tame-a-pet.md" %}
-
+{% content-ref url="../../advanced/how-to-tame-a-pet.md" %}
+[how-to-tame-a-pet.md](../../advanced/how-to-tame-a-pet.md)
+{% endcontent-ref %}

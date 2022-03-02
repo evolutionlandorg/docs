@@ -88,13 +88,13 @@
   * [分红](advanced/evolution-land-dao/dividends.md)
 * [淘金热](advanced/gold-rush.md)
 * [农场](advanced/nong-chang.md)
+* [如何驯服宠物](advanced/how-to-tame-a-pet.md)
 
 ## 教程 <a href="#tutorials" id="tutorials"></a>
 
 * [亚特兰蒂斯大陆 - 以太坊](tutorials/atlantis-ethereum/README.md)
   * [以太坊相关知识](tutorials/atlantis-ethereum/about-ethereum.md)
   * [如何购买/出售RING？](tutorials/atlantis-ethereum/how-to-buy-sell-ring.md)
-  * [如何驯服宠物](tutorials/atlantis-ethereum/how-to-tame-a-pet.md)
 * [拜占庭大陆 - 波场](tutorials/byzantine-tron/README.md)
   * [波场相关知识](tutorials/byzantine-tron/about-tron.md)
   * [如何购买/出售RING？](tutorials/byzantine-tron/how-to-buy-sell-ring.md)
