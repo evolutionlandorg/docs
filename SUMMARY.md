@@ -43,7 +43,6 @@
   * [Ways to Play](getting-started/get-started/ways-to-play.md)
   * [How to buy/sell/gift 【lands】 and related operations](getting-started/get-started/how-to-buy-sell-gift-lands-and-related-operations.md)
   * [How to buy/sell/gift 【apostles】 and related operations](getting-started/get-started/how-to-buy-sell-gift-apostles-and-related-operations-1.md)
-  * [How to tame a pet](getting-started/get-started/how-to-tame-a-pet.md)
 * [Game Entities](getting-started/game-entities/README.md)
   * [World](getting-started/game-entities/world.md)
   * [Continent](getting-started/game-entities/continent.md)
@@ -84,6 +83,7 @@
   * [Dividends](advanced/evolution-land-dao/dividends.md)
 * [Gold Rush](advanced/gold-rush.md)
 * [Farm](advanced/farm.md)
+* [How to tame a pet](advanced/how-to-tame-a-pet.md)
 
 ## Tutorials
 
