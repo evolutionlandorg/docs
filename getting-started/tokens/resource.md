@@ -2,7 +2,7 @@
 
 资源是标准的同质化通证。你可以在下面找到资源的智能合约规格。进一步了解[资源](../game-entities/resource/)的用途
 
-## ![&#x91D1;](../../.gitbook/assets/goldicon.png) 金
+## ![金](../../.gitbook/assets/goldicon.png) 金
 
 **以太坊**（亚特兰蒂斯大陆）
 
@@ -28,7 +28,13 @@
 * 精度: `18`
 * 智能合约地址：`0x56746a8099a7e6D962802A23e01FeDdc1282cDAe`
 
-## ![&#x6728;](../../.gitbook/assets/woodicon.png) 木
+**Crab**（哥伦布大陆）
+
+* 规格: `ERC20`
+* 精度: `18`
+* 智能合约地址：`0x701A7d67B824D1Bc713FC5E77bE1C475Ec93106d`
+
+## ![木](../../.gitbook/assets/woodicon.png) 木
 
 **以太坊**（亚特兰蒂斯大陆）
 
@@ -54,7 +60,13 @@
 * 精度: `18`
 * 智能合约地址：`0xe97C7F83ec91E29569f1a08De95ad3Bb0e8B6B3A`
 
-## ![&#x6C34;](../../.gitbook/assets/watericon.png) 水
+**Crab**（哥伦布大陆）
+
+* 规格: `ERC20`
+* 精度: `18`
+* 智能合约地址：`0xbA91F2d6d78953881A912f3DF71a541cD30eb980`
+
+## ![水](../../.gitbook/assets/watericon.png) 水
 
 **以太坊**（亚特兰蒂斯大陆）
 
@@ -80,7 +92,13 @@
 * 精度: `18`
 * 智能合约地址：`0x81989cD57271565DBFfe9807E917Afc098B30c9A`
 
-## ![&#x706B;](../../.gitbook/assets/fireicon.png) 火
+**Crab**（哥伦布大陆）
+
+* 规格: `ERC20`
+* 精度: `18`
+* 智能合约地址：`0x54Eb408696E6b3Cc1795Caaf53B22F38F24200Fa`
+
+## ![火](../../.gitbook/assets/fireicon.png) 火
 
 **以太坊**（亚特兰蒂斯大陆）
 
@@ -106,7 +124,13 @@
 * 精度: `18`
 * 智能合约地址：`0x8216981a3eF2b45C705119644D0D48AcF7d14472`
 
-## ![&#x571F;](../../.gitbook/assets/soilicon.png) 土
+**Crab**（哥伦布大陆）
+
+* 规格: `ERC20`
+* 精度: `18`
+* 智能合约地址：`0xEd969c03e8881371754231FE1C8f1D4fE4AF2082`
+
+## ![土](../../.gitbook/assets/soilicon.png) 土
 
 **以太坊**（亚特兰蒂斯大陆）
 
@@ -132,3 +156,8 @@
 * 精度: `18`
 * 智能合约地址：`0x2D8822a54fe8966891cEF3aC5A29d3B916393739`
 
+**Crab**（哥伦布大陆）
+
+* 规格: `ERC20`
+* 精度: `18`
+* 智能合约地址：`0x9AC045F4B69C2DB58fDF70D4bEF8228ef5A2C5a8`

@@ -52,7 +52,11 @@ RING 被达尔文网络设定为以大约 5% 的速率膨胀，以支付验证�
 * 精度：18
 * 智能合约地址：0x9C1C23E60B72Bc88a043bf64aFdb16A02540Ae8f
 
+Crab链（哥伦布大陆）
 
+* 规格：ERC20
+* 精度：9
+* 智能合约地址：0x7399Ea6C9d35124d893B8d9808930e9d3F211501
 
 ## 常见问题
 
@@ -60,9 +64,9 @@ RING 被达尔文网络设定为以大约 5% 的速率膨胀，以支付验证�
 
 是的，各种区块链网络上的 RING 具有相同的价值，在达尔文主网均有对应的资产背书。使用达尔文桥（加密货币支持模型），原生 RING 可以跨链到其他区块链网络并返回。区块链之间的桥逐步释放，目前的情况如下：
 
-* 以太坊 -&gt; 达尔文桥：[已开启](https://docs.darwinia.network/docs/zh-CN/wiki-tut-wormhole-e2d/)
-* 达尔文 -&gt; 以太坊桥: [已开启](https://docs.darwinia.network/docs/zh-CN/wiki-tut-wormhole-d2e/)
-* 以太坊 &lt;-&gt; 波场双向桥：已开启（PoA 模型）
+* 以太坊 -> 达尔文桥：[已开启](https://docs.darwinia.network/docs/zh-CN/wiki-tut-wormhole-e2d/)
+* 达尔文 -> 以太坊桥: [已开启](https://docs.darwinia.network/docs/zh-CN/wiki-tut-wormhole-d2e/)
+* 以太坊 <-> 波场双向桥：已开启（PoA 模型）
 
 ### 我该如何购买/出售 RING？
 
@@ -87,5 +91,4 @@ RING 被达尔文网络设定为以大约 5% 的速率膨胀，以支付验证�
 
 点击右侧领取，即可发送交易领取相应数量的 RING。
 
-![&#x53EF;&#x9886;&#x53D6;&#x7684; RING](../../.gitbook/assets/unclaimed-ring-cn.png)
-
+![可领取的 RING](../../.gitbook/assets/unclaimed-ring-cn.png)
