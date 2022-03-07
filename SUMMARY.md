@@ -99,7 +99,7 @@
   * [Token Address](tutorials/columbus-crab/token-address.md)
   * [Land allocation](tutorials/columbus-crab/land-allocation.md)
   * [RPC](tutorials/columbus-crab/rpc.md)
-  * [Token Address](tutorials/columbus-crab/token-address-1.md)
+  * [Token Address](<tutorials/columbus-crab/token-address (1).md>)
 * [Dawning - Heco](tutorials/dawning-heco/README.md)
   * [Token Address](tutorials/dawning-heco/token-address.md)
   * [Land allocation](tutorials/dawning-heco/land-allocation.md)
