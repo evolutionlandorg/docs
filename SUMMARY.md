@@ -99,6 +99,7 @@
   * [波场相关知识](tutorials/byzantine-tron/about-tron.md)
   * [如何购买/出售RING？](tutorials/byzantine-tron/how-to-buy-sell-ring.md)
 * [哥伦布大陆 - Crab](tutorials/ge-lun-bu-da-lu-crab/README.md)
+  * [Token地址](tutorials/ge-lun-bu-da-lu-crab/token-di-zhi.md)
   * [RPC](tutorials/ge-lun-bu-da-lu-crab/rpc.md)
   * [地块分配](tutorials/ge-lun-bu-da-lu-crab/di-kuai-fen-pei.md)
 * [拂晓大陆 - 火币生态链](tutorials/fu-xiao-da-lu-huo-bi-sheng-tai-lian/README.md)
