@@ -4,6 +4,8 @@ RING: 0x7399Ea6C9d35124d893B8d9808930e9d3F211501
 
 
 
+{% embed url="https://www.evolution.land/tokenlists/crab.evolutionland.tokenlist.json" %}
+
 GOLD: 0x701A7d67B824D1Bc713FC5E77bE1C475Ec93106d
 
 WOOD: 0xbA91F2d6d78953881A912f3DF71a541cD30eb980
