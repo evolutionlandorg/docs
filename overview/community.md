@@ -6,13 +6,11 @@ description: 欢迎加入我们的社区
 
 你可以通过以下方式找到我们的社区，了解更多有关进化星球的最新动态。
 
-* 游戏地址：[https://evolution.land](https://evolution.land) 
-* 游戏指南：[https://docs.evolution.land](https://docs.evolution.land)
-* Telegram：[https://t.me/evolutionland9](https://t.me/evolutionland9)
-* 讨论组： [https://talk.darwinia.network](https://talk.darwinia.network)
-* Twitter：[https://twitter.com/DarwiniaNetwork](https://twitter.com/DarwiniaNetwork)
-* Github：[https://github.com/evolutionlandorg](https://github.com/evolutionlandorg)
-* Discord：[https://discord.gg/FpWudedZ](https://discord.gg/FpWudedZ)
+* Website: [https://evolution.land](https://evolution.land)&#x20;
+* Twitter: [https://twitter.com/Evolution\_Land](https://twitter.com/Evolution\_Land)
+* Telegram: [https://t.me/evolutionland9](https://t.me/evolutionland9)
+* User Guide: [https://docs.evolution.land](https://docs.evolution.land)
+* Discord: [https://discord.gg/VWfzzm9BuJ](https://discord.gg/VWfzzm9BuJ)
+* Reddit: [https://www.reddit.com/r/EvolutionLand/](https://www.reddit.com/r/EvolutionLand/)
 
 开发者可以参与贡献并帮助进化星球的发展。请点击[开发者](developers.md)。
-
