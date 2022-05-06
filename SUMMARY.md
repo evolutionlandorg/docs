@@ -73,6 +73,7 @@
 
 ## 进阶玩家 <a href="#advanced" id="advanced"></a>
 
+* [🙏 元素祈福](advanced/yuan-su-qi-fu.md)
 * [🏫 职业](advanced/zhi-ye.md)
 * [⚔ 装备](advanced/zhuang-bei.md)
 * [🚩 洞穴探险](advanced/dong-xue-tan-xian.md)

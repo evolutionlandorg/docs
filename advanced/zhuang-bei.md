@@ -2,7 +2,7 @@
 
 装备将会提高使徒的能力。
 
-![](<../.gitbook/assets/image (26).png>)
+![](<../.gitbook/assets/image (26) (1).png>)
 
 ![](<../.gitbook/assets/image (21).png>)
 
