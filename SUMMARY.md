@@ -69,6 +69,7 @@
 
 ## Advanced
 
+* [🙏 Pray](advanced/pray.md)
 * [🏫 Profession](advanced/profession.md)
 * [⚔ Equipment](advanced/equipment.md)
 * [🚩 Cave Explore](advanced/cave-explore.md)
