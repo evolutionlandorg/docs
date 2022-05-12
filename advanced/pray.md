@@ -16,8 +16,8 @@ Players can spend resources to pray to them. There are 2 types of prayers to cho
 
 | Type      | Rate of winning resource-rich land | Rate of winning Gen-0 apostle |
 | --------- | ---------------------------------- | ----------------------------- |
-| 10 Token  | 0.9%                               | 0.1%                          |
-| 100 Token | 9%                                 | 1%                            |
+| 10 Token  | 0.1%                               | 0.9%                          |
+| 100 Token | 1%                                 | 9%                            |
 
 When the resource-rich lands in the five elves’ contracts are all acquired by the players, the list of the resource-rich land will be reset, and a new round of Pray will be started.
 
