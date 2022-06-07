@@ -69,6 +69,7 @@
 
 ## Advanced
 
+* [🥷 Apostle Arena](advanced/apostle-arena.md)
 * [🙏 Pray](advanced/pray.md)
 * [🏫 Profession](advanced/profession.md)
 * [⚔ Equipment](advanced/equipment.md)
