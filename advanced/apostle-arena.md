@@ -88,4 +88,40 @@ In the future, other NFTs can be introduced into the PVP gameplay by Evolution L
 
 NFTs will have similar initial properties, with slight differences depending on their rarity.
 
-\
+### FAQs
+
+**Q: how do we determine y in the formula?**
+
+A: y is 10 now, and could be decied by DAO.
+
+**Q: what’s the average cost for the player to go in with the pass?**
+
+A: 20USDT for the pass if you have already holding an NFT
+
+**Q: what’s the assumed top-10 avg prize size?**
+
+if there are 100 people, top 10 prizes(USDT):&#x20;
+
+1st 140&#x20;
+
+2nd 126&#x20;
+
+3rd 113.4&#x20;
+
+4th 102.06
+
+5th 91.85
+
+6th 82.66&#x20;
+
+7th 74.40
+
+8th 66.96&#x20;
+
+9th 60.26&#x20;
+
+10th 54.23
+
+**Q: what’s the assumed median prize size as per your estimated leaderboard?**
+
+If there are 100 players, the median prize size would be 0.8 USDT
