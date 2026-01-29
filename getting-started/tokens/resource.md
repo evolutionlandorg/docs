@@ -22,11 +22,6 @@ The resources are standard fungible tokens (ERC20/TRC20). You can find their sma
     * Precision: `18`
     * Smart Contract Address (Polygon):`0x56746a8099a7e6D962802A23e01FeDdc1282cDAe`
 
-    Crab (the Columbus Continent)
-
-    * Spec: `ERC20`
-    * Precision: `18`
-    * Smart Contract Address (Crab):`0x701A7d67B824D1Bc713FC5E77bE1C475Ec93106d`
 
 ## ![WOOD](../../.gitbook/assets/woodicon.png) WOOD
 
@@ -48,11 +43,6 @@ The resources are standard fungible tokens (ERC20/TRC20). You can find their sma
     * Precision: `18`
     * Smart Contract Address (Polygon): `0xe97C7F83ec91E29569f1a08De95ad3Bb0e8B6B3A`
 
-    Crab (the Columbus Continent)
-
-    * Spec: `ERC20`
-    * Precision: `18`
-    * Smart Contract Address (Crab):`0xbA91F2d6d78953881A912f3DF71a541cD30eb980`
 
 ## ![WATER](../../.gitbook/assets/watericon.png) HOO
 
@@ -74,12 +64,6 @@ The resources are standard fungible tokens (ERC20/TRC20). You can find their sma
     * Precision: `18`
     * Smart Contract Address (Polygon): `0x81989cD57271565DBFfe9807E917Afc098B30c9A`
 
-    Crab (the Columbus Continent)
-
-    * Spec: `ERC20`
-    * Precision: `18`
-    * Smart Contract Address (Crab):`0x54Eb408696E6b3Cc1795Caaf53B22F38F24200Fa`
-
 ## ![FIRE](../../.gitbook/assets/fireicon.png) FIRE
 
 * Ethereum (the Atlantis Continent)
@@ -100,11 +84,6 @@ The resources are standard fungible tokens (ERC20/TRC20). You can find their sma
     * Precision: `18`
     * Smart Contract Address (Polygon): `0x8216981a3eF2b45C705119644D0D48AcF7d14472`
 
-    Crab (the Columbus Continent)
-
-    * Spec: `ERC20`
-    * Precision: `18`
-    * Smart Contract Address (Crab):`0xEd969c03e8881371754231FE1C8f1D4fE4AF2082`
 
 ## ![SIOO](../../.gitbook/assets/soilicon.png) SIOO
 
@@ -125,9 +104,3 @@ The resources are standard fungible tokens (ERC20/TRC20). You can find their sma
     * Spec: `ERC20`
     * Precision: `18`
     * Smart Contract Address (Polygon): `0x2D8822a54fe8966891cEF3aC5A29d3B916393739`
-
-    Crab (the Columbus Continent)
-
-    * Spec: `ERC20`
-    * Precision: `18`
-    * Smart Contract Address (Crab):`0x9AC045F4B69C2DB58fDF70D4bEF8228ef5A2C5a8`

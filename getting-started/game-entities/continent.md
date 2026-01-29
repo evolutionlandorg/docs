@@ -22,7 +22,6 @@ The continents will be launched one by one. Four continents exist today, they ar
 New continents are being planned. These are the candidate blockchains that we are evaluating according to their **user base**, **dapp prosperity**, **smart contract compatibility,** and **gas fee**.
 
 * Binance Smart Chain
-* Darwinia Crab Network
 * Darwinia Network
 * Polygon
 * Solana

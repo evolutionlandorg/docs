@@ -4,7 +4,5 @@ The fourth continent of Evolution Land, Dawning continent; based on the Huobi EC
 
 Evolution Land will reserve **298** Lands. In addition to the core area resource lands, there are also gold mines :construction\_site: , forests :evergreen\_tree: , lakes :ocean: , volcanoes :volcano: , hills⛰️, and other lands, which will be used for rewards distribution.
 
-**1000** Lands will be reserved for rewarding our supporters during the Crab and Darwinia Network Parachain Lease Offerings over the course of the lease time (two years.)
-
 The remaining **727** Lands will be sold by auction.
 
