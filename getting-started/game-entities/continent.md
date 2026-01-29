@@ -29,7 +29,6 @@
 新大陆正在不断开发中。以下是我们根据**用户基数**，**DApp 繁荣程度**，**智能合约兼容性**以及**燃料费**评估出的候选区块链。
 
 * Binance Smart Chain
-* Darwinia Crab Network
 * Darwinia Network
 * Polygon
 * Solana
